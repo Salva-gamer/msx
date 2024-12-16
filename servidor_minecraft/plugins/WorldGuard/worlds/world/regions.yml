@@ -17,8 +17,8 @@ regions:
         flags: {wither-damage: deny, creeper-explosion: deny, farewell-action: §lLeaving
                 §b§lluis_gamer_YT's §f§lprotected area, greeting-action: §lEntering
                 §b§lluis_gamer_YT's §f§lprotected area, greeting: §lEntering §b§lluis_gamer_YT's
-                §f§lprotected area, pvp: deny, tnt: deny, ps-home: 59.0 70.0 -411.0,
-            ghast-fireball: deny, ps-tax-autopayer: 9dc2a27b-9407-321a-a0fa-62f4fdbaee88,
+                §f§lprotected area, tnt: deny, ps-home: 59.0 70.0 -411.0, pvp: deny,
+            ps-tax-autopayer: 9dc2a27b-9407-321a-a0fa-62f4fdbaee88, ghast-fireball: deny,
             ps-block-material: EMERALD_ORE, farewell: §lLeaving §b§lluis_gamer_YT's
                 §f§lprotected area}
         owners:
@@ -32,8 +32,8 @@ regions:
         flags: {wither-damage: deny, creeper-explosion: deny, farewell-action: §lLeaving
                 §b§lluis_gamer_YT's §f§lprotected area, greeting-action: §lEntering
                 §b§lluis_gamer_YT's §f§lprotected area, greeting: §lEntering §b§lluis_gamer_YT's
-                §f§lprotected area, pvp: deny, tnt: deny, ps-home: 86.0 71.0 -389.0,
-            ghast-fireball: deny, ps-tax-autopayer: 9dc2a27b-9407-321a-a0fa-62f4fdbaee88,
+                §f§lprotected area, tnt: deny, ps-home: 86.0 71.0 -389.0, pvp: deny,
+            ps-tax-autopayer: 9dc2a27b-9407-321a-a0fa-62f4fdbaee88, ghast-fireball: deny,
             ps-block-material: DEEPSLATE_DIAMOND_ORE, farewell: §lLeaving §b§lluis_gamer_YT's
                 §f§lprotected area}
         owners:
