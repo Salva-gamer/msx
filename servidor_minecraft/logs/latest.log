@@ -870,3 +870,14 @@ java.lang.IllegalStateException: zip file closed
 [15:50:48] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: changeoutput [1.2.2]
 [15:50:48] [Server thread/INFO]: 4 placeholder hook(s) registered!
 [15:51:14] [Server thread/INFO]: luis_gamer_YT issued server command: /time set day
+[15:51:55] [Server thread/INFO]: luis_gamer_YT drowned
+[15:52:02] [Server thread/INFO]: luis_gamer_YT issued server command: /gamemode creative
+[15:52:13] [Server thread/INFO]: luis_gamer_YT issued server command: /asb switch example
+[15:52:31] [Server thread/INFO]: luis_gamer_YT issued server command: /eco give luis_gamer_YT 1000000000000
+[15:53:09] [Server thread/INFO]: Failed to find an expansion named: SimpleClans
+[15:55:48] [Server thread/WARN]: [CraftBook] §cWarning! You have no mechanics enabled, the plugin will appear to do nothing until a feature is enabled!
+[15:57:54] [Netty Epoll Server IO #2/WARN]: [io.netty.channel.AbstractChannelHandlerContext] An exception 'java.lang.IllegalStateException: zip file closed' [enable DEBUG level for full stacktrace] was thrown by a user handler's exceptionCaught() method while handling the following exception:
+io.netty.handler.timeout.ReadTimeoutException: null
+[15:57:54] [Server thread/INFO]: luis_gamer_YT lost connection: Disconnected
+[15:57:54] [Server thread/INFO]: luis_gamer_YT left the game
+[16:00:48] [Server thread/WARN]: [CraftBook] §cWarning! You have no mechanics enabled, the plugin will appear to do nothing until a feature is enabled!
