@@ -290,3 +290,60 @@
 [22:32:50] [Server thread/INFO]: luis_gamer_YT issued server command: /eco give luis_gamer_YT 100000000000000000000000000000
 [22:32:53] [Server thread/INFO]: luis_gamer_YT issued server command: /eco give luis_gamer_YT 1000000000000000
 [22:32:56] [Server thread/INFO]: luis_gamer_YT issued server command: /eco give luis_gamer_YT 100000000000
+[22:34:12] [Server thread/INFO]: luis_gamer_YT issued server command: /lp group default permission set minecraft.tag false
+[22:34:12] [luckperms-command-executor/INFO]: [LP] LOG > (luis_gamer_YT) [G] (default)
+[22:34:12] [luckperms-command-executor/INFO]: [LP] LOG > permission set minecraft.tag false
+[22:34:45] [Server thread/INFO]: luis_gamer_YT lost connection: Disconnected
+[22:34:45] [Server thread/INFO]: luis_gamer_YT left the game
+[22:34:52] [Server thread/INFO]: Stopping the server
+[22:34:52] [Server thread/INFO]: Stopping server
+[22:34:52] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.2.1-SNAPSHOT
+[22:34:52] [Server thread/INFO]: [ProtectionStones] Disabling ProtectionStones v2.10.5
+[22:34:52] [Server thread/INFO]: [Essentials] Disabling Essentials v2.21.0-dev+151-f2af952
+[22:34:52] [Server thread/INFO]: [Vault] [Economy] Essentials Economy unhooked.
+[22:34:52] [Server thread/INFO]: [LPC] Disabling LPC v3.6.0
+[22:34:52] [Server thread/INFO]: [SimpleTpa] Disabling SimpleTpa v7.4
+[22:34:52] [Server thread/INFO]: [SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9
+[22:34:52] [Server thread/INFO]: [SimpleTpa] Simple Tpa has been disabled on version 7.4
+[22:34:52] [Server thread/INFO]: [CraftBook] Disabling CraftBook v3.10.12-SNAPSHOT;no_git_id
+[22:34:52] [Server thread/INFO]: [CraftBook] Saving persistent data to YAML!
+[22:34:52] [Server thread/INFO]: [AnimatedScoreboard] Disabling AnimatedScoreboard v0.3.5
+[22:34:52] [Server thread/INFO]: [TAB] Disabling TAB v5.0.3
+[22:34:52] [Server thread/INFO]: [TAB] Disabled in 2ms
+[22:34:52] [Server thread/INFO]: [ClearLag] Disabling ClearLag v3.2.2
+[22:34:52] [Server thread/INFO]: [ClearLag] Clearlag is now disabled!
+[22:34:52] [Server thread/INFO]: [Clans] Disabling Clans v0.4.5
+[22:34:52] [Server thread/INFO]: [UltraSetHome] Disabling UltraSetHome v1.7.7
+[22:34:52] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.11.6
+[22:34:52] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v7.0.12+829a4a4
+[22:34:52] [Server thread/INFO]: [WorldGuard] Shutting down executor and cancelling any pending tasks...
+[22:34:52] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.3.9+6959-7adf70b
+[22:34:52] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[22:34:52] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
+[22:34:52] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.150
+[22:34:52] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[22:34:52] [Server thread/INFO]: [LuckPerms] Closing storage...
+[22:34:52] [Server thread/INFO]: [LuckPerms] Goodbye!
+[22:34:52] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.2.1-SNAPSHOT
+[22:34:52] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[22:34:52] [Server thread/INFO]: Saving players
+[22:34:52] [Server thread/INFO]: Saving worlds
+[22:34:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22:34:52] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[22:34:52] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[22:34:52] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[22:34:52] [Server thread/INFO]: [ChunkHolderManager] Saved 31 block chunks, 133 entity chunks, 0 poi chunks in world 'world' in 0.10s
+[22:34:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[22:34:52] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[22:34:52] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[22:34:52] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[22:34:52] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[22:34:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[22:34:52] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[22:34:52] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[22:34:52] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[22:34:52] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[22:34:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:34:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:34:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:34:52] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
