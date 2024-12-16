@@ -516,3 +516,37 @@
 [21:51:57] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: changeoutput [1.2.2]
 [21:51:57] [Server thread/INFO]: 4 placeholder hook(s) registered!
 [21:52:13] [Server thread/INFO]: luis_gamer_YT issued server command: /lp creategroup VIP
+[21:52:13] [luckperms-command-executor/INFO]: [LP] LOG > (luis_gamer_YT) [G] (vip)
+[21:52:13] [luckperms-command-executor/INFO]: [LP] LOG > create
+[21:54:27] [Server thread/INFO]: luis_gamer_YT issued server command: /lp group vip meta setprefix 85 "&5&nVIP"
+[21:54:27] [luckperms-command-executor/INFO]: [LP] LOG > (luis_gamer_YT) [G] (vip)
+[21:54:27] [luckperms-command-executor/INFO]: [LP] LOG > meta setprefix 85 &5&nVIP
+[21:55:22] [Server thread/INFO]: luis_gamer_YT issued server command: /lp group vip meta setprefix 85 "&5&f&nVIP"
+[21:55:22] [luckperms-command-executor/INFO]: [LP] LOG > (luis_gamer_YT) [G] (vip)
+[21:55:22] [luckperms-command-executor/INFO]: [LP] LOG > meta setprefix 85 &5&f&nVIP
+[21:55:57] [Server thread/INFO]: luis_gamer_YT issued server command: /lp group vip meta setprefix 85 "&5&3&nVIP"
+[21:55:57] [luckperms-command-executor/INFO]: [LP] LOG > (luis_gamer_YT) [G] (vip)
+[21:55:57] [luckperms-command-executor/INFO]: [LP] LOG > meta setprefix 85 &5&3&nVIP
+[21:56:18] [Server thread/INFO]: luis_gamer_YT issued server command: /lp group vip meta setprefix 85 "&5&b&nVIP"
+[21:56:18] [luckperms-command-executor/INFO]: [LP] LOG > (luis_gamer_YT) [G] (vip)
+[21:56:18] [luckperms-command-executor/INFO]: [LP] LOG > meta setprefix 85 &5&b&nVIP
+[21:56:56] [Server thread/INFO]: luis_gamer_YT issued server command: /lp user luis_gamer_YT parent add vip
+[21:56:56] [luckperms-command-executor/INFO]: [LP] LOG > (luis_gamer_YT) [U] (luis_gamer_yt)
+[21:56:56] [luckperms-command-executor/INFO]: [LP] LOG > parent add vip
+[21:56:56] [Server thread/WARN]: [CraftBook] §cWarning! You have no mechanics enabled, the plugin will appear to do nothing until a feature is enabled!
+[21:57:03] [Async Chat Thread - #0/INFO]: [Not Secure] [OWNER] luis_gamer_YT: hola
+[21:58:21] [Server thread/INFO]: luis_gamer_YT issued server command: /lp user luis_gamer_YT info
+[21:58:43] [Server thread/INFO]: luis_gamer_YT issued server command: /lp user luis_gamer_YT info
+[21:59:06] [Server thread/INFO]: luis_gamer_YT issued server command: /lp user luis_gamer_YT parent add owner
+[21:59:17] [Server thread/INFO]: luis_gamer_YT issued server command: /lp user info
+[21:59:23] [Server thread/INFO]: luis_gamer_YT issued server command: /lp user luis_gamer_YT ingo
+[21:59:28] [Server thread/INFO]: luis_gamer_YT issued server command: /lp user luis_gamer_YT info
+[22:00:07] [Server thread/INFO]: luis_gamer_YT issued server command: /lp user luis_gamer_YT info
+[22:00:12] [Server thread/INFO]: luis_gamer_YT issued server command: /lp user luis_gamer_YT parent add owner
+[22:01:48] [Server thread/INFO]: luis_gamer_YT issued server command: /lp user luis_gamer_YT parent remove vip
+[22:01:48] [luckperms-command-executor/INFO]: [LP] LOG > (luis_gamer_YT) [U] (luis_gamer_yt)
+[22:01:48] [luckperms-command-executor/INFO]: [LP] LOG > parent remove vip
+[22:01:56] [Server thread/WARN]: [CraftBook] §cWarning! You have no mechanics enabled, the plugin will appear to do nothing until a feature is enabled!
+[22:02:13] [Server thread/INFO]: luis_gamer_YT issued server command: /lp user luis_gamer_YT parent set owner
+[22:02:13] [luckperms-command-executor/INFO]: [LP] LOG > (luis_gamer_YT) [U] (luis_gamer_yt)
+[22:02:13] [luckperms-command-executor/INFO]: [LP] LOG > parent set owner
