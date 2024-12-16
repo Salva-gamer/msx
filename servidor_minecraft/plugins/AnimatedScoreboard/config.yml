@@ -8,9 +8,11 @@ worlds:
   global:
   - adminboard
   - globalscoreboard
+  - example
   world:
   - adminboard
   - defaultscoreboard
+  - example
   world_the_end: endscoreboard
   world_nether: netherscoreboard
 
