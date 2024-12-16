@@ -10,30 +10,30 @@
 # REMEMBER TO KEEP PERIODICAL BACKUPS.
 #
 regions:
-    ps33x71y-424z:
-        min: {x: -31, y: -32768, z: -488}
-        max: {x: 97, y: 32767, z: -360}
+    ps59x69y-411z:
+        min: {x: -5, y: -32768, z: -475}
+        max: {x: 123, y: 32767, z: -347}
         members: {}
         flags: {wither-damage: deny, creeper-explosion: deny, farewell-action: §lLeaving
                 §b§lluis_gamer_YT's §f§lprotected area, greeting-action: §lEntering
                 §b§lluis_gamer_YT's §f§lprotected area, greeting: §lEntering §b§lluis_gamer_YT's
-                §f§lprotected area, pvp: deny, ps-home: 33.0 72.0 -424.0, tnt: deny,
-            ps-tax-autopayer: 9dc2a27b-9407-321a-a0fa-62f4fdbaee88, ghast-fireball: deny,
+                §f§lprotected area, pvp: deny, tnt: deny, ps-home: 59.0 70.0 -411.0,
+            ghast-fireball: deny, ps-tax-autopayer: 9dc2a27b-9407-321a-a0fa-62f4fdbaee88,
             ps-block-material: EMERALD_ORE, farewell: §lLeaving §b§lluis_gamer_YT's
                 §f§lprotected area}
         owners:
             unique-ids: [9dc2a27b-9407-321a-a0fa-62f4fdbaee88]
         type: cuboid
         priority: 0
-    ps124x65y-404z:
-        min: {x: -101, y: -160, z: -629}
-        max: {x: 349, y: 290, z: -179}
+    ps86x70y-389z:
+        min: {x: -139, y: -155, z: -614}
+        max: {x: 311, y: 295, z: -164}
         members: {}
         flags: {wither-damage: deny, creeper-explosion: deny, farewell-action: §lLeaving
                 §b§lluis_gamer_YT's §f§lprotected area, greeting-action: §lEntering
                 §b§lluis_gamer_YT's §f§lprotected area, greeting: §lEntering §b§lluis_gamer_YT's
-                §f§lprotected area, pvp: deny, tnt: deny, ps-home: 124.0 66.0 -404.0,
-            ps-tax-autopayer: 9dc2a27b-9407-321a-a0fa-62f4fdbaee88, ghast-fireball: deny,
+                §f§lprotected area, pvp: deny, tnt: deny, ps-home: 86.0 71.0 -389.0,
+            ghast-fireball: deny, ps-tax-autopayer: 9dc2a27b-9407-321a-a0fa-62f4fdbaee88,
             ps-block-material: DEEPSLATE_DIAMOND_ORE, farewell: §lLeaving §b§lluis_gamer_YT's
                 §f§lprotected area}
         owners:

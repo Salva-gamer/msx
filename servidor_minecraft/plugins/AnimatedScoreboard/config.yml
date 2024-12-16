@@ -1,10 +1,10 @@
-#Here you can set per world scoreboards <worldname>:<filename>
-#If you don't add a world here it will not have a scoreboard in that world!
-#World has 2 scoreboards, it will activate them based on how they are
-#listed, in this example it will first look if players can have adminboard and if
-#not switch to defaultscoreboard
+# Here you can set per world scoreboards <worldname>:<filename>
+# If you don't add a world here it will not have a scoreboard in that world!
+# World has 2 scoreboards, it will activate them based on how they are
+# listed, in this example it will first look if players can have adminboard and if
+# not switch to defaultscoreboard
 worlds:
-  #The global scoreboard is not required and can be removed without causing any issues. The plugin will just hide the scoreboard in that case.
+  # The global scoreboard is not required and can be removed without causing any issues. The plugin will just hide the scoreboard in that case.
   global:
   - adminboard
   - globalscoreboard
@@ -16,7 +16,7 @@ worlds:
   world_the_end: endscoreboard
   world_nether: netherscoreboard
 
-#Now only players with the permission animatedscoreboard.test will get the scoreboard
+# Now only players with the permission animatedscoreboard.test will get the scoreboard
 permissions:
   adminboard: animatedscoreboard.test
 
@@ -30,7 +30,7 @@ debug_mode: false
 enable-triggers: false
 
 # What data storage should we use:
-# - YAML  : stores the player data in human readable form in playerdata.yml
+# - YAML: stores the player data in human readable form in playerdata.yml
 # - SQLITE: stores the player data in a local SQLite database called playerdata-sqlite.db
 player-storage: SQLITE
 
