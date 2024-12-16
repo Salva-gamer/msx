@@ -1,0 +1,245 @@
+[13:11:57] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.5+11-Ubuntu-1ubuntu120.04; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
+[13:11:57] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) for Minecraft 1.21
+[13:11:57] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[13:11:58] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Remapping plugin 'plugins/NametagEdit.jar'...
+[13:11:58] [Paper Plugin Remapper Thread - 3/INFO]: [PluginRemapper] Remapping plugin 'plugins/AnimatedScoreboard.jar'...
+[13:11:58] [Paper Plugin Remapper Thread - 0/INFO]: [PluginRemapper] Remapping plugin 'plugins/Vault.jar'...
+[13:11:58] [Paper Plugin Remapper Thread - 1/INFO]: [PluginRemapper] Remapping plugin 'plugins/Clans-0.4.5.jar'...
+[13:11:59] [Paper Plugin Remapper Thread - 1/INFO]: [PluginRemapper] Done remapping plugin 'plugins/Clans-0.4.5.jar' in 848ms.
+[13:11:59] [Paper Plugin Remapper Thread - 3/INFO]: [PluginRemapper] Done remapping plugin 'plugins/AnimatedScoreboard.jar' in 1287ms.
+[13:11:59] [Paper Plugin Remapper Thread - 0/INFO]: [PluginRemapper] Done remapping plugin 'plugins/Vault.jar' in 1211ms.
+[13:11:59] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Done remapping plugin 'plugins/NametagEdit.jar' in 1460ms.
+[13:12:00] [ServerMain/INFO]: [PluginInitializerManager] Initialized 13 plugins
+[13:12:00] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (13):
+ - AnimatedScoreboard (0.3.5), Clans (0.4.5), ClearLag (3.2.2), CraftBook (3.10.12-SNAPSHOT;no_git_id), NametagEdit (4.5.23), PlaceholderAPI (2.11.6), ProtectionStones (2.10.5), SimpleTpa (7.4), UltraSetHome (1.7.7), Vault (1.7.3-b131), ViaVersion (5.2.1-SNAPSHOT), WorldEdit (7.3.9+6959-7adf70b), WorldGuard (7.0.12+829a4a4)
+[13:12:06] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[13:12:09] [ServerMain/INFO]: Loaded 1290 recipes
+[13:12:09] [ServerMain/INFO]: Loaded 1399 advancements
+[13:12:10] [Server thread/INFO]: Starting minecraft server version 1.21
+[13:12:10] [Server thread/INFO]: Loading properties
+[13:12:10] [Server thread/INFO]: This server is running Paper version 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
+[13:12:11] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[13:12:11] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[13:12:11] [Server thread/INFO]: Using 4 threads for Netty based IO
+[13:12:12] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[13:12:13] [Server thread/INFO]: Default game type: SURVIVAL
+[13:12:13] [Server thread/INFO]: Generating keypair
+[13:12:13] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:12:13] [Server thread/INFO]: Using epoll channel type
+[13:12:13] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[13:12:13] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[13:12:16] [Server thread/INFO]: [Vault] Loading server plugin Vault v1.7.3-b131
+[13:12:16] [Server thread/INFO]: [WorldEdit] Loading server plugin WorldEdit v7.3.9+6959-7adf70b
+[13:12:18] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@38570946]
+[13:12:18] [Server thread/INFO]: [PlaceholderAPI] Loading server plugin PlaceholderAPI v2.11.6
+[13:12:18] [Server thread/INFO]: [WorldGuard] Loading server plugin WorldGuard v7.0.12+829a4a4
+[13:12:18] [Server thread/INFO]: [Clans] Loading server plugin Clans v0.4.5
+[13:12:18] [Server thread/INFO]: [ClearLag] Loading server plugin ClearLag v3.2.2
+[13:12:18] [Server thread/INFO]: [AnimatedScoreboard] Loading server plugin AnimatedScoreboard v0.3.5
+[13:12:18] [Server thread/INFO]: [UltraSetHome] Loading server plugin UltraSetHome v1.7.7
+[13:12:19] [Server thread/INFO]: [CraftBook] Loading server plugin CraftBook v3.10.12-SNAPSHOT;no_git_id
+[13:12:19] [Server thread/INFO]: [SimpleTpa] Loading server plugin SimpleTpa v7.4
+[13:12:19] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.2.1-SNAPSHOT
+[13:12:19] [Server thread/INFO]: [ViaVersion] ViaVersion 5.2.1-SNAPSHOT is now loaded. Registering protocol transformers and injecting...
+[13:12:20] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[13:12:21] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[13:12:23] [Server thread/INFO]: [ProtectionStones] Loading server plugin ProtectionStones v2.10.5
+[13:12:23] [Server thread/INFO]: [NametagEdit] Loading server plugin NametagEdit v4.5.23
+[13:12:23] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[13:12:23] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
+[13:12:23] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[13:12:23] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
+[13:12:23] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.3.9+6959-7adf70b
+[13:12:23] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[13:12:23] [Server thread/INFO]: WEPIF: Vault detected! Using Vault for permissions
+[13:12:24] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_21.PaperweightAdapter as the Bukkit adapter
+[13:12:27] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[13:12:27] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[13:12:27] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[13:12:27] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[13:12:27] [Server thread/INFO]: Preparing level "world"
+[13:12:28] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[13:12:30] [Server thread/INFO]: Time elapsed: 1918 ms
+[13:12:30] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[13:12:30] [Server thread/INFO]: Time elapsed: 424 ms
+[13:12:30] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[13:12:31] [Server thread/INFO]: Time elapsed: 123 ms
+[13:12:31] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.6
+[13:12:32] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[13:12:32] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.12+829a4a4
+[13:12:33] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[13:12:33] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[13:12:33] [Server thread/INFO]: [WorldGuard] (world) Lava fire is PERMITTED.
+[13:12:33] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[13:12:33] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[13:12:33] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+[13:12:33] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
+[13:12:33] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is PERMITTED.
+[13:12:33] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+[13:12:33] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[13:12:33] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+[13:12:33] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+[13:12:33] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is PERMITTED.
+[13:12:33] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+[13:12:33] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[13:12:33] [Server thread/INFO]: [WorldGuard] Loading region data...
+[13:12:34] [Server thread/INFO]: [Clans] Enabling Clans v0.4.5
+[13:12:34] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: clans [0.4.5]
+[13:12:34] [Server thread/INFO]: [ClearLag] Enabling ClearLag v3.2.2
+[13:12:34] [Server thread/INFO]: [ClearLag] Using version-adapter: LatestVersionAdapter
+[13:12:34] [Server thread/INFO]: [ClearLag] Loading modules...
+[13:12:34] [Server thread/WARN]: [ClearLag] Clearlag failed to use the internal TPS tracker during initialization. Reverted to estimation... (Index 3 out of bounds for length 3)
+[13:12:34] [Server thread/INFO]: [ClearLag] Modules enabed, loading config values
+[13:12:34] [Server thread/INFO]: [ClearLag] Modules have been loaded!
+[13:12:34] [Server thread/INFO]: [ClearLag] Clearlag is now enabled!
+[13:12:34] [Server thread/INFO]: [AnimatedScoreboard] Enabling AnimatedScoreboard v0.3.5
+[13:12:34] [Thread-10/WARN]: [ClearLag] Clearlag failed to check for updates - bukkit may be down
+[13:12:34] [Thread-10/WARN]: java.lang.ArrayIndexOutOfBoundsException: Index 3 out of bounds for length 3
+[13:12:34] [Thread-10/WARN]: 	at Clearlag.jar//me.minebuilders.clearlag.Util.getBukkitVersion(Util.java:105)
+[13:12:34] [Thread-10/WARN]: 	at Clearlag.jar//me.minebuilders.clearlag.BukkitUpdater.updateAvailable(BukkitUpdater.java:32)
+[13:12:34] [Thread-10/WARN]: 	at Clearlag.jar//me.minebuilders.clearlag.BukkitUpdater.run(BukkitUpdater.java:82)
+[13:12:34] [Thread-10/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[13:12:35] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: animatedscoreboard [0.0.1]
+[13:12:35] [Server thread/INFO]: [UltraSetHome] Enabling UltraSetHome v1.7.7
+[13:12:37] [Server thread/INFO]: [CraftBook] Enabling CraftBook v3.10.12-SNAPSHOT;no_git_id
+[13:12:37] [Server thread/INFO]: [CraftBook] Loading persistent data from YAML!
+[13:12:37] [Server thread/INFO]: [SimpleTpa] Enabling SimpleTpa v7.4
+[13:12:37] [Server thread/INFO]: [SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9
+[13:12:37] [Server thread/INFO]: [SimpleTpa] Simple Tpa has been enabled on version 7.4
+[13:12:37] [Server thread/INFO]: Enabled metrics. You may opt-out by changing plugins/bStats/config.yml
+[13:12:37] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: SimpleTpa [7.4]
+[13:12:37] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.2.1-SNAPSHOT
+[13:12:37] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21-1.21.1 (767)
+[13:12:38] [Server thread/INFO]: [ProtectionStones] Enabling ProtectionStones v2.10.5
+[13:12:38] [Server thread/INFO]: [WorldGuard] Registering session handler dev.espi.protectionstones.flags.GreetingFlagHandler
+[13:12:38] [Server thread/INFO]: [WorldGuard] Registering session handler dev.espi.protectionstones.flags.FarewellFlagHandler
+[13:12:38] [Server thread/WARN]: [ProtectionStones] No economy plugin found by Vault! There will be no economy support!
+[13:12:38] [Server thread/INFO]: [ProtectionStones] PlaceholderAPI support enabled!
+[13:12:38] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: protectionstones [2.10.5]
+[13:12:38] [Server thread/INFO]: [ProtectionStones] Protection Stone Blocks:
+[13:12:38] [Server thread/INFO]: [ProtectionStones] - DEEPSLATE_DIAMOND_ORE (510x150)
+[13:12:39] [Server thread/INFO]: [ProtectionStones] - EMERALD_ORE (64)
+[13:12:39] [Server thread/WARN]: org.bukkit.configuration.InvalidConfigurationException: expected '<document start>', but found '<scalar>'
+[13:12:39] [Server thread/WARN]:  in 'reader', line 15, column 1:
+[13:12:39] [Server thread/WARN]:     placing_cooldown = -1
+[13:12:39] [Server thread/WARN]:     ^
+[13:12:39] [Server thread/WARN]: 
+[13:12:39] [Server thread/WARN]: 	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:111)
+[13:12:39] [Server thread/WARN]: 	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:160)
+[13:12:39] [Server thread/WARN]: 	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:128)
+[13:12:39] [Server thread/WARN]: 	at ProtectionStones-2.10.5.jar//dev.espi.protectionstones.PSL.loadConfig(PSL.java:479)
+[13:12:39] [Server thread/WARN]: 	at ProtectionStones-2.10.5.jar//dev.espi.protectionstones.ProtectionStones.loadConfig(ProtectionStones.java:514)
+[13:12:39] [Server thread/WARN]: 	at ProtectionStones-2.10.5.jar//dev.espi.protectionstones.ProtectionStones.onEnable(ProtectionStones.java:612)
+[13:12:39] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:288)
+[13:12:39] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:202)
+[13:12:39] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109)
+[13:12:39] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520)
+[13:12:39] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:640)
+[13:12:39] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:589)
+[13:12:39] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.loadWorld0(MinecraftServer.java:754)
+[13:12:39] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.loadLevel(MinecraftServer.java:516)
+[13:12:39] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:329)
+[13:12:39] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1215)
+[13:12:39] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330)
+[13:12:39] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[13:12:39] [Server thread/WARN]: Caused by: expected '<document start>', but found '<scalar>'
+[13:12:39] [Server thread/WARN]:  in 'reader', line 15, column 1:
+[13:12:39] [Server thread/WARN]:     placing_cooldown = -1
+[13:12:39] [Server thread/WARN]:     ^
+[13:12:39] [Server thread/WARN]: 
+[13:12:39] [Server thread/WARN]: 	at org.yaml.snakeyaml.parser.ParserImpl$ParseDocumentStart.produce(ParserImpl.java:250)
+[13:12:39] [Server thread/WARN]: 	at org.yaml.snakeyaml.parser.ParserImpl.peekEvent(ParserImpl.java:161)
+[13:12:39] [Server thread/WARN]: 	at org.yaml.snakeyaml.parser.ParserImpl.checkEvent(ParserImpl.java:152)
+[13:12:39] [Server thread/WARN]: 	at org.yaml.snakeyaml.composer.Composer.getSingleNode(Composer.java:160)
+[13:12:39] [Server thread/WARN]: 	at org.yaml.snakeyaml.Yaml.compose(Yaml.java:575)
+[13:12:39] [Server thread/WARN]: 	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:104)
+[13:12:39] [Server thread/WARN]: 	... 17 more
+[13:12:39] [Server thread/WARN]: [ProtectionStones] Vault is not enabled! Economy functions (renting & buying) will not work!
+[13:12:39] [Server thread/INFO]: [ProtectionStones] Building region cache...
+[13:12:39] [Server thread/INFO]: [ProtectionStones] Building UUID cache... (if slow change async-load-uuid-cache in the config to true)
+[13:12:39] [Server thread/INFO]: [ProtectionStones] Checking if PS regions have been updated to UUIDs...
+[13:12:39] [Server thread/INFO]: [ProtectionStones] §fProtectionStones has successfully started!
+[13:12:39] [Server thread/INFO]: [NametagEdit] Enabling NametagEdit v4.5.23
+[13:12:39] [Server thread/ERROR]: Error occurred while enabling NametagEdit v4.5.23 (Is it up to date?)
+java.lang.ExceptionInInitializerError: null
+	at NametagEdit.jar/com.nametagedit.plugin.packets.PacketWrapper.<clinit>(PacketWrapper.java:28) ~[NametagEdit.jar:?]
+	at NametagEdit.jar/com.nametagedit.plugin.NametagEdit.testCompat(NametagEdit.java:103) ~[NametagEdit.jar:?]
+	at NametagEdit.jar/com.nametagedit.plugin.NametagEdit.onEnable(NametagEdit.java:39) ~[NametagEdit.jar:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:288) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:202) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:640) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:589) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.loadWorld0(MinecraftServer.java:754) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.loadLevel(MinecraftServer.java:516) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:329) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1215) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.ArrayIndexOutOfBoundsException: Index 3 out of bounds for length 3
+	at NametagEdit.jar/com.nametagedit.plugin.packets.PacketAccessor.<clinit>(PacketAccessor.java:15) ~[NametagEdit.jar:?]
+	... 15 more
+[13:12:39] [Server thread/INFO]: [NametagEdit] Disabling NametagEdit v4.5.23
+[13:12:39] [Server thread/ERROR]: Error occurred while disabling NametagEdit v4.5.23
+java.lang.NullPointerException: Cannot invoke "com.nametagedit.plugin.NametagManager.reset()" because "this.manager" is null
+	at NametagEdit.jar/com.nametagedit.plugin.NametagEdit.onDisable(NametagEdit.java:86) ~[NametagEdit.jar:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:291) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.disablePlugin(PaperPluginInstanceManager.java:237) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.disablePlugin(PaperPluginManagerImpl.java:114) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at org.bukkit.plugin.SimplePluginManager.disablePlugin(SimplePluginManager.java:550) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:206) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:640) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:589) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.loadWorld0(MinecraftServer.java:754) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.loadLevel(MinecraftServer.java:516) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:329) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1215) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[13:12:39] [Server thread/INFO]: [spark] Starting background profiler...
+[13:12:40] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[13:12:40] [Server thread/INFO]: Done preparing level "world" (13.344s)
+[13:12:40] [Server thread/INFO]: Running delayed init tasks
+[13:12:40] [Server thread/INFO]: [UltraSetHome] WorldGuard hooked successfully.
+[13:12:40] [Server thread/INFO]: 0 placeholder hook(s) registered!
+[13:12:40] [Server thread/INFO]: Done (44.371s)! For help, type "help"
+[13:12:40] [Server thread/INFO]: Timings Reset
+[13:12:40] [Craft Scheduler Thread - 8 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[13:12:40] [Craft Scheduler Thread - 8 - Vault/INFO]: [Vault] Checking for Updates ... 
+[13:12:40] [Craft Scheduler Thread - 9 - AnimatedScoreboard/INFO]: [AnimatedScoreboard] Checking for an update!
+[13:12:40] [Craft Scheduler Thread - 9 - AnimatedScoreboard/INFO]: [AnimatedScoreboard] No new versions found for the plugin!
+[13:12:40] [Craft Scheduler Thread - 8 - Vault/INFO]: [Vault] No new version available
+[13:12:40] [Server thread/INFO]: [ViaVersion] You are running a development version of the plugin, please report any bugs to GitHub.
+[13:12:40] [Server thread/WARN]: [UltraSetHome] *************************************************************
+[13:12:40] [Server thread/WARN]: [UltraSetHome] * There is a new version of UltraSetHome available!
+[13:12:40] [Server thread/WARN]: [UltraSetHome] *  
+[13:12:40] [Server thread/WARN]: [UltraSetHome] * Your version:   1.7.7
+[13:12:40] [Server thread/WARN]: [UltraSetHome] * Latest version: 1.7.9
+[13:12:40] [Server thread/WARN]: [UltraSetHome] *  
+[13:12:40] [Server thread/WARN]: [UltraSetHome] * Please update to the newest version.
+[13:12:40] [Server thread/WARN]: [UltraSetHome] *  
+[13:12:40] [Server thread/WARN]: [UltraSetHome] * Download:
+[13:12:40] [Server thread/WARN]: [UltraSetHome] *   https://www.spigotmc.org/resources/ultra-sethome.96934/
+[13:12:40] [Server thread/WARN]: [UltraSetHome] *************************************************************
+[13:12:41] [Server thread/WARN]: [CraftBook] §cWarning! You have no mechanics enabled, the plugin will appear to do nothing until a feature is enabled!
+[13:17:41] [Server thread/WARN]: [CraftBook] §cWarning! You have no mechanics enabled, the plugin will appear to do nothing until a feature is enabled!
+[13:19:29] [Server thread/INFO]: Unknown or incomplete command, see below for error
+/papi ecloud download Vault
+/papi ecloud download LuckPerms
+/papi ecloud download Clans
+/papi reload<--[HERE]
+[13:21:04] [placeholderapi-io-#1/INFO]: Successfully downloaded expansion Vault [1.8.3] to file: Expansion-vault.jar
+Make sure to type /papi reload to enable your new expansion!
+[13:21:04] [placeholderapi-io-#1/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[13:21:13] [placeholderapi-io-#3/INFO]: Successfully downloaded expansion LuckPerms [5.4-R2] to file: Expansion-luckperms.jar
+Make sure to type /papi reload to enable your new expansion!
+[13:21:13] [placeholderapi-io-#3/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[13:21:22] [Server thread/INFO]: Failed to find an expansion named: Clans
+[13:21:35] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[13:21:35] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[13:21:35] [Server thread/WARN]: [PlaceholderAPI] Cannot load expansion luckperms due to a missing plugin: LuckPerms
+[13:21:35] [Server thread/WARN]: [PlaceholderAPI] Cannot load expansion vault due to an unknown issue.
+[13:21:35] [Server thread/INFO]: 0 placeholder hook(s) registered!
