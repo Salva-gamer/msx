@@ -1,9 +1,16 @@
 {
-  "minecraft:recipes/transportation/mangrove_boat": {
+  "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
-      "in_water": "2024-12-16 18:20:01 +0000"
+      "unlock_right_away": "2024-12-16 18:16:20 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:taiga": "2024-12-16 18:16:21 +0000",
+      "minecraft:river": "2024-12-16 18:20:01 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
@@ -14,6 +21,18 @@
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2024-12-16 18:17:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2024-12-16 18:17:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-12-16 18:18:23 +0000"
     },
     "done": true
   },
@@ -29,15 +48,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+  "minecraft:recipes/decorations/white_bed": {
     "criteria": {
-      "has_mutton": "2024-12-16 18:17:27 +0000"
+      "has_white_wool": "2024-12-16 18:19:39 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/crafting_table": {
+  "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
-      "unlock_right_away": "2024-12-16 18:16:20 +0000"
+      "has_white_wool": "2024-12-16 18:19:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2024-12-16 18:20:01 +0000"
     },
     "done": true
   },
@@ -53,28 +78,9 @@
     },
     "done": true
   },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_something": "2024-12-16 18:18:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:taiga": "2024-12-16 18:16:21 +0000",
-      "minecraft:river": "2024-12-16 18:20:01 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/transportation/bamboo_raft": {
     "criteria": {
       "in_water": "2024-12-16 18:20:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/white_bed": {
-    "criteria": {
-      "has_white_wool": "2024-12-16 18:19:39 +0000"
     },
     "done": true
   },
@@ -84,27 +90,9 @@
     },
     "done": true
   },
-  "minecraft:husbandry/balanced_diet": {
-    "criteria": {
-      "mutton": "2024-12-16 18:20:33 +0000"
-    },
-    "done": false
-  },
-  "minecraft:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2024-12-16 18:20:33 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2024-12-16 18:20:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/white_carpet": {
-    "criteria": {
-      "has_white_wool": "2024-12-16 18:19:39 +0000"
     },
     "done": true
   },
@@ -123,6 +111,18 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2024-12-16 18:20:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "mutton": "2024-12-16 18:20:33 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-12-16 18:20:33 +0000"
     },
     "done": true
   },

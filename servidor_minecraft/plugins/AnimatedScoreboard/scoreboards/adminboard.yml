@@ -10,7 +10,7 @@ display:
   # You can also use placeholders here if you want.
   title:
     text:
-    - "&6&l(&1J&2C&lG)
+    - "&6&lTu Servidor"
     random: false
     interval: 2
   line-1:
