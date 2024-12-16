@@ -15,10 +15,13 @@
 #
 # To reload the configuration, run '/lpc reload' command. Make sure you have the 'lpc.reload' permission assigned.
 # More information can be found at https://www.spigotmc.org/resources/68965.
+
 chat-format: "{prefix}{name}&r: {message}"
 
 # Set the format per group.
 # Note: Option for more advanced users. Remove comments to run.
 group-formats:
-#  default: "[default] {name}&r: {message}"
-#  admin: "[admin] {name}&r: {message}"
+  default: "&7[Jugador] {name}&r: {message}"
+  admin: "&c[Admin] {name}&r: {message}"
+  VIP: "&6[VIP] {name}&r: {message}"
+  owner: "&4[Owner] {name}&r: {message}"
