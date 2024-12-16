@@ -10,7 +10,7 @@ display:
   # You can also use placeholders here if you want.
   title:
     text:
-    - "&6&l(JCG)"
+    - "&6&l(&1J&2C&lG)
     random: false
     interval: 2
   line-1:
@@ -45,7 +45,7 @@ display:
     score: 95
   line-6:
     text:
-    - "&cClan: %simpleclans_clan%"
+    - "&cRango: %luckperms_prefix%"
     random: false
     interval: 60
     score: 94

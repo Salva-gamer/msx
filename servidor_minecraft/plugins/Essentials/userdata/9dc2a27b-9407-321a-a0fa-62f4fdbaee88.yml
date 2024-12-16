@@ -16,15 +16,15 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1734364674880
-  login: 1734369951145
+  logout: 1734371799211
+  login: 1734372980587
 money: '1000000000000'
 logoutlocation:
   world: e128c6c4-5488-48ec-8d16-44a69f6a0b6b
   world-name: world
-  x: 59.6980003357702
-  y: 72.0
-  z: -421.6979939321575
-  yaw: -47.183441162109375
-  pitch: 24.730525970458984
+  x: 44.6298830276157
+  y: 64.0
+  z: -458.0031202323279
+  yaw: -58.59661865234375
+  pitch: 6.800551891326904
 last-account-name: luis_gamer_YT
