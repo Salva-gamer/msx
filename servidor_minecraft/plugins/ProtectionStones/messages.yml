@@ -12,7 +12,7 @@ region_negative_min_max_updated = true
 # ---------------------------------------------------------------------------------------
 
 # Tiempo de espera entre la colocación de bloques de protección (en segundos). -1 para desactivar.
-placing_cooldown = 1
+placing_cooldown = -1
 
 # Configura en true para no bloquear el inicio del servidor al cargar el caché de UUID.
 # /ps add y /ps remove no funcionarán para jugadores fuera de línea hasta que el caché termine de cargar.
