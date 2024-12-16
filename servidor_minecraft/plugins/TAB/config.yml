@@ -71,7 +71,6 @@ belowname-objective:
 prevent-spectator-effect:
   enabled: false
 
-# https://github.com/NEZNAMY/TAB/wiki/Feature-guide:-Bossbar
 bossbar:
   enabled: false
   toggle-command: /bossbar
@@ -272,13 +271,6 @@ global-playerlist:
       - server1
       - server2
 
-# Take permissions and groups from backend server instead of proxy
 use-bukkit-permissions-manager: false
-
-# Sometimes server might be using offline uuids in tablist instead of online, such as disabling waterfall's tablist rewrite option
-# If you experience tablist formatting not working, toggle this option (set it to opposite value)
-# Only affects proxies with online mode enabled
 use-online-uuid-in-tablist: true
-
-# If enabled and RedisBungee plugin is found, hook is enabled to work with players on all proxies
 enable-redisbungee-support: true
