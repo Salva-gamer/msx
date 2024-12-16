@@ -23,5 +23,5 @@ chat-format: "{prefix}{name}&r: {message}"
 group-formats:
   default: "&7[Jugador] {name}&r: {message}"
   admin: "&c&m[Admin] {name}&r: {message}"
-  VIP: "&6&n[VIP] {name}&r: {message}"
+  VIP: "&5&n[VIP] &5{name}&r: {message}"
   owner: "&6&l[OWNER] &f{name}&r: {message}"

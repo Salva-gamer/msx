@@ -3,7 +3,7 @@ teleportauto: false
 godmode: false
 muted: false
 jailed: false
-ip-address: ''
+ip-address: 192.168.192.29
 afk: false
 socialspy: false
 npc: false
@@ -17,7 +17,7 @@ timestamps:
   jail: 0
   onlinejail: 0
   logout: 1734378497118
-  login: 0
+  login: 1734385425748
 money: '0'
 logoutlocation:
   world: 1d282298-3ca9-4cc4-8d0d-a39c88df3759
@@ -27,3 +27,4 @@ logoutlocation:
   z: -41.79575170439569
   yaw: -152.6671142578125
   pitch: 29.643775939941406
+last-account-name: luis_gamer_YT
