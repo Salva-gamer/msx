@@ -10,7 +10,7 @@ display:
   # You can also use placeholders here if you want.
   title:
     text:
-    - "&6&lTu Servidor"
+    - "&6&l(JCG)"
     random: false
     interval: 2
   line-1:
@@ -45,7 +45,7 @@ display:
     score: 95
   line-6:
     text:
-    - "&cClan: %clans_clan%"
+    - "&cClan: %simpleclans_clan%"
     random: false
     interval: 60
     score: 94

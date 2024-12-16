@@ -41,3 +41,8 @@ expansions:
       medium: '&e'
       high: '&c'
       low: '&a'
+  simpleclans:
+    color:
+      ally: '&b'
+      same_clan: '&a'
+      rival: '&c'
