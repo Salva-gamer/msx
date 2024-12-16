@@ -570,3 +570,303 @@ Make sure to type /papi reload to enable your new expansion!
 [15:40:44] [Server thread/WARN]: [CraftBook] §cWarning! You have no mechanics enabled, the plugin will appear to do nothing until a feature is enabled!
 [15:40:45] [Server thread/INFO]: luis_gamer_YT issued server command: /shock luis_gamer_YT
 [15:41:00] [Server thread/INFO]: luis_gamer_YT issued server command: /shout luis_gamer_YT
+[15:44:23] [Server thread/INFO]: Failed to find an expansion named: SimpleClans
+[15:45:44] [Server thread/WARN]: [CraftBook] §cWarning! You have no mechanics enabled, the plugin will appear to do nothing until a feature is enabled!
+[15:48:18] [Server thread/INFO]: luis_gamer_YT was slain by Zombie
+[15:50:15] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[15:50:15] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[15:50:15] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: luckperms [5.4-R2]
+[15:50:15] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: player [2.0.8]
+[15:50:15] [Server thread/WARN]: [PlaceholderAPI] Cannot load expansion simpleclans due to a missing plugin: SimpleClans
+[15:50:15] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: vault [1.8.3]
+[15:50:15] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: changeoutput [1.2.2]
+[15:50:15] [Server thread/INFO]: 4 placeholder hook(s) registered!
+[15:50:28] [Server thread/INFO]: CONSOLE: Please note that this command is not supported and may cause issues when using some plugins.
+[15:50:28] [Server thread/INFO]: CONSOLE: If you encounter any issues please use the /stop command to restart your server.
+[15:50:28] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[15:50:28] [Server thread/INFO]: Using 4 threads for Netty based IO
+[15:50:28] [Server thread/INFO]: [ProtectionStones] Disabling ProtectionStones v2.10.5
+[15:50:28] [Server thread/INFO]: [Essentials] Disabling Essentials v2.21.0-dev+151-f2af952
+[15:50:28] [Server thread/INFO]: [Vault] [Economy] Essentials Economy unhooked.
+[15:50:28] [Server thread/ERROR]: [Essentials] There's a good chance you're reloading your server right now. If that's the case, why do you hate yourself? Expect no support from the EssentialsX team when using /reload.
+[15:50:28] [Server thread/INFO]: [SimpleTpa] Disabling SimpleTpa v7.4
+[15:50:28] [Server thread/INFO]: [SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9
+[15:50:28] [Server thread/INFO]: [SimpleTpa] Simple Tpa has been disabled on version 7.4
+[15:50:28] [Server thread/INFO]: [CraftBook] Disabling CraftBook v3.10.12-SNAPSHOT;no_git_id
+[15:50:28] [Server thread/INFO]: [CraftBook] Saving persistent data to YAML!
+[15:50:28] [Server thread/INFO]: [AnimatedScoreboard] Disabling AnimatedScoreboard v0.3.5
+[15:50:28] [Server thread/INFO]: [ClearLag] Disabling ClearLag v3.2.2
+[15:50:28] [Server thread/INFO]: [ClearLag] Clearlag is now disabled!
+[15:50:28] [Server thread/INFO]: [Clans] Disabling Clans v0.4.5
+[15:50:28] [Server thread/INFO]: [UltraSetHome] Disabling UltraSetHome v1.7.7
+[15:50:28] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.11.6
+[15:50:28] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v7.0.12+829a4a4
+[15:50:28] [Server thread/INFO]: [WorldGuard] Shutting down executor and cancelling any pending tasks...
+[15:50:28] [Server thread/ERROR]: Error occurred while disabling WorldGuard v7.0.12+829a4a4
+java.lang.IllegalStateException: zip file closed
+	at java.base/java.util.zip.ZipFile.ensureOpen(ZipFile.java:846) ~[?:?]
+	at java.base/java.util.zip.ZipFile.getEntry(ZipFile.java:338) ~[?:?]
+	at java.base/java.util.jar.JarFile.getEntry(JarFile.java:516) ~[?:?]
+	at java.base/java.util.jar.JarFile.getJarEntry(JarFile.java:471) ~[?:?]
+	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:209) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:593) ~[?:?]
+	at org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoader.java:169) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:164) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
+	at ProtectionStones-2.10.5.jar/dev.espi.protectionstones.flags.FarewellFlagHandler.onAbsentValue(FarewellFlagHandler.java:73) ~[ProtectionStones-2.10.5.jar:?]
+	at ProtectionStones-2.10.5.jar/dev.espi.protectionstones.flags.FarewellFlagHandler.onAbsentValue(FarewellFlagHandler.java:37) ~[ProtectionStones-2.10.5.jar:?]
+	at worldguard-bukkit-7.0.12-dist.jar/com.sk89q.worldguard.session.handler.FlagValueChangeHandler.onClearValue(FlagValueChangeHandler.java:86) ~[worldguard-bukkit-7.0.12-dist.jar:?]
+	at worldguard-bukkit-7.0.12-dist.jar/com.sk89q.worldguard.session.handler.FlagValueChangeHandler.uninitialize(FlagValueChangeHandler.java:50) ~[worldguard-bukkit-7.0.12-dist.jar:?]
+	at worldguard-bukkit-7.0.12-dist.jar/com.sk89q.worldguard.session.Session.uninitialize(Session.java:144) ~[worldguard-bukkit-7.0.12-dist.jar:?]
+	at worldguard-bukkit-7.0.12-dist.jar/com.sk89q.worldguard.bukkit.session.BukkitSessionManager.shutdown(BukkitSessionManager.java:92) ~[worldguard-bukkit-7.0.12-dist.jar:?]
+	at worldguard-bukkit-7.0.12-dist.jar/com.sk89q.worldguard.bukkit.BukkitWorldGuardPlatform.unload(BukkitWorldGuardPlatform.java:149) ~[worldguard-bukkit-7.0.12-dist.jar:?]
+	at worldguard-bukkit-7.0.12-dist.jar/com.sk89q.worldguard.WorldGuard.disable(WorldGuard.java:206) ~[worldguard-bukkit-7.0.12-dist.jar:?]
+	at worldguard-bukkit-7.0.12-dist.jar/com.sk89q.worldguard.bukkit.WorldGuardPlugin.onDisable(WorldGuardPlugin.java:266) ~[worldguard-bukkit-7.0.12-dist.jar:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:291) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.disablePlugin(PaperPluginInstanceManager.java:237) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.disablePlugins(PaperPluginInstanceManager.java:161) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.clearPlugins(PaperPluginInstanceManager.java:167) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.clearPlugins(PaperPluginManagerImpl.java:102) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at org.bukkit.plugin.SimplePluginManager.clearPlugins(SimplePluginManager.java:607) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.CraftServer.reload(CraftServer.java:1092) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at org.bukkit.Bukkit.reload(Bukkit.java:1027) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:59) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:165) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.CraftServer.dispatchCommand(CraftServer.java:1000) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at org.bukkit.craftbukkit.CraftServer.dispatchServerCommand(CraftServer.java:985) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.dedicated.DedicatedServer.handleConsoleInputs(DedicatedServer.java:526) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:474) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1598) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1304) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[15:50:28] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.3.9+6959-7adf70b
+[15:50:28] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[15:50:28] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
+[15:50:28] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.150
+[15:50:28] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[15:50:28] [Server thread/INFO]: [LuckPerms] Closing storage...
+[15:50:28] [Server thread/INFO]: [LuckPerms] Goodbye!
+[15:50:28] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.2.1-SNAPSHOT
+[15:50:28] [Server thread/INFO]: [ViaVersion] ViaVersion is disabling. If this is a reload and you experience issues, please reboot instead.
+[15:50:28] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[15:50:29] [Server thread/INFO]: Loaded 1290 recipes
+[15:50:29] [Server thread/INFO]: Loaded 1399 advancements
+[15:50:29] [Server thread/INFO]: [PluginInitializerManager] Initializing plugins...
+[15:50:30] [Server thread/INFO]: [PluginInitializerManager] Initialized 14 plugins
+[15:50:30] [Server thread/INFO]: [PluginInitializerManager] Bukkit plugins (14):
+ - AnimatedScoreboard (0.3.5), Clans (0.4.5), ClearLag (3.2.2), CraftBook (3.10.12-SNAPSHOT;no_git_id), Essentials (2.21.0-dev+151-f2af952), LuckPerms (5.4.150), PlaceholderAPI (2.11.6), ProtectionStones (2.10.5), SimpleTpa (7.4), UltraSetHome (1.7.7), Vault (1.7.3-b131), ViaVersion (5.2.1-SNAPSHOT), WorldEdit (7.3.9+6959-7adf70b), WorldGuard (7.0.12+829a4a4)
+[15:50:32] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.2.1-SNAPSHOT
+[15:50:32] [Server thread/INFO]: [ViaVersion] ViaVersion 5.2.1-SNAPSHOT is now loaded. Registering protocol transformers and injecting...
+[15:50:32] [Server thread/ERROR]: [ViaVersion] ViaVersion is already loaded, this should work fine. If you get any console errors, try rebooting.
+[15:50:34] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[15:50:35] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[15:50:36] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.150
+[15:50:36] [Server thread/INFO]: [Vault] Loading server plugin Vault v1.7.3-b131
+[15:50:36] [Server thread/INFO]: [WorldEdit] Loading server plugin WorldEdit v7.3.9+6959-7adf70b
+[15:50:38] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@7434b579]
+[15:50:38] [Server thread/INFO]: [WorldGuard] Loading server plugin WorldGuard v7.0.12+829a4a4
+[15:50:38] [Server thread/INFO]: [PlaceholderAPI] Loading server plugin PlaceholderAPI v2.11.6
+[15:50:38] [Server thread/INFO]: [UltraSetHome] Loading server plugin UltraSetHome v1.7.7
+[15:50:38] [Server thread/INFO]: [Clans] Loading server plugin Clans v0.4.5
+[15:50:38] [Server thread/INFO]: [ClearLag] Loading server plugin ClearLag v3.2.2
+[15:50:38] [Server thread/INFO]: [AnimatedScoreboard] Loading server plugin AnimatedScoreboard v0.3.5
+[15:50:38] [Server thread/INFO]: [CraftBook] Loading server plugin CraftBook v3.10.12-SNAPSHOT;no_git_id
+[15:50:38] [Server thread/INFO]: [SimpleTpa] Loading server plugin SimpleTpa v7.4
+[15:50:38] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.21.0-dev+151-f2af952
+[15:50:38] [Server thread/INFO]: [ProtectionStones] Loading server plugin ProtectionStones v2.10.5
+[15:50:38] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[15:50:38] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.150
+[15:50:38] [Server thread/INFO]:         __    
+[15:50:38] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.150
+[15:50:38] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[15:50:38] [Server thread/INFO]: 
+[15:50:38] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[15:50:38] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[15:50:39] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[15:50:39] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[15:50:39] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 969ms)
+[15:50:39] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
+[15:50:39] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[15:50:39] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[15:50:39] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
+[15:50:39] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
+[15:50:39] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.3.9+6959-7adf70b
+[15:50:39] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[15:50:40] [Server thread/INFO]: WEPIF: Vault detected! Using Vault for permissions
+[15:50:40] [Server thread/WARN]: [WorldEdit] Server reload detected. This may cause various issues with WorldEdit and dependent plugins.
+[15:50:40] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_21.PaperweightAdapter as the Bukkit adapter
+[15:50:42] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.2.1-SNAPSHOT
+[15:50:42] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21-1.21.1 (767)
+[15:50:42] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.12+829a4a4
+[15:50:42] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[15:50:42] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[15:50:42] [Server thread/INFO]: [WorldGuard] (world) Lava fire is PERMITTED.
+[15:50:42] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[15:50:42] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[15:50:42] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+[15:50:42] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
+[15:50:42] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is PERMITTED.
+[15:50:42] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+[15:50:42] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[15:50:42] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+[15:50:42] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+[15:50:42] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is PERMITTED.
+[15:50:42] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+[15:50:42] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[15:50:42] [Server thread/INFO]: [WorldGuard] Loading region data...
+[15:50:43] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.6
+[15:50:43] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[15:50:43] [Server thread/INFO]: [UltraSetHome] Enabling UltraSetHome v1.7.7
+[15:50:44] [Server thread/INFO]: [Clans] Enabling Clans v0.4.5
+[15:50:44] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: clans [0.4.5]
+[15:50:44] [Server thread/INFO]: [ClearLag] Enabling ClearLag v3.2.2
+[15:50:44] [Server thread/INFO]: [ClearLag] Using version-adapter: LatestVersionAdapter
+[15:50:44] [Server thread/INFO]: [ClearLag] Loading modules...
+[15:50:44] [Server thread/WARN]: [ClearLag] Clearlag failed to use the internal TPS tracker during initialization. Reverted to estimation... (Index 3 out of bounds for length 3)
+[15:50:44] [Server thread/INFO]: [ClearLag] Modules enabed, loading config values
+[15:50:44] [Server thread/INFO]: [ClearLag] Modules have been loaded!
+[15:50:44] [Server thread/INFO]: [ClearLag] Clearlag is now enabled!
+[15:50:44] [Server thread/INFO]: [AnimatedScoreboard] Enabling AnimatedScoreboard v0.3.5
+[15:50:44] [Thread-49/WARN]: [ClearLag] Clearlag failed to check for updates - bukkit may be down
+[15:50:44] [Thread-49/WARN]: java.lang.ArrayIndexOutOfBoundsException: Index 3 out of bounds for length 3
+[15:50:44] [Thread-49/WARN]: 	at Clearlag.jar//me.minebuilders.clearlag.Util.getBukkitVersion(Util.java:105)
+[15:50:44] [Thread-49/WARN]: 	at Clearlag.jar//me.minebuilders.clearlag.BukkitUpdater.updateAvailable(BukkitUpdater.java:32)
+[15:50:44] [Thread-49/WARN]: 	at Clearlag.jar//me.minebuilders.clearlag.BukkitUpdater.run(BukkitUpdater.java:82)
+[15:50:44] [Thread-49/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[15:50:45] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: animatedscoreboard [0.0.1]
+[15:50:45] [Server thread/INFO]: [CraftBook] Enabling CraftBook v3.10.12-SNAPSHOT;no_git_id
+[15:50:45] [Server thread/INFO]: [CraftBook] Loading persistent data from YAML!
+[15:50:45] [Server thread/INFO]: [SimpleTpa] Enabling SimpleTpa v7.4
+[15:50:45] [Server thread/INFO]: [SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9
+[15:50:45] [Server thread/INFO]: [SimpleTpa] Simple Tpa has been enabled on version 7.4
+[15:50:45] [Server thread/INFO]: Enabled metrics. You may opt-out by changing plugins/bStats/config.yml
+[15:50:45] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: SimpleTpa [7.4]
+[15:50:45] [Server thread/INFO]: [Essentials] Enabling Essentials v2.21.0-dev+151-f2af952
+[15:50:45] [Folia Async Scheduler Thread Timer/INFO]: [UltraSetHome] [ACF] Can't read players locale, you will be unable to automatically detect players language. Only Bukkit 1.7+ is supported for this.
+[15:50:45] [Folia Async Scheduler Thread Timer/INFO]: [UltraSetHome] [ACF] java.lang.NoSuchFieldException: locale
+[15:50:45] [Folia Async Scheduler Thread Timer/INFO]: [UltraSetHome] [ACF] 	at java.base/java.lang.Class.getDeclaredField(Class.java:2782)
+[15:50:45] [Folia Async Scheduler Thread Timer/INFO]: [UltraSetHome] [ACF] 	at io.papermc.reflectionrewriter.runtime.AbstractDefaultRulesReflectionProxy.getDeclaredField(AbstractDefaultRulesReflectionProxy.java:90)
+[15:50:45] [Folia Async Scheduler Thread Timer/INFO]: [UltraSetHome] [ACF] 	at io.papermc.paper.pluginremap.reflect.PaperReflectionHolder.getDeclaredField(Unknown Source)
+[15:50:45] [Folia Async Scheduler Thread Timer/INFO]: [UltraSetHome] [ACF] 	at UltraSetHome-1.7.7.jar//me.cerexus.ultrasethome.acf.BukkitCommandManager.readPlayerLocale(BukkitCommandManager.java:325)
+[15:50:45] [Folia Async Scheduler Thread Timer/INFO]: [UltraSetHome] [ACF] 	at java.base/java.lang.Iterable.forEach(Iterable.java:75)
+[15:50:45] [Folia Async Scheduler Thread Timer/INFO]: [UltraSetHome] [ACF] 	at java.base/java.util.Collections$UnmodifiableCollection.forEach(Collections.java:1116)
+[15:50:45] [Folia Async Scheduler Thread Timer/INFO]: [UltraSetHome] [ACF] 	at UltraSetHome-1.7.7.jar//me.cerexus.ultrasethome.acf.BukkitCommandManager.lambda$new$1(BukkitCommandManager.java:136)
+[15:50:45] [Folia Async Scheduler Thread Timer/INFO]: [UltraSetHome] [ACF] 	at UltraSetHome-1.7.7.jar//me.cerexus.ultrasethome.acf.ACFFoliaScheduler.lambda$createLocaleTask$1(ACFFoliaScheduler.java:51)
+[15:50:45] [Folia Async Scheduler Thread Timer/INFO]: [UltraSetHome] [ACF] 	at io.papermc.paper.threadedregions.scheduler.FoliaAsyncScheduler$AsyncScheduledTask.run(FoliaAsyncScheduler.java:217)
+[15:50:45] [Folia Async Scheduler Thread Timer/INFO]: [UltraSetHome] [ACF] 	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+[15:50:45] [Folia Async Scheduler Thread Timer/INFO]: [UltraSetHome] [ACF] 	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+[15:50:45] [Folia Async Scheduler Thread Timer/INFO]: [UltraSetHome] [ACF] 	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:304)
+[15:50:45] [Folia Async Scheduler Thread Timer/INFO]: [UltraSetHome] [ACF] 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+[15:50:45] [Folia Async Scheduler Thread Timer/INFO]: [UltraSetHome] [ACF] 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+[15:50:45] [Folia Async Scheduler Thread Timer/INFO]: [UltraSetHome] [ACF] 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[15:50:45] [Server thread/ERROR]: [Essentials] You are running an unsupported server version!
+[15:50:46] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[15:50:46] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[15:50:46] [Server thread/INFO]: [Essentials] Loaded 43465 items from items.json.
+[15:50:46] [Server thread/INFO]: [Essentials] Using locale en
+[15:50:46] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[15:50:46] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[15:50:46] [Server thread/INFO]: [UltraSetHome] Essentials hooked successfully.
+[15:50:46] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
+[15:50:46] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
+[15:50:46] [Server thread/INFO]: [ProtectionStones] Enabling ProtectionStones v2.10.5
+[15:50:46] [Server thread/INFO]: [WorldGuard] Registering session handler dev.espi.protectionstones.flags.GreetingFlagHandler
+[15:50:46] [Server thread/INFO]: [WorldGuard] Registering session handler dev.espi.protectionstones.flags.FarewellFlagHandler
+[15:50:47] [Server thread/INFO]: [ProtectionStones] PlaceholderAPI support enabled!
+[15:50:47] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: protectionstones [2.10.5]
+[15:50:47] [Server thread/INFO]: [ProtectionStones] LuckPerms support enabled!
+[15:50:47] [Server thread/INFO]: [ProtectionStones] Protection Stone Blocks:
+[15:50:47] [Server thread/INFO]: [ProtectionStones] - DEEPSLATE_DIAMOND_ORE (510x150)
+[15:50:47] [Server thread/INFO]: [ProtectionStones] - EMERALD_ORE (64)
+[15:50:47] [Server thread/WARN]: org.bukkit.configuration.InvalidConfigurationException: expected '<document start>', but found '<scalar>'
+[15:50:47] [Server thread/WARN]:  in 'reader', line 15, column 1:
+[15:50:47] [Server thread/WARN]:     placing_cooldown = -1
+[15:50:47] [Server thread/WARN]:     ^
+[15:50:47] [Server thread/WARN]: 
+[15:50:47] [Server thread/WARN]: 	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:111)
+[15:50:47] [Server thread/WARN]: 	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:160)
+[15:50:47] [Server thread/WARN]: 	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:128)
+[15:50:47] [Server thread/WARN]: 	at ProtectionStones-2.10.5.jar//dev.espi.protectionstones.PSL.loadConfig(PSL.java:479)
+[15:50:47] [Server thread/WARN]: 	at ProtectionStones-2.10.5.jar//dev.espi.protectionstones.ProtectionStones.loadConfig(ProtectionStones.java:514)
+[15:50:47] [Server thread/WARN]: 	at ProtectionStones-2.10.5.jar//dev.espi.protectionstones.ProtectionStones.onEnable(ProtectionStones.java:612)
+[15:50:47] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:288)
+[15:50:47] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:202)
+[15:50:47] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109)
+[15:50:47] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520)
+[15:50:47] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:640)
+[15:50:47] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:589)
+[15:50:47] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.reload(CraftServer.java:1132)
+[15:50:47] [Server thread/WARN]: 	at org.bukkit.Bukkit.reload(Bukkit.java:1027)
+[15:50:47] [Server thread/WARN]: 	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:59)
+[15:50:47] [Server thread/WARN]: 	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:165)
+[15:50:47] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.dispatchCommand(CraftServer.java:1000)
+[15:50:47] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.dispatchServerCommand(CraftServer.java:985)
+[15:50:47] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.handleConsoleInputs(DedicatedServer.java:526)
+[15:50:47] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:474)
+[15:50:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1598)
+[15:50:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1304)
+[15:50:47] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330)
+[15:50:47] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[15:50:47] [Server thread/WARN]: Caused by: expected '<document start>', but found '<scalar>'
+[15:50:47] [Server thread/WARN]:  in 'reader', line 15, column 1:
+[15:50:47] [Server thread/WARN]:     placing_cooldown = -1
+[15:50:47] [Server thread/WARN]:     ^
+[15:50:47] [Server thread/WARN]: 
+[15:50:47] [Server thread/WARN]: 	at org.yaml.snakeyaml.parser.ParserImpl$ParseDocumentStart.produce(ParserImpl.java:250)
+[15:50:47] [Server thread/WARN]: 	at org.yaml.snakeyaml.parser.ParserImpl.peekEvent(ParserImpl.java:161)
+[15:50:47] [Server thread/WARN]: 	at org.yaml.snakeyaml.parser.ParserImpl.checkEvent(ParserImpl.java:152)
+[15:50:47] [Server thread/WARN]: 	at org.yaml.snakeyaml.composer.Composer.getSingleNode(Composer.java:160)
+[15:50:47] [Server thread/WARN]: 	at org.yaml.snakeyaml.Yaml.compose(Yaml.java:575)
+[15:50:47] [Server thread/WARN]: 	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:104)
+[15:50:47] [Server thread/WARN]: 	... 23 more
+[15:50:47] [Server thread/INFO]: [ProtectionStones] Building region cache...
+[15:50:47] [Server thread/INFO]: [ProtectionStones] Building UUID cache... (if slow change async-load-uuid-cache in the config to true)
+[15:50:47] [Server thread/INFO]: [ProtectionStones] Checking if PS regions have been updated to UUIDs...
+[15:50:47] [Server thread/INFO]: [ProtectionStones] §fProtectionStones has successfully started!
+[15:50:47] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[15:50:47] [Server thread/INFO]: CONSOLE: Reload complete.
+[15:50:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19535ms or 390 ticks behind
+[15:50:47] [Server thread/INFO]: Timings Reset
+[15:50:48] [Craft Scheduler Thread - 90 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[15:50:48] [Craft Scheduler Thread - 96 - AnimatedScoreboard/INFO]: [AnimatedScoreboard] Checking for an update!
+[15:50:48] [Craft Scheduler Thread - 93 - Essentials/INFO]: [Essentials] Fetching version information...
+[15:50:48] [Server thread/INFO]: [UltraSetHome] WorldGuard hooked successfully.
+[15:50:48] [Server thread/INFO]: [Essentials] Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.7.3-b131)!
+[15:50:48] [Server thread/INFO]: [ViaVersion] You are running a development version of the plugin, please report any bugs to GitHub.
+[15:50:48] [Craft Scheduler Thread - 95 - Vault/INFO]: [Vault] Checking for Updates ... 
+[15:50:48] [Craft Scheduler Thread - 96 - AnimatedScoreboard/INFO]: [AnimatedScoreboard] No new versions found for the plugin!
+[15:50:48] [Craft Scheduler Thread - 95 - Vault/INFO]: [Vault] No new version available
+[15:50:48] [Server thread/WARN]: [UltraSetHome] *************************************************************
+[15:50:48] [Server thread/WARN]: [UltraSetHome] * There is a new version of UltraSetHome available!
+[15:50:48] [Server thread/WARN]: [UltraSetHome] *  
+[15:50:48] [Server thread/WARN]: [UltraSetHome] * Your version:   1.7.7
+[15:50:48] [Server thread/WARN]: [UltraSetHome] * Latest version: 1.7.9
+[15:50:48] [Server thread/WARN]: [UltraSetHome] *  
+[15:50:48] [Server thread/WARN]: [UltraSetHome] * Please update to the newest version.
+[15:50:48] [Server thread/WARN]: [UltraSetHome] *  
+[15:50:48] [Server thread/WARN]: [UltraSetHome] * Download:
+[15:50:48] [Server thread/WARN]: [UltraSetHome] *   https://www.spigotmc.org/resources/ultra-sethome.96934/
+[15:50:48] [Server thread/WARN]: [UltraSetHome] *************************************************************
+[15:50:48] [Server thread/WARN]: [CraftBook] §cWarning! You have no mechanics enabled, the plugin will appear to do nothing until a feature is enabled!
+[15:50:48] [Folia Async Scheduler Thread #3/INFO]: [Essentials] [ACF] Can't read players locale, you will be unable to automatically detect players language. Only Bukkit 1.7+ is supported for this.
+[15:50:48] [Folia Async Scheduler Thread #3/INFO]: [Essentials] [ACF] java.lang.NoSuchFieldException: locale
+[15:50:48] [Folia Async Scheduler Thread #3/INFO]: [Essentials] [ACF] 	at java.base/java.lang.Class.getDeclaredField(Class.java:2782)
+[15:50:48] [Folia Async Scheduler Thread #3/INFO]: [Essentials] [ACF] 	at io.papermc.reflectionrewriter.runtime.AbstractDefaultRulesReflectionProxy.getDeclaredField(AbstractDefaultRulesReflectionProxy.java:90)
+[15:50:48] [Folia Async Scheduler Thread #3/INFO]: [Essentials] [ACF] 	at io.papermc.paper.pluginremap.reflect.PaperReflectionHolder.getDeclaredField(Unknown Source)
+[15:50:48] [Folia Async Scheduler Thread #3/INFO]: [Essentials] [ACF] 	at UltraSetHome-1.7.7.jar//me.cerexus.ultrasethome.acf.BukkitCommandManager.readPlayerLocale(BukkitCommandManager.java:325)
+[15:50:48] [Folia Async Scheduler Thread #3/INFO]: [Essentials] [ACF] 	at java.base/java.lang.Iterable.forEach(Iterable.java:75)
+[15:50:48] [Folia Async Scheduler Thread #3/INFO]: [Essentials] [ACF] 	at java.base/java.util.Collections$UnmodifiableCollection.forEach(Collections.java:1116)
+[15:50:48] [Folia Async Scheduler Thread #3/INFO]: [Essentials] [ACF] 	at UltraSetHome-1.7.7.jar//me.cerexus.ultrasethome.acf.BukkitCommandManager.lambda$new$1(BukkitCommandManager.java:136)
+[15:50:48] [Folia Async Scheduler Thread #3/INFO]: [Essentials] [ACF] 	at UltraSetHome-1.7.7.jar//me.cerexus.ultrasethome.acf.ACFFoliaScheduler.lambda$createLocaleTask$1(ACFFoliaScheduler.java:51)
+[15:50:48] [Folia Async Scheduler Thread #3/INFO]: [Essentials] [ACF] 	at io.papermc.paper.threadedregions.scheduler.FoliaAsyncScheduler$AsyncScheduledTask.run(FoliaAsyncScheduler.java:217)
+[15:50:48] [Folia Async Scheduler Thread #3/INFO]: [Essentials] [ACF] 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+[15:50:48] [Folia Async Scheduler Thread #3/INFO]: [Essentials] [ACF] 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+[15:50:48] [Folia Async Scheduler Thread #3/INFO]: [Essentials] [ACF] 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[15:50:48] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: luckperms [5.4-R2]
+[15:50:48] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: player [2.0.8]
+[15:50:48] [Server thread/WARN]: [PlaceholderAPI] Cannot load expansion simpleclans due to a missing plugin: SimpleClans
+[15:50:48] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: vault [1.8.3]
+[15:50:48] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: changeoutput [1.2.2]
+[15:50:48] [Server thread/INFO]: 4 placeholder hook(s) registered!
+[15:51:14] [Server thread/INFO]: luis_gamer_YT issued server command: /time set day
