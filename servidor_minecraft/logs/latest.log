@@ -673,3 +673,413 @@ java.lang.IllegalStateException: zip file closed
 [17:30:08] [Server thread/INFO]: [SimpleClans] Registering 7 placeholder resolvers...
 [17:30:08] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: simpleclans [2.19.2-05e7abc]
 [17:30:08] [Server thread/INFO]: [AnimatedScoreboard] Enabling AnimatedScoreboard v0.3.5
+[17:30:09] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: animatedscoreboard [0.0.1]
+[17:30:09] [Server thread/INFO]: [CraftBook] Enabling CraftBook v3.10.12-SNAPSHOT;no_git_id
+[17:30:09] [Server thread/INFO]: [CraftBook] Loading persistent data from YAML!
+[17:30:09] [Folia Async Scheduler Thread Timer/INFO]: [SimpleClans] [ACF] Can't read players locale, you will be unable to automatically detect players language. Only Bukkit 1.7+ is supported for this.
+[17:30:09] [Folia Async Scheduler Thread Timer/INFO]: [SimpleClans] [ACF] java.lang.NoSuchFieldException: locale
+[17:30:09] [Folia Async Scheduler Thread Timer/INFO]: [SimpleClans] [ACF] 	at java.base/java.lang.Class.getDeclaredField(Class.java:2782)
+[17:30:09] [Folia Async Scheduler Thread Timer/INFO]: [SimpleClans] [ACF] 	at io.papermc.reflectionrewriter.runtime.AbstractDefaultRulesReflectionProxy.getDeclaredField(AbstractDefaultRulesReflectionProxy.java:90)
+[17:30:09] [Folia Async Scheduler Thread Timer/INFO]: [SimpleClans] [ACF] 	at io.papermc.paper.pluginremap.reflect.PaperReflectionHolder.getDeclaredField(Unknown Source)
+[17:30:09] [Folia Async Scheduler Thread Timer/INFO]: [SimpleClans] [ACF] 	at SimpleClans.jar//net.sacredlabyrinth.phaed.simpleclans.acf.BukkitCommandManager.readPlayerLocale(BukkitCommandManager.java:324)
+[17:30:09] [Folia Async Scheduler Thread Timer/INFO]: [SimpleClans] [ACF] 	at java.base/java.lang.Iterable.forEach(Iterable.java:75)
+[17:30:09] [Folia Async Scheduler Thread Timer/INFO]: [SimpleClans] [ACF] 	at java.base/java.util.Collections$UnmodifiableCollection.forEach(Collections.java:1116)
+[17:30:09] [Folia Async Scheduler Thread Timer/INFO]: [SimpleClans] [ACF] 	at SimpleClans.jar//net.sacredlabyrinth.phaed.simpleclans.acf.BukkitCommandManager.lambda$new$1(BukkitCommandManager.java:135)
+[17:30:09] [Folia Async Scheduler Thread Timer/INFO]: [SimpleClans] [ACF] 	at SimpleClans.jar//net.sacredlabyrinth.phaed.simpleclans.acf.ACFPaperScheduler.lambda$createLocaleTask$1(ACFPaperScheduler.java:56)
+[17:30:09] [Folia Async Scheduler Thread Timer/INFO]: [SimpleClans] [ACF] 	at io.papermc.paper.threadedregions.scheduler.FoliaAsyncScheduler$AsyncScheduledTask.run(FoliaAsyncScheduler.java:217)
+[17:30:09] [Folia Async Scheduler Thread Timer/INFO]: [SimpleClans] [ACF] 	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+[17:30:09] [Folia Async Scheduler Thread Timer/INFO]: [SimpleClans] [ACF] 	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+[17:30:09] [Folia Async Scheduler Thread Timer/INFO]: [SimpleClans] [ACF] 	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:304)
+[17:30:09] [Folia Async Scheduler Thread Timer/INFO]: [SimpleClans] [ACF] 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+[17:30:09] [Folia Async Scheduler Thread Timer/INFO]: [SimpleClans] [ACF] 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+[17:30:09] [Folia Async Scheduler Thread Timer/INFO]: [SimpleClans] [ACF] 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[17:30:09] [Server thread/INFO]: [SimpleTpa] Enabling SimpleTpa v7.4
+[17:30:09] [Server thread/INFO]: [SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9
+[17:30:09] [Server thread/INFO]: [SimpleTpa] Simple Tpa has been enabled on version 7.4
+[17:30:09] [Server thread/INFO]: Enabled metrics. You may opt-out by changing plugins/bStats/config.yml
+[17:30:09] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: SimpleTpa [7.4]
+[17:30:09] [Server thread/INFO]: [Essentials] Enabling Essentials v2.21.0-dev+151-f2af952
+[17:30:10] [Server thread/ERROR]: [Essentials] You are running an unsupported server version!
+[17:30:10] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[17:30:10] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[17:30:11] [Server thread/INFO]: [Essentials] Loaded 43465 items from items.json.
+[17:30:11] [Server thread/INFO]: [Essentials] Using locale en
+[17:30:11] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[17:30:11] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[17:30:11] [Server thread/INFO]: [UltraSetHome] Essentials hooked successfully.
+[17:30:11] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
+[17:30:11] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
+[17:30:11] [Server thread/INFO]: [ProtectionStones] Enabling ProtectionStones v2.10.5
+[17:30:11] [Server thread/INFO]: [WorldGuard] Registering session handler dev.espi.protectionstones.flags.GreetingFlagHandler
+[17:30:11] [Server thread/INFO]: [WorldGuard] Registering session handler dev.espi.protectionstones.flags.FarewellFlagHandler
+[17:30:12] [Server thread/INFO]: [ProtectionStones] PlaceholderAPI support enabled!
+[17:30:12] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: protectionstones [2.10.5]
+[17:30:12] [Server thread/INFO]: [ProtectionStones] LuckPerms support enabled!
+[17:30:12] [Server thread/INFO]: [ProtectionStones] Protection Stone Blocks:
+[17:30:12] [Server thread/INFO]: [ProtectionStones] - DEEPSLATE_DIAMOND_ORE (510x150)
+[17:30:12] [Server thread/INFO]: [ProtectionStones] - EMERALD_ORE (64)
+[17:30:12] [Server thread/WARN]: org.bukkit.configuration.InvalidConfigurationException: expected '<document start>', but found '<scalar>'
+[17:30:12] [Server thread/WARN]:  in 'reader', line 15, column 1:
+[17:30:12] [Server thread/WARN]:     placing_cooldown = -1
+[17:30:12] [Server thread/WARN]:     ^
+[17:30:12] [Server thread/WARN]: 
+[17:30:12] [Server thread/WARN]: 	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:111)
+[17:30:12] [Server thread/WARN]: 	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:160)
+[17:30:12] [Server thread/WARN]: 	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:128)
+[17:30:12] [Server thread/WARN]: 	at ProtectionStones-2.10.5.jar//dev.espi.protectionstones.PSL.loadConfig(PSL.java:479)
+[17:30:12] [Server thread/WARN]: 	at ProtectionStones-2.10.5.jar//dev.espi.protectionstones.ProtectionStones.loadConfig(ProtectionStones.java:514)
+[17:30:12] [Server thread/WARN]: 	at ProtectionStones-2.10.5.jar//dev.espi.protectionstones.ProtectionStones.onEnable(ProtectionStones.java:612)
+[17:30:12] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:288)
+[17:30:12] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:202)
+[17:30:12] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109)
+[17:30:12] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520)
+[17:30:12] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:640)
+[17:30:12] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:589)
+[17:30:12] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.reload(CraftServer.java:1132)
+[17:30:12] [Server thread/WARN]: 	at org.bukkit.Bukkit.reload(Bukkit.java:1027)
+[17:30:12] [Server thread/WARN]: 	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:59)
+[17:30:12] [Server thread/WARN]: 	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:165)
+[17:30:12] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.dispatchCommand(CraftServer.java:1000)
+[17:30:12] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.dispatchServerCommand(CraftServer.java:985)
+[17:30:12] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.handleConsoleInputs(DedicatedServer.java:526)
+[17:30:12] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:474)
+[17:30:12] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1598)
+[17:30:12] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1304)
+[17:30:12] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330)
+[17:30:12] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[17:30:12] [Server thread/WARN]: Caused by: expected '<document start>', but found '<scalar>'
+[17:30:12] [Server thread/WARN]:  in 'reader', line 15, column 1:
+[17:30:12] [Server thread/WARN]:     placing_cooldown = -1
+[17:30:12] [Server thread/WARN]:     ^
+[17:30:12] [Server thread/WARN]: 
+[17:30:12] [Server thread/WARN]: 	at org.yaml.snakeyaml.parser.ParserImpl$ParseDocumentStart.produce(ParserImpl.java:250)
+[17:30:12] [Server thread/WARN]: 	at org.yaml.snakeyaml.parser.ParserImpl.peekEvent(ParserImpl.java:161)
+[17:30:12] [Server thread/WARN]: 	at org.yaml.snakeyaml.parser.ParserImpl.checkEvent(ParserImpl.java:152)
+[17:30:12] [Server thread/WARN]: 	at org.yaml.snakeyaml.composer.Composer.getSingleNode(Composer.java:160)
+[17:30:12] [Server thread/WARN]: 	at org.yaml.snakeyaml.Yaml.compose(Yaml.java:575)
+[17:30:12] [Server thread/WARN]: 	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:104)
+[17:30:12] [Server thread/WARN]: 	... 23 more
+[17:30:12] [Server thread/INFO]: [ProtectionStones] Building region cache...
+[17:30:12] [Server thread/INFO]: [ProtectionStones] Building UUID cache... (if slow change async-load-uuid-cache in the config to true)
+[17:30:12] [Server thread/INFO]: [ProtectionStones] Checking if PS regions have been updated to UUIDs...
+[17:30:12] [Server thread/INFO]: [ProtectionStones] §fProtectionStones has successfully started!
+[17:30:12] [Folia Async Scheduler Thread Timer/INFO]: [Essentials] [ACF] Can't read players locale, you will be unable to automatically detect players language. Only Bukkit 1.7+ is supported for this.
+[17:30:12] [Folia Async Scheduler Thread Timer/INFO]: [Essentials] [ACF] java.lang.NoSuchFieldException: locale
+[17:30:12] [Folia Async Scheduler Thread Timer/INFO]: [Essentials] [ACF] 	at java.base/java.lang.Class.getDeclaredField(Class.java:2782)
+[17:30:12] [Folia Async Scheduler Thread Timer/INFO]: [Essentials] [ACF] 	at io.papermc.reflectionrewriter.runtime.AbstractDefaultRulesReflectionProxy.getDeclaredField(AbstractDefaultRulesReflectionProxy.java:90)
+[17:30:12] [Folia Async Scheduler Thread Timer/INFO]: [Essentials] [ACF] 	at io.papermc.paper.pluginremap.reflect.PaperReflectionHolder.getDeclaredField(Unknown Source)
+[17:30:12] [Folia Async Scheduler Thread Timer/INFO]: [Essentials] [ACF] 	at UltraSetHome-1.7.7.jar//me.cerexus.ultrasethome.acf.BukkitCommandManager.readPlayerLocale(BukkitCommandManager.java:325)
+[17:30:12] [Folia Async Scheduler Thread Timer/INFO]: [Essentials] [ACF] 	at java.base/java.lang.Iterable.forEach(Iterable.java:75)
+[17:30:12] [Folia Async Scheduler Thread Timer/INFO]: [Essentials] [ACF] 	at java.base/java.util.Collections$UnmodifiableCollection.forEach(Collections.java:1116)
+[17:30:12] [Folia Async Scheduler Thread Timer/INFO]: [Essentials] [ACF] 	at UltraSetHome-1.7.7.jar//me.cerexus.ultrasethome.acf.BukkitCommandManager.lambda$new$1(BukkitCommandManager.java:136)
+[17:30:12] [Folia Async Scheduler Thread Timer/INFO]: [Essentials] [ACF] 	at UltraSetHome-1.7.7.jar//me.cerexus.ultrasethome.acf.ACFFoliaScheduler.lambda$createLocaleTask$1(ACFFoliaScheduler.java:51)
+[17:30:12] [Folia Async Scheduler Thread Timer/INFO]: [Essentials] [ACF] 	at io.papermc.paper.threadedregions.scheduler.FoliaAsyncScheduler$AsyncScheduledTask.run(FoliaAsyncScheduler.java:217)
+[17:30:12] [Folia Async Scheduler Thread Timer/INFO]: [Essentials] [ACF] 	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+[17:30:12] [Folia Async Scheduler Thread Timer/INFO]: [Essentials] [ACF] 	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+[17:30:12] [Folia Async Scheduler Thread Timer/INFO]: [Essentials] [ACF] 	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:304)
+[17:30:12] [Folia Async Scheduler Thread Timer/INFO]: [Essentials] [ACF] 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+[17:30:12] [Folia Async Scheduler Thread Timer/INFO]: [Essentials] [ACF] 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+[17:30:12] [Folia Async Scheduler Thread Timer/INFO]: [Essentials] [ACF] 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[17:30:13] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[17:30:13] [Server thread/INFO]: CONSOLE: Reload complete.
+[17:30:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 23370ms or 467 ticks behind
+[17:30:13] [Server thread/INFO]: Timings Reset
+[17:30:13] [Craft Scheduler Thread - 51 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[17:30:13] [Craft Scheduler Thread - 53 - AnimatedScoreboard/INFO]: [AnimatedScoreboard] Checking for an update!
+[17:30:13] [Craft Scheduler Thread - 55 - Essentials/INFO]: [Essentials] Fetching version information...
+[17:30:13] [Craft Scheduler Thread - 53 - AnimatedScoreboard/INFO]: [AnimatedScoreboard] No new versions found for the plugin!
+[17:30:13] [Server thread/INFO]: [UltraSetHome] WorldGuard hooked successfully.
+[17:30:13] [Server thread/INFO]: [SimpleClans] Registered WorldGuardProvider successfully
+[17:30:13] [Server thread/WARN]: [SimpleClans] Error registering provider WorldGuard6Provider
+[17:30:13] [Server thread/INFO]: [Essentials] Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.7.3-b131)!
+[17:30:13] [Server thread/INFO]: [ViaVersion] You are running a development version of the plugin, please report any bugs to GitHub.
+[17:30:13] [Server thread/WARN]: [UltraSetHome] *************************************************************
+[17:30:13] [Server thread/WARN]: [UltraSetHome] * There is a new version of UltraSetHome available!
+[17:30:13] [Server thread/WARN]: [UltraSetHome] *  
+[17:30:13] [Server thread/WARN]: [UltraSetHome] * Your version:   1.7.7
+[17:30:13] [Server thread/WARN]: [UltraSetHome] * Latest version: 1.7.9
+[17:30:13] [Server thread/WARN]: [UltraSetHome] *  
+[17:30:13] [Server thread/WARN]: [UltraSetHome] * Please update to the newest version.
+[17:30:13] [Server thread/WARN]: [UltraSetHome] *  
+[17:30:13] [Server thread/WARN]: [UltraSetHome] * Download:
+[17:30:13] [Server thread/WARN]: [UltraSetHome] *   https://www.spigotmc.org/resources/ultra-sethome.96934/
+[17:30:13] [Server thread/WARN]: [UltraSetHome] *************************************************************
+[17:30:14] [Craft Scheduler Thread - 49 - Vault/INFO]: [Vault] Checking for Updates ... 
+[17:30:14] [Craft Scheduler Thread - 49 - Vault/INFO]: [Vault] No new version available
+[17:30:14] [Server thread/WARN]: [CraftBook] §cWarning! You have no mechanics enabled, the plugin will appear to do nothing until a feature is enabled!
+[17:30:14] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: luckperms [5.4-R2]
+[17:30:14] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: player [2.0.8]
+[17:30:14] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: vault [1.8.3]
+[17:30:14] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: changeoutput [1.2.2]
+[17:30:14] [Server thread/INFO]: 4 placeholder hook(s) registered!
+[17:30:14] [Craft Scheduler Thread - 51 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:30:17] [Craft Scheduler Thread - 51 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:30:20] [Craft Scheduler Thread - 51 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:30:23] [Craft Scheduler Thread - 51 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:30:26] [Craft Scheduler Thread - 51 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:30:29] [Craft Scheduler Thread - 51 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:30:32] [Craft Scheduler Thread - 51 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:30:36] [Craft Scheduler Thread - 55 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:30:39] [Craft Scheduler Thread - 55 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:30:42] [Craft Scheduler Thread - 55 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:30:45] [Craft Scheduler Thread - 59 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:30:48] [Craft Scheduler Thread - 59 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:30:51] [Craft Scheduler Thread - 59 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:30:54] [Craft Scheduler Thread - 59 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:30:57] [Craft Scheduler Thread - 59 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:31:00] [Craft Scheduler Thread - 59 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:31:03] [Craft Scheduler Thread - 58 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:31:06] [Craft Scheduler Thread - 58 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:31:09] [Craft Scheduler Thread - 58 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:31:12] [Craft Scheduler Thread - 58 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:31:15] [Craft Scheduler Thread - 60 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:31:18] [Craft Scheduler Thread - 60 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:31:21] [Craft Scheduler Thread - 60 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:31:24] [Craft Scheduler Thread - 58 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:31:27] [Craft Scheduler Thread - 58 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:31:30] [Craft Scheduler Thread - 58 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:31:33] [Craft Scheduler Thread - 60 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:31:37] [Craft Scheduler Thread - 60 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:31:40] [Craft Scheduler Thread - 60 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:31:43] [Craft Scheduler Thread - 60 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:31:46] [Craft Scheduler Thread - 62 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:31:49] [Craft Scheduler Thread - 62 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:31:52] [Craft Scheduler Thread - 62 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:31:55] [Craft Scheduler Thread - 61 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:31:58] [Craft Scheduler Thread - 61 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:32:01] [Craft Scheduler Thread - 61 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:32:04] [Craft Scheduler Thread - 62 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:32:07] [Craft Scheduler Thread - 62 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:32:10] [Craft Scheduler Thread - 62 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:32:13] [Craft Scheduler Thread - 63 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:32:16] [Craft Scheduler Thread - 63 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:32:19] [Craft Scheduler Thread - 63 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:32:22] [Craft Scheduler Thread - 63 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:32:25] [Craft Scheduler Thread - 58 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:32:28] [Craft Scheduler Thread - 58 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:32:31] [Craft Scheduler Thread - 58 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:32:34] [Craft Scheduler Thread - 63 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:32:38] [Craft Scheduler Thread - 63 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:32:40] [Server thread/INFO]: luis_gamer_YT issued server command: /pay luis_gamer_YT 1000000000
+[17:32:41] [Craft Scheduler Thread - 63 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:32:44] [Craft Scheduler Thread - 65 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:32:47] [Craft Scheduler Thread - 65 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:32:50] [Craft Scheduler Thread - 65 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:32:53] [Craft Scheduler Thread - 64 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:32:54] [Server thread/INFO]: luis_gamer_YT issued server command: /shock luis_gamer_YT
+[17:32:56] [Craft Scheduler Thread - 64 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:32:59] [Craft Scheduler Thread - 64 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:32:59] [Server thread/INFO]: luis_gamer_YT issued server command: /shock luis_gamer_YT
+[17:33:01] [Server thread/INFO]: luis_gamer_YT issued server command: /shock luis_gamer_YT
+[17:33:02] [Craft Scheduler Thread - 64 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:33:04] [Server thread/INFO]: luis_gamer_YT issued server command: /gamemode survival
+[17:33:05] [Craft Scheduler Thread - 65 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:33:05] [Server thread/INFO]: luis_gamer_YT issued server command: /gamemode creative
+[17:33:06] [Server thread/INFO]: luis_gamer_YT issued server command: /shock luis_gamer_YT
+[17:33:08] [Craft Scheduler Thread - 65 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:33:11] [Craft Scheduler Thread - 65 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:33:14] [Craft Scheduler Thread - 66 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:33:15] [Server thread/INFO]: luis_gamer_YT issued server command: /summon minecraft:lightning_bolt
+[17:33:15] [Server thread/INFO]: [luis_gamer_YT: Summoned new Lightning Bolt]
+[17:33:17] [Craft Scheduler Thread - 66 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:33:19] [Server thread/INFO]: luis_gamer_YT issued server command: /summon minecraft:lightning_bolt
+[17:33:19] [Server thread/INFO]: [luis_gamer_YT: Summoned new Lightning Bolt]
+[17:33:20] [Craft Scheduler Thread - 66 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:33:23] [Craft Scheduler Thread - 66 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:33:26] [Craft Scheduler Thread - 66 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:33:29] [Craft Scheduler Thread - 66 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:33:32] [Craft Scheduler Thread - 66 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:33:35] [Craft Scheduler Thread - 58 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:33:39] [Craft Scheduler Thread - 58 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:33:40] [Server thread/INFO]: luis_gamer_YT issued server command: /summon minecraft:lightning_bolt
+[17:33:40] [Server thread/INFO]: [luis_gamer_YT: Summoned new Lightning Bolt]
+[17:33:42] [Craft Scheduler Thread - 58 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:33:42] [Server thread/INFO]: luis_gamer_YT issued server command: /summon minecraft:lightning_bolt
+[17:33:42] [Server thread/INFO]: [luis_gamer_YT: Summoned new Lightning Bolt]
+[17:33:43] [Server thread/INFO]: luis_gamer_YT issued server command: /summon minecraft:lightning_bolt
+[17:33:43] [Server thread/INFO]: [luis_gamer_YT: Summoned new Lightning Bolt]
+[17:33:45] [Craft Scheduler Thread - 68 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:33:48] [Craft Scheduler Thread - 68 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:33:48] [Server thread/INFO]: luis_gamer_YT issued server command: /summon minecraft:lightning_bolt
+[17:33:48] [Server thread/INFO]: [luis_gamer_YT: Summoned new Lightning Bolt]
+[17:33:51] [Craft Scheduler Thread - 68 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:33:51] [Server thread/INFO]: luis_gamer_YT issued server command: /summon minecraft:lightning_bolt
+[17:33:51] [Server thread/INFO]: [luis_gamer_YT: Summoned new Lightning Bolt]
+[17:33:54] [Craft Scheduler Thread - 67 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:33:54] [Server thread/INFO]: luis_gamer_YT issued server command: /summon minecraft:lightning_bolt
+[17:33:54] [Server thread/INFO]: [luis_gamer_YT: Summoned new Lightning Bolt]
+[17:33:57] [Server thread/INFO]: luis_gamer_YT issued server command: /gamemode survival
+[17:33:57] [Craft Scheduler Thread - 67 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:33:58] [Server thread/INFO]: luis_gamer_YT issued server command: /summon minecraft:lightning_bolt
+[17:33:58] [Server thread/INFO]: [luis_gamer_YT: Summoned new Lightning Bolt]
+[17:33:59] [Server thread/INFO]: luis_gamer_YT issued server command: /gamemode spectator
+[17:34:00] [Craft Scheduler Thread - 67 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:34:02] [Server thread/INFO]: luis_gamer_YT issued server command: /gamemode creative
+[17:34:03] [Craft Scheduler Thread - 68 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:34:04] [Server thread/INFO]: luis_gamer_YT issued server command: /summon minecraft:lightning_bolt
+[17:34:04] [Server thread/INFO]: [luis_gamer_YT: Summoned new Lightning Bolt]
+[17:34:06] [Craft Scheduler Thread - 68 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:34:06] [Server thread/INFO]: luis_gamer_YT issued server command: /summon minecraft:lightning_bolt
+[17:34:06] [Server thread/INFO]: [luis_gamer_YT: Summoned new Lightning Bolt]
+[17:34:07] [Server thread/INFO]: luis_gamer_YT issued server command: /shock luis_gamer_YTT
+[17:34:08] [Async Chat Thread - #0/INFO]: [Not Secure] pros * luis_gamer_YT: T
+[17:34:08] [Async Chat Thread - #0/INFO]: [Not Secure] pros * luis_gamer_YT: T
+[17:34:09] [Async Chat Thread - #0/INFO]: [Not Secure] pros * luis_gamer_YT: TT
+[17:34:09] [Craft Scheduler Thread - 68 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:34:12] [Craft Scheduler Thread - 68 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:34:15] [Craft Scheduler Thread - 69 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:34:18] [Craft Scheduler Thread - 69 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:34:21] [Craft Scheduler Thread - 69 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:34:24] [Craft Scheduler Thread - 67 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:34:27] [Craft Scheduler Thread - 67 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:34:30] [Craft Scheduler Thread - 67 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:34:33] [Craft Scheduler Thread - 69 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:34:36] [Craft Scheduler Thread - 69 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:34:40] [Craft Scheduler Thread - 69 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:34:43] [Craft Scheduler Thread - 69 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:34:46] [Craft Scheduler Thread - 71 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:34:49] [Craft Scheduler Thread - 71 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:34:52] [Craft Scheduler Thread - 71 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:34:55] [Craft Scheduler Thread - 71 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:34:58] [Craft Scheduler Thread - 71 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:35:01] [Craft Scheduler Thread - 71 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:35:04] [Craft Scheduler Thread - 72 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:35:07] [Craft Scheduler Thread - 72 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:35:10] [Craft Scheduler Thread - 72 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:35:13] [Craft Scheduler Thread - 73 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:35:14] [Server thread/WARN]: [CraftBook] §cWarning! You have no mechanics enabled, the plugin will appear to do nothing until a feature is enabled!
+[17:35:16] [Craft Scheduler Thread - 73 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:35:19] [Craft Scheduler Thread - 73 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:35:22] [Craft Scheduler Thread - 73 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:35:25] [Craft Scheduler Thread - 70 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:35:28] [Craft Scheduler Thread - 70 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:35:31] [Craft Scheduler Thread - 70 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:35:34] [Craft Scheduler Thread - 74 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:35:37] [Craft Scheduler Thread - 74 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:35:41] [Craft Scheduler Thread - 74 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:35:44] [Craft Scheduler Thread - 75 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:35:47] [Craft Scheduler Thread - 75 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:35:50] [Craft Scheduler Thread - 75 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:35:53] [Craft Scheduler Thread - 73 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:35:56] [Craft Scheduler Thread - 73 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:35:59] [Craft Scheduler Thread - 73 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:36:02] [Craft Scheduler Thread - 73 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:36:05] [Craft Scheduler Thread - 76 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:36:08] [Craft Scheduler Thread - 76 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:36:11] [Craft Scheduler Thread - 76 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:36:14] [Craft Scheduler Thread - 77 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:36:17] [Craft Scheduler Thread - 77 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:36:20] [Craft Scheduler Thread - 77 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:36:23] [Craft Scheduler Thread - 77 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:36:26] [Craft Scheduler Thread - 77 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:36:29] [Craft Scheduler Thread - 77 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:36:32] [Craft Scheduler Thread - 77 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:36:35] [Craft Scheduler Thread - 73 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:36:38] [Craft Scheduler Thread - 73 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:36:39] [Server thread/INFO]: luis_gamer_YT issued server command: /papi reload
+[17:36:39] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[17:36:39] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[17:36:39] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: luckperms [5.4-R2]
+[17:36:39] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: player [2.0.8]
+[17:36:39] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: vault [1.8.3]
+[17:36:39] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: changeoutput [1.2.2]
+[17:36:42] [Craft Scheduler Thread - 73 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:36:45] [Craft Scheduler Thread - 79 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:36:48] [Craft Scheduler Thread - 79 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:36:51] [Craft Scheduler Thread - 79 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:36:52] [Server thread/INFO]: luis_gamer_YT issued server command: /summon minecraft:cat
+[17:36:52] [Server thread/INFO]: [luis_gamer_YT: Summoned new Cat]
+[17:36:54] [Craft Scheduler Thread - 78 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:36:54] [Server thread/INFO]: luis_gamer_YT issued server command: /summon minecraft:cat
+[17:36:54] [Server thread/INFO]: [luis_gamer_YT: Summoned new Cat]
+[17:36:57] [Craft Scheduler Thread - 78 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:37:00] [Craft Scheduler Thread - 78 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:37:00] [Server thread/INFO]: luis_gamer_YT issued server command: /summon minecraft:cat
+[17:37:00] [Server thread/INFO]: [luis_gamer_YT: Summoned new Cat]
+[17:37:03] [Craft Scheduler Thread - 79 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:37:04] [Server thread/INFO]: luis_gamer_YT issued server command: /gamemode survival
+[17:37:06] [Craft Scheduler Thread - 79 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:37:09] [Craft Scheduler Thread - 79 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:37:12] [Craft Scheduler Thread - 79 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:37:15] [Craft Scheduler Thread - 80 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:37:18] [Craft Scheduler Thread - 80 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:37:21] [Craft Scheduler Thread - 80 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:37:24] [Craft Scheduler Thread - 77 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:37:26] [Server thread/INFO]: luis_gamer_YT issued server command: /summon minecraft:area_effect_cloud
+[17:37:26] [Server thread/INFO]: [luis_gamer_YT: Summoned new Area Effect Cloud]
+[17:37:27] [Craft Scheduler Thread - 77 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:37:30] [Craft Scheduler Thread - 77 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:37:33] [Craft Scheduler Thread - 80 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:37:36] [Craft Scheduler Thread - 80 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:37:39] [Server thread/INFO]: luis_gamer_YT issued server command: /summon minecraft:creeper
+[17:37:39] [Server thread/INFO]: [luis_gamer_YT: Summoned new Creeper]
+[17:37:39] [Craft Scheduler Thread - 80 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:37:43] [Craft Scheduler Thread - 80 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:37:44] [Server thread/INFO]: luis_gamer_YT issued server command: /summon minecraft:creeper
+[17:37:44] [Server thread/INFO]: [luis_gamer_YT: Summoned new Creeper]
+[17:37:46] [Craft Scheduler Thread - 82 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:37:49] [Craft Scheduler Thread - 82 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:37:52] [Craft Scheduler Thread - 82 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:37:55] [Craft Scheduler Thread - 81 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:37:55] [Server thread/INFO]: luis_gamer_YT issued server command: /gamemode spectator
+[17:37:58] [Craft Scheduler Thread - 81 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:38:01] [Craft Scheduler Thread - 81 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:38:04] [Craft Scheduler Thread - 83 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:38:07] [Craft Scheduler Thread - 83 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:38:10] [Craft Scheduler Thread - 83 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:38:12] [Server thread/INFO]: luis_gamer_YT issued server command: /gamemode survival
+[17:38:13] [Craft Scheduler Thread - 84 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:38:16] [Craft Scheduler Thread - 84 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:38:19] [Craft Scheduler Thread - 84 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:38:21] [Server thread/INFO]: luis_gamer_YT issued server command: /summon minecraft:cat
+[17:38:21] [Server thread/INFO]: [luis_gamer_YT: Summoned new Cat]
+[17:38:22] [Craft Scheduler Thread - 84 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:38:25] [Craft Scheduler Thread - 85 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:38:27] [Server thread/INFO]: luis_gamer_YT issued server command: /summon minecraft:cat
+[17:38:27] [Server thread/INFO]: [luis_gamer_YT: Summoned new Cat]
+[17:38:28] [Craft Scheduler Thread - 85 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:38:29] [Server thread/INFO]: luis_gamer_YT issued server command: /summon minecraft:cat
+[17:38:29] [Server thread/INFO]: [luis_gamer_YT: Summoned new Cat]
+[17:38:29] [Server thread/INFO]: luis_gamer_YT issued server command: /summon minecraft:cat
+[17:38:29] [Server thread/INFO]: [luis_gamer_YT: Summoned new Cat]
+[17:38:31] [Craft Scheduler Thread - 85 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:38:34] [Craft Scheduler Thread - 85 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:38:37] [Craft Scheduler Thread - 85 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:38:40] [Craft Scheduler Thread - 85 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:38:44] [Craft Scheduler Thread - 86 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:38:47] [Craft Scheduler Thread - 86 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:38:50] [Craft Scheduler Thread - 86 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:38:53] [Craft Scheduler Thread - 87 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:38:56] [Craft Scheduler Thread - 87 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:38:59] [Craft Scheduler Thread - 87 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:39:02] [Craft Scheduler Thread - 87 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:39:05] [Craft Scheduler Thread - 81 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:39:08] [Craft Scheduler Thread - 81 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:39:09] [Server thread/INFO]: luis_gamer_YT fell from a high place
+[17:39:11] [Craft Scheduler Thread - 81 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:39:13] [Server thread/INFO]: luis_gamer_YT issued server command: /back
+[17:39:14] [Craft Scheduler Thread - 88 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:39:16] [Server thread/INFO]: luis_gamer_YT issued server command: /back
+[17:39:17] [Craft Scheduler Thread - 88 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:39:20] [Craft Scheduler Thread - 88 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:39:23] [Craft Scheduler Thread - 86 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:39:26] [Craft Scheduler Thread - 86 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:39:29] [Craft Scheduler Thread - 86 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:39:32] [Craft Scheduler Thread - 86 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:39:35] [Craft Scheduler Thread - 88 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:39:38] [Craft Scheduler Thread - 88 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:39:40] [Server thread/INFO]: luis_gamer_YT issued server command: /give @s 10disc
+[17:39:41] [Craft Scheduler Thread - 88 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:39:45] [Craft Scheduler Thread - 90 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:39:48] [Craft Scheduler Thread - 90 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:39:51] [Craft Scheduler Thread - 90 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:39:51] [Server thread/INFO]: luis_gamer_YT issued server command: /give @s lamethystbud
+[17:39:54] [Craft Scheduler Thread - 89 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:39:57] [Craft Scheduler Thread - 89 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:40:00] [Craft Scheduler Thread - 89 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:40:00] [Server thread/INFO]: luis_gamer_YT issued server command: /give luis_gamer_YT lamethystbud
+[17:40:03] [Craft Scheduler Thread - 90 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:40:06] [Craft Scheduler Thread - 90 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:40:09] [Craft Scheduler Thread - 90 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:40:12] [Craft Scheduler Thread - 90 - AnimatedScoreboard/WARN]: [SimpleClans] Placeholder clan not found
+[17:40:14] [Server thread/WARN]: [CraftBook] §cWarning! You have no mechanics enabled, the plugin will appear to do nothing until a feature is enabled!
