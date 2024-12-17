@@ -3,7 +3,7 @@ header-footer:
   enabled: true
   header:
     - "<#FFFFFF>&m                                                </#FFFF00>"
-    - "&3&lJCG"
+    - "&5J&1C&l&5G"
     - "&7&l>> &l%player%&7&l! &7&l<<"
     - "&7Online players: &f%online%"
     - "&6Online staff: &e%staffonline%"
