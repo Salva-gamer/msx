@@ -319,9 +319,21 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:zombie": "2024-12-17 23:19:21 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2024-12-17 23:07:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2024-12-17 23:19:21 +0000"
     },
     "done": true
   },
