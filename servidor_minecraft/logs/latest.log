@@ -860,3 +860,9 @@
 [23:01:00] [Server thread/INFO]: luis_gamer_YT issued server command: /playerkits
 [23:01:05] [Server thread/INFO]: luis_gamer_YT issued server command: /playerkits:kit
 [23:01:18] [Server thread/INFO]: luis_gamer_YT issued server command: /playerkits:kit create gh j
+[23:03:56] [Server thread/WARN]: [CraftBook] §cWarning! You have no mechanics enabled, the plugin will appear to do nothing until a feature is enabled!
+[23:05:15] [Server thread/INFO]: luis_gamer_YT issued server command: /time set day
+[23:05:46] [Server thread/INFO]: luis_gamer_YT issued server command: /give luis_gamer_YT netherite_sword
+[23:06:19] [Server thread/INFO]: luis_gamer_YT issued server command: /enchantment sharpness 6
+[23:06:27] [Server thread/INFO]: luis_gamer_YT issued server command: /enchantment sharpness 5
+[23:08:56] [Server thread/WARN]: [CraftBook] §cWarning! You have no mechanics enabled, the plugin will appear to do nothing until a feature is enabled!
