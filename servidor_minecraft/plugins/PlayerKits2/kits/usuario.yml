@@ -11,8 +11,8 @@ display:
     lore:
     - '&fThis is a description of the kit.'
     - ''
-    - '&7Edit it on the &c%kit_name%.yml &7file'
-    - '&7or using &c/kit edit %kit_name%'
+    - '&4kit usuario '
+    - '&5reclamaloo'
     item_flags:
     - HIDE_ATTRIBUTES
   no_permission:

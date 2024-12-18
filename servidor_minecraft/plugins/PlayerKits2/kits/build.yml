@@ -9,10 +9,10 @@ display:
     name: '&c&l%kit_name% &cKit'
     amount: 1
     lore:
-    - '&fThis is a description of the kit.'
+    - '&fkit classic pvp.'
     - ''
-    - '&7Edit it on the &c%kit_name%.yml &7file'
-    - '&7or using &c/kit edit %kit_name%'
+    - '&5&lsoe seep'
+    - '&3apreoveche'
     item_flags:
     - HIDE_ATTRIBUTES
   no_permission:
