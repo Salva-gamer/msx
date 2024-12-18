@@ -10,6 +10,21 @@
 # REMEMBER TO KEEP PERIODICAL BACKUPS.
 #
 regions:
+    ps17x65y-24z:
+        min: {x: -208, y: -160, z: -249}
+        max: {x: 242, y: 290, z: 201}
+        members: {}
+        flags: {wither-damage: deny, creeper-explosion: deny, farewell-action: §lLeaving
+                §b§lluis_gamer_YT's §f§lprotected area, greeting-action: §lEntering
+                §b§lluis_gamer_YT's §f§lprotected area, greeting: §lEntering §b§lluis_gamer_YT's
+                §f§lprotected area, tnt: deny, ps-home: 17.0 66.0 -24.0, pvp: deny,
+            ghast-fireball: deny, ps-tax-autopayer: 9dc2a27b-9407-321a-a0fa-62f4fdbaee88,
+            ps-block-material: DEEPSLATE_DIAMOND_ORE, farewell: §lLeaving §b§lluis_gamer_YT's
+                §f§lprotected area}
+        owners:
+            unique-ids: [9dc2a27b-9407-321a-a0fa-62f4fdbaee88]
+        type: cuboid
+        priority: 0
     ps59x69y-411z:
         min: {x: -5, y: -32768, z: -475}
         max: {x: 123, y: 32767, z: -347}
