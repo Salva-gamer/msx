@@ -20,6 +20,8 @@ per-world:
     Owner:
       tabprefix: '&0&l[&a&lOwner&0&l] &a'
       tagprefix: '&2&lOwner &a'
+buil:
+  tabprefix: '&d&oBUILD'
+  tagprefix: '&d&fPlayer &3'
+  tagsuffix: '&d&oBUILD'
 Owner: {}
-
-BUILD
