@@ -1,7 +1,7 @@
 cooldown: 3600
-one_time: false
-auto_armor: false
-permission_required: true
+one_time: true
+auto_armor: true
+permission_required: false
 save_original_items: true
 display:
   default:
@@ -31,18 +31,30 @@ display:
     - '&cto claim this kit again.'
     item_flags:
     - HIDE_ATTRIBUTES
+  one_time_requirements:
+    id: BARRIER
+    amount: 1
 items:
   '1':
     original:
       ==: org.bukkit.inventory.ItemStack
       v: 3953
       type: WOODEN_SWORD
+    preview_slot: 0
   '2':
     original:
       ==: org.bukkit.inventory.ItemStack
       v: 3953
       type: BREAD
       amount: 16
+    preview_slot: 1
+  '3':
+    original:
+      ==: org.bukkit.inventory.ItemStack
+      v: 3953
+      type: COOKED_BEEF
+      amount: 12
+    preview_slot: 2
 actions:
   claim:
     '1':

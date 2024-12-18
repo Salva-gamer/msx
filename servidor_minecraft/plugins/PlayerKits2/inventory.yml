@@ -7,8 +7,6 @@ inventories:
         id: BLACK_STAINED_GLASS_PANE
         name: ' '
         amount: 1
-    '20':
-      type: 'kit: iron'
     '24':
       type: 'kit: food'
     '49':
@@ -19,6 +17,8 @@ inventories:
       open_inventory: premium_kits_inventory
     '19':
       type: 'kit: usuario'
+    '21':
+      type: 'kit: iron'
   premium_kits_inventory:
     slots: 54
     title: '&e&lPremium Kits'

@@ -1942,3 +1942,61 @@ java.lang.IndexOutOfBoundsException: Index 14 out of bounds for length 2
 [12:48:30] [Server thread/INFO]: luis_gamer_YT issued server command: /summon minecraft:wolf
 [12:48:30] [Server thread/INFO]: [luis_gamer_YT: Summoned new Wolf]
 [12:48:34] [Server thread/INFO]: luis_gamer_YT issued server command: /vanish
+[12:48:41] [Server thread/INFO]: luis_gamer_YT issued server command: /vanish
+[12:48:48] [Server thread/INFO]: luis_gamer_YT issued server command: /gamemode spectator
+[12:48:52] [Server thread/INFO]: luis_gamer_YT issued server command: /gamemode survival
+[12:49:12] [Server thread/INFO]: [ [ [PlayerKits²] ] ]
+[12:49:12] [Server thread/INFO]:  
+[12:49:12] [Server thread/INFO]: /kit Opens the GUI.
+[12:49:12] [Server thread/INFO]: /kit claim <kit> Claims a kit outside the GUI.
+[12:49:12] [Server thread/INFO]: /kit create <kit> (optional)original Creates a new kit using the items in your inventory.
+[12:49:12] [Server thread/INFO]: /kit edit <kit> Edits a kit.
+[12:49:12] [Server thread/INFO]: /kit give <kit> <player> Gives a kit to a player.
+[12:49:12] [Server thread/INFO]: /kit delete <kit> Deletes a kit.
+[12:49:12] [Server thread/INFO]: /kit reset <kit> <player>/* Resets kit data for a player.
+[12:49:12] [Server thread/INFO]: /kit preview <kit> Previews a kit.
+[12:49:12] [Server thread/INFO]: /kit open <inventory> <player> Opens a specific inventory for a player.
+[12:49:12] [Server thread/INFO]: /kit reload Reloads the config.
+[12:49:12] [Server thread/INFO]: /kit verify Checks the plugin for errors.
+[12:49:12] [Server thread/INFO]:  
+[12:49:12] [Server thread/INFO]: [ [ [PlayerKits²] ] ]
+[12:49:43] [Server thread/WARN]: [CraftBook] §cWarning! You have no mechanics enabled, the plugin will appear to do nothing until a feature is enabled!
+[12:50:11] [Server thread/INFO]: luis_gamer_YT issued server command: /kit edit iron
+[12:50:55] [Server thread/INFO]: luis_gamer_YT issued server command: /deop
+[12:50:58] [Server thread/INFO]: luis_gamer_YT issued server command: /deop luis_gamer_YT
+[12:50:58] [Server thread/INFO]: [luis_gamer_YT: Made luis_gamer_YT no longer a server operator]
+[12:51:01] [Server thread/INFO]: luis_gamer_YT issued server command: /kit
+[12:51:23] [Server thread/INFO]: Made luis_gamer_YT a server operator
+[12:51:27] [Server thread/INFO]: luis_gamer_YT issued server command: /kit
+[12:51:29] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /eco give luis_gamer_YT 500
+[12:51:29] [Server thread/INFO]: $500 added to luis_gamer_YT account. New balance: $1,000
+[12:51:39] [Server thread/INFO]: luis_gamer_YT issued server command: /kit edit usuario
+[12:52:08] [Server thread/INFO]: luis_gamer_YT issued server command: /deop
+[12:52:13] [Server thread/INFO]: luis_gamer_YT issued server command: /deop luis_gamer_YT
+[12:52:13] [Server thread/INFO]: [luis_gamer_YT: Made luis_gamer_YT no longer a server operator]
+[12:52:15] [Server thread/INFO]: luis_gamer_YT issued server command: /kit
+[12:52:36] [Server thread/INFO]: Made luis_gamer_YT a server operator
+[12:52:40] [Server thread/INFO]: luis_gamer_YT issued server command: /kit
+[12:52:41] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /eco give luis_gamer_YT 500
+[12:52:41] [Server thread/INFO]: $500 added to luis_gamer_YT account. New balance: $1,500
+[12:52:41] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /eco give luis_gamer_YT 500
+[12:52:41] [Server thread/INFO]: $500 added to luis_gamer_YT account. New balance: $2,000
+[12:52:43] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /eco give luis_gamer_YT 500
+[12:52:43] [Server thread/INFO]: $500 added to luis_gamer_YT account. New balance: $2,500
+[12:52:52] [Server thread/INFO]: luis_gamer_YT issued server command: /kit
+[12:52:57] [Server thread/INFO]: luis_gamer_YT issued server command: /kit edit
+[12:53:02] [Server thread/INFO]: luis_gamer_YT issued server command: /kit edit usuario
+[12:54:40] [Server thread/INFO]: luis_gamer_YT issued server command: /give @s barrier
+[12:54:43] [Server thread/WARN]: [CraftBook] §cWarning! You have no mechanics enabled, the plugin will appear to do nothing until a feature is enabled!
+[12:54:47] [Server thread/INFO]: luis_gamer_YT issued server command: /give luis_gamer_YT barrier
+[12:55:13] [Server thread/INFO]: luis_gamer_YT issued server command: /kit edit usuario
+[12:56:17] [Server thread/INFO]: luis_gamer_YT issued server command: /kit reload
+[12:56:26] [Server thread/INFO]: luis_gamer_YT issued server command: /kit edit usuario
+[12:56:45] [Server thread/INFO]: Villager Villager['Juan'/2281, uuid='f227e11c-b94a-497b-8511-967da55c3cda', l='ServerLevel[world]', x=-10.67, y=64.44, z=-75.88, cpos=[-1, -5], tl=20421, v=true] died, message: 'Juan suffocated in a wall'
+[12:56:45] [Server thread/INFO]: Named entity Villager['Juan'/2281, uuid='f227e11c-b94a-497b-8511-967da55c3cda', l='ServerLevel[world]', x=-10.67, y=64.44, z=-75.88, cpos=[-1, -5], tl=20421, v=true] died: Juan suffocated in a wall
+[12:57:05] [Server thread/INFO]: luis_gamer_YT issued server command: /deop luis_gamer_YT
+[12:57:05] [Server thread/INFO]: [luis_gamer_YT: Made luis_gamer_YT no longer a server operator]
+[12:57:07] [Server thread/INFO]: luis_gamer_YT issued server command: /kit
+[12:57:32] [Server thread/INFO]: luis_gamer_YT has made the advancement [Stone Age]
+[12:57:50] [Server thread/INFO]: luis_gamer_YT burned to death
+[12:57:58] [Server thread/INFO]: Made luis_gamer_YT a server operator
