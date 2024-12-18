@@ -6,6 +6,7 @@ inventories:
       item:
         id: BLACK_STAINED_GLASS_PANE
         name: ' '
+        amount: 1
     '20':
       type: 'kit: iron'
     '24':
@@ -14,8 +15,9 @@ inventories:
       item:
         id: DIAMOND_BLOCK
         name: '&ePremium Kits'
+        amount: 1
       open_inventory: premium_kits_inventory
-    '2':
+    '19':
       type: 'kit: usuario'
   premium_kits_inventory:
     slots: 54
@@ -24,12 +26,14 @@ inventories:
       item:
         id: YELLOW_STAINED_GLASS_PANE
         name: ' '
+        amount: 1
     '22':
       type: 'kit: diamond'
     '49':
       item:
         id: IRON_BLOCK
         name: '&eNormal Kits'
+        amount: 1
       open_inventory: main_inventory
   preview_inventory:
     slots: 54
@@ -38,6 +42,7 @@ inventories:
       item:
         id: ARROW
         name: '&7Go Back'
+        amount: 1
       open_inventory: previous
   buy_requirements_inventory:
     slots: 27
@@ -46,15 +51,18 @@ inventories:
       item:
         id: BOOK
         name: '&c&lRequirements'
+        amount: 1
         lore:
         - '%kit_requirements_message%'
     '10':
+      type: buy_no
       item:
         id: RED_STAINED_GLASS_PANE
         name: '&cGo Back'
-      type: buy_no
+        amount: 1
     '16':
+      type: buy_yes
       item:
         id: GREEN_STAINED_GLASS_PANE
         name: '&aBuy'
-      type: buy_yes
+        amount: 1

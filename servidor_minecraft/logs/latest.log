@@ -1164,3 +1164,781 @@ java.util.ConcurrentModificationException: null
 [12:37:55] [Server thread/INFO]: [ [ [PlayerKits²] ] ]
 [12:38:19] [Server thread/INFO]: luis_gamer_YT issued server command: /kit claim
 [12:38:24] [Server thread/INFO]: luis_gamer_YT issued server command: /kit claim food
+[12:38:57] [Server thread/INFO]: CONSOLE: Please note that this command is not supported and may cause issues when using some plugins.
+[12:38:57] [Server thread/INFO]: CONSOLE: If you encounter any issues please use the /stop command to restart your server.
+[12:38:57] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[12:38:57] [Server thread/INFO]: Using 4 threads for Netty based IO
+[12:38:57] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.2.1-SNAPSHOT
+[12:38:57] [Server thread/INFO]: [PlayerKits2] Disabling PlayerKits2 v1.14.2
+[12:38:57] [Server thread/INFO]: [PlayerKits²] Has been disabled! Version: 1.14.2
+[12:38:57] [Server thread/INFO]: [MythicMobs] Disabling MythicMobs v5.7.2-${CI_COMMIT_SHORT_SHA}
+[12:38:57] [Server thread/INFO]: [MythicMobs] ------------------------------------------------------------
+[12:38:57] [Server thread/INFO]: [MythicMobs] - 
+[12:38:57] [Server thread/INFO]: [MythicMobs] - Unloading Mythic...
+[12:38:57] [Server thread/INFO]: [MythicMobs] - 
+[12:38:57] [Server thread/INFO]: [MythicMobs] ------------------------------------------------------------
+[12:38:57] [Server thread/INFO]: [MythicMobs] - Spawners saved and unloaded...
+[12:38:57] [Server thread/INFO]: [MythicMobs] - Mobs saved and unloaded...
+[12:38:57] [Server thread/INFO]: [MythicMobs] Saving plugin data...
+[12:38:57] [Server thread/INFO]: [MythicMobs] ✓Saving Finished
+[12:38:57] [Server thread/INFO]: [MythicMobs] - Variables saved...
+[12:38:57] [Server thread/INFO]: [MythicMobs] - All active settings have been saved!
+[12:38:57] [Server thread/INFO]: [MythicMobs] - Mythic has been unloaded!
+[12:38:57] [Server thread/INFO]: [MythicMobs] ------------------------------------------------------------
+[12:38:57] [Server thread/INFO]: [MythicMobs] Saving plugin data...
+[12:38:57] [Server thread/INFO]: [MythicMobs] ✓Saving Finished
+[12:38:57] [Server thread/INFO]: [ProtectionStones] Disabling ProtectionStones v2.10.5
+[12:38:57] [Server thread/INFO]: [Essentials] Disabling Essentials v2.21.0-dev+151-f2af952
+[12:38:57] [Server thread/INFO]: [Vault] [Economy] Essentials Economy unhooked.
+[12:38:57] [Server thread/ERROR]: [Essentials] There's a good chance you're reloading your server right now. If that's the case, why do you hate yourself? Expect no support from the EssentialsX team when using /reload.
+[12:38:57] [Server thread/INFO]: [LPC] Disabling LPC v3.6.0
+[12:38:57] [Server thread/INFO]: [SimpleTpa] Disabling SimpleTpa v7.4
+[12:38:57] [Server thread/INFO]: [SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9
+[12:38:57] [Server thread/INFO]: [SimpleTpa] Simple Tpa has been disabled on version 7.4
+[12:38:57] [Server thread/INFO]: [CraftBook] Disabling CraftBook v3.10.12-SNAPSHOT;no_git_id
+[12:38:57] [Server thread/INFO]: [CraftBook] Saving persistent data to YAML!
+[12:38:57] [Server thread/INFO]: [GSit] Disabling GSit v1.12.1
+[12:38:57] [Server thread/INFO]: [GSit] The plugin was successfully disabled.
+[12:38:57] [Server thread/INFO]: [AnimatedScoreboard] Disabling AnimatedScoreboard v0.3.5
+[12:38:57] [Server thread/INFO]: [Jumper] Disabling Jumper v1.5
+[12:38:57] [Server thread/INFO]: [EnhancedEnchants] Disabling EnhancedEnchants v1.6.1
+[12:38:57] [Server thread/INFO]: [EnhancedEnchants] made by Kars
+[12:38:57] [Server thread/INFO]: [TAB] Disabling TAB v5.0.3
+[12:38:57] [Server thread/INFO]: [TAB] Disabled in 2ms
+[12:38:57] [Server thread/INFO]: [ClearLag] Disabling ClearLag v3.2.2
+[12:38:57] [Server thread/INFO]: [ClearLag] Clearlag is now disabled!
+[12:38:57] [Server thread/INFO]: [Clans] Disabling Clans v0.4.5
+[12:38:57] [Server thread/INFO]: [UltraSetHome] Disabling UltraSetHome v1.7.7
+[12:38:57] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.11.6
+[12:38:57] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.6.0-SNAPSHOT
+[12:38:57] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[12:38:57] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[12:38:57] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v7.0.12+829a4a4
+[12:38:57] [Server thread/INFO]: [WorldGuard] Shutting down executor and cancelling any pending tasks...
+[12:38:57] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
+[12:38:57] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.3.9+6959-7adf70b
+[12:38:57] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[12:38:57] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
+[12:38:57] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.150
+[12:38:57] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[12:38:57] [Server thread/INFO]: [LuckPerms] Closing storage...
+[12:38:57] [Server thread/INFO]: [LuckPerms] Goodbye!
+[12:38:57] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.2.1-SNAPSHOT
+[12:38:57] [Server thread/INFO]: [ViaVersion] ViaVersion is disabling. If this is a reload and you experience issues, please reboot instead.
+[12:38:57] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[12:38:57] [WebSocketConnectReadThread-352/INFO]: [Geyser-Spigot] The skin uploader has been closed
+[12:38:58] [Server thread/INFO]: Loaded 1290 recipes
+[12:38:58] [Server thread/INFO]: Loaded 1399 advancements
+[12:38:59] [Server thread/INFO]: [PluginInitializerManager] Initializing plugins...
+[12:38:59] [Server thread/INFO]: [PluginInitializerManager] Initialized 24 plugins
+[12:38:59] [Server thread/INFO]: [PluginInitializerManager] Bukkit plugins (24):
+ - AnimatedScoreboard (0.3.5), Clans (0.4.5), ClearLag (3.2.2), CraftBook (3.10.12-SNAPSHOT;no_git_id), EnhancedEnchants (1.6.1), Essentials (2.21.0-dev+151-f2af952), GSit (1.12.1), Geyser-Spigot (2.6.0-SNAPSHOT), Jumper (1.5), LPC (3.6.0), LuckPerms (5.4.150), MythicMobs (5.7.2-${CI_COMMIT_SHORT_SHA}), PlaceholderAPI (2.11.6), PlayerKits2 (1.14.2), ProtectionStones (2.10.5), SimpleTpa (7.4), TAB (5.0.3), UltraSetHome (1.7.7), Vault (1.7.3-b131), ViaBackwards (5.2.1-SNAPSHOT), ViaVersion (5.2.1-SNAPSHOT), WorldEdit (7.3.9+6959-7adf70b), WorldGuard (7.0.12+829a4a4), floodgate (2.2.3-SNAPSHOT (b114-83fbd6e))
+[12:39:00] [Server thread/WARN]: Legacy plugin Jumper v1.5 does not specify an api-version.
+[12:39:01] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loading 4 libraries... please wait
+[12:39:01] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/msx/servidor_minecraft/libraries/net/kyori/adventure-api/4.16.0/adventure-api-4.16.0.jar
+[12:39:01] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/msx/servidor_minecraft/libraries/net/kyori/adventure-key/4.16.0/adventure-key-4.16.0.jar
+[12:39:01] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/msx/servidor_minecraft/libraries/net/kyori/examination-api/1.3.0/examination-api-1.3.0.jar
+[12:39:01] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/msx/servidor_minecraft/libraries/net/kyori/examination-string/1.3.0/examination-string-1.3.0.jar
+[12:39:01] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/msx/servidor_minecraft/libraries/org/jetbrains/annotations/24.1.0/annotations-24.1.0.jar
+[12:39:01] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/msx/servidor_minecraft/libraries/net/kyori/adventure-platform-bukkit/4.3.2/adventure-platform-bukkit-4.3.2.jar
+[12:39:01] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/msx/servidor_minecraft/libraries/net/kyori/adventure-platform-api/4.3.2/adventure-platform-api-4.3.2.jar
+[12:39:01] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/msx/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-bungeecord/4.3.2/adventure-text-serializer-bungeecord-4.3.2.jar
+[12:39:01] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/msx/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-legacy/4.13.1/adventure-text-serializer-legacy-4.13.1.jar
+[12:39:01] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/msx/servidor_minecraft/libraries/net/kyori/adventure-nbt/4.13.1/adventure-nbt-4.13.1.jar
+[12:39:01] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/msx/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-gson-legacy-impl/4.13.1/adventure-text-serializer-gson-legacy-impl-4.13.1.jar
+[12:39:01] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/msx/servidor_minecraft/libraries/net/kyori/adventure-platform-facet/4.3.2/adventure-platform-facet-4.3.2.jar
+[12:39:01] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/msx/servidor_minecraft/libraries/net/kyori/adventure-platform-viaversion/4.3.2/adventure-platform-viaversion-4.3.2.jar
+[12:39:01] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/msx/servidor_minecraft/libraries/net/kyori/adventure-text-minimessage/4.16.0/adventure-text-minimessage-4.16.0.jar
+[12:39:01] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/msx/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-gson/4.16.0/adventure-text-serializer-gson-4.16.0.jar
+[12:39:01] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/msx/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-json/4.16.0/adventure-text-serializer-json-4.16.0.jar
+[12:39:01] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/msx/servidor_minecraft/libraries/net/kyori/option/1.0.0/option-1.0.0.jar
+[12:39:01] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/msx/servidor_minecraft/libraries/com/google/code/gson/gson/2.8.0/gson-2.8.0.jar
+[12:39:01] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.2.1-SNAPSHOT
+[12:39:01] [Server thread/INFO]: [ViaVersion] ViaVersion 5.2.1-SNAPSHOT is now loaded. Registering protocol transformers and injecting...
+[12:39:01] [Server thread/ERROR]: [ViaVersion] ViaVersion is already loaded, this should work fine. If you get any console errors, try rebooting.
+[12:39:03] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[12:39:03] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[12:39:05] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[12:39:05] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[12:39:07] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.150
+[12:39:07] [Server thread/INFO]: [Vault] Loading server plugin Vault v1.7.3-b131
+[12:39:07] [Server thread/INFO]: [WorldEdit] Loading server plugin WorldEdit v7.3.9+6959-7adf70b
+[12:39:09] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@7654c85e]
+[12:39:09] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
+[12:39:10] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
+[12:39:10] [Server thread/INFO]: [floodgate] Took 1,288ms to boot Floodgate
+[12:39:10] [Server thread/INFO]: [WorldGuard] Loading server plugin WorldGuard v7.0.12+829a4a4
+[12:39:10] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.6.0-SNAPSHOT
+[12:39:12] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[12:39:12] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[12:39:12] [Server thread/INFO]: [PlaceholderAPI] Loading server plugin PlaceholderAPI v2.11.6
+[12:39:12] [Server thread/INFO]: [UltraSetHome] Loading server plugin UltraSetHome v1.7.7
+[12:39:12] [Server thread/INFO]: [Clans] Loading server plugin Clans v0.4.5
+[12:39:12] [Server thread/INFO]: [ClearLag] Loading server plugin ClearLag v3.2.2
+[12:39:12] [Server thread/INFO]: [TAB] Loading server plugin TAB v5.0.3
+[12:39:12] [Server thread/INFO]: [EnhancedEnchants] Loading server plugin EnhancedEnchants v1.6.1
+[12:39:12] [Server thread/INFO]: [Jumper] Loading server plugin Jumper v1.5
+[12:39:12] [Server thread/INFO]: [AnimatedScoreboard] Loading server plugin AnimatedScoreboard v0.3.5
+[12:39:12] [Server thread/INFO]: [GSit] Loading server plugin GSit v1.12.1
+[12:39:12] [Server thread/INFO]: [CraftBook] Loading server plugin CraftBook v3.10.12-SNAPSHOT;no_git_id
+[12:39:12] [Server thread/INFO]: [SimpleTpa] Loading server plugin SimpleTpa v7.4
+[12:39:12] [Server thread/INFO]: [LPC] Loading server plugin LPC v3.6.0
+[12:39:12] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.21.0-dev+151-f2af952
+[12:39:12] [Server thread/INFO]: [ProtectionStones] Loading server plugin ProtectionStones v2.10.5
+[12:39:12] [Server thread/INFO]: [MythicMobs] Loading server plugin MythicMobs v5.7.2-${CI_COMMIT_SHORT_SHA}
+[12:39:12] [Server thread/INFO]: [LumineUtils] (io.lumine.mythic.bukkit.utils.) is bound to plugin MythicMobs - io.lumine.mythic.bukkit.MythicBukkit
+[12:39:12] [Server thread/INFO]: [MythicMobs] §x§f§f§0§0§0§0M§x§f§f§6§6§0§0y§x§f§f§c§c§0§0t§x§c§b§f§f§0§0h§x§6§5§f§f§0§0i§x§0§0§f§f§0§0c§x§0§0§f§f§6§6 §x§0§0§f§f§c§bE§x§0§0§c§b§f§fn§x§0§0§6§5§f§fa§x§0§0§0§0§f§fb§x§6§6§0§0§f§fl§x§c§c§0§0§f§fe§x§f§f§0§0§c§cd§x§f§f§0§0§6§6!
+[12:39:12] [Server thread/INFO]: [PlayerKits2] Loading server plugin PlayerKits2 v1.14.2
+[12:39:12] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.2.1-SNAPSHOT
+[12:39:12] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[12:39:12] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.150
+[12:39:12] [Server thread/INFO]:         __    
+[12:39:12] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.150
+[12:39:12] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[12:39:12] [Server thread/INFO]: 
+[12:39:12] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[12:39:13] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[12:39:13] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[12:39:13] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[12:39:14] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1568ms)
+[12:39:14] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
+[12:39:14] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[12:39:14] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[12:39:14] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
+[12:39:14] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
+[12:39:14] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.3.9+6959-7adf70b
+[12:39:15] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[12:39:15] [Server thread/INFO]: WEPIF: Vault detected! Using Vault for permissions
+[12:39:15] [Server thread/WARN]: [WorldEdit] Server reload detected. This may cause various issues with WorldEdit and dependent plugins.
+[12:39:16] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_21.PaperweightAdapter as the Bukkit adapter
+[12:39:18] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.2.1-SNAPSHOT
+[12:39:18] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21-1.21.1 (767)
+[12:39:18] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.3-SNAPSHOT (b114-83fbd6e)
+[12:39:18] [Server thread/WARN]: java.lang.IllegalArgumentException: Duplicate handler name: floodgate-init
+[12:39:18] [Server thread/WARN]: 	at io.netty.channel.DefaultChannelPipeline.checkDuplicateName(DefaultChannelPipeline.java:1055)
+[12:39:18] [Server thread/WARN]: 	at io.netty.channel.DefaultChannelPipeline.filterName(DefaultChannelPipeline.java:284)
+[12:39:18] [Server thread/WARN]: 	at io.netty.channel.DefaultChannelPipeline.addFirst(DefaultChannelPipeline.java:160)
+[12:39:18] [Server thread/WARN]: 	at io.netty.channel.DefaultChannelPipeline.addFirst(DefaultChannelPipeline.java:152)
+[12:39:18] [Server thread/WARN]: 	at floodgate-spigot.jar//org.geysermc.floodgate.inject.spigot.SpigotInjector.injectClient(SpigotInjector.java:110)
+[12:39:18] [Server thread/WARN]: 	at floodgate-spigot.jar//org.geysermc.floodgate.inject.spigot.SpigotInjector.inject(SpigotInjector.java:95)
+[12:39:18] [Server thread/WARN]: 	at floodgate-spigot.jar//org.geysermc.floodgate.FloodgatePlatform.enable(FloodgatePlatform.java:71)
+[12:39:18] [Server thread/WARN]: 	at floodgate-spigot.jar//org.geysermc.floodgate.SpigotPlugin.onEnable(SpigotPlugin.java:70)
+[12:39:18] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:288)
+[12:39:18] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:202)
+[12:39:18] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109)
+[12:39:18] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520)
+[12:39:18] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:640)
+[12:39:18] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:589)
+[12:39:18] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.reload(CraftServer.java:1132)
+[12:39:18] [Server thread/WARN]: 	at org.bukkit.Bukkit.reload(Bukkit.java:1027)
+[12:39:18] [Server thread/WARN]: 	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:59)
+[12:39:18] [Server thread/WARN]: 	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:165)
+[12:39:18] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.dispatchCommand(CraftServer.java:1000)
+[12:39:18] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.dispatchServerCommand(CraftServer.java:985)
+[12:39:18] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.handleConsoleInputs(DedicatedServer.java:526)
+[12:39:18] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:474)
+[12:39:18] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1598)
+[12:39:18] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1304)
+[12:39:18] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330)
+[12:39:18] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[12:39:19] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.12+829a4a4
+[12:39:19] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[12:39:19] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[12:39:19] [Server thread/INFO]: [WorldGuard] (world) Lava fire is PERMITTED.
+[12:39:19] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[12:39:19] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[12:39:19] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+[12:39:19] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
+[12:39:19] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is PERMITTED.
+[12:39:19] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+[12:39:19] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[12:39:19] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+[12:39:19] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+[12:39:19] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is PERMITTED.
+[12:39:19] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+[12:39:19] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[12:39:19] [Server thread/INFO]: [WorldGuard] Loading region data...
+[12:39:20] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.6.0-SNAPSHOT
+[12:39:20] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.6
+[12:39:21] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[12:39:21] [Server thread/INFO]: [UltraSetHome] Enabling UltraSetHome v1.7.7
+[12:39:21] [Server thread/INFO]: [Clans] Enabling Clans v0.4.5
+[12:39:21] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: clans [0.4.5]
+[12:39:21] [Server thread/INFO]: [ClearLag] Enabling ClearLag v3.2.2
+[12:39:21] [Server thread/INFO]: [ClearLag] Using version-adapter: LatestVersionAdapter
+[12:39:22] [Server thread/INFO]: [ClearLag] Loading modules...
+[12:39:22] [Server thread/WARN]: [ClearLag] Clearlag failed to use the internal TPS tracker during initialization. Reverted to estimation... (Index 3 out of bounds for length 3)
+[12:39:22] [Server thread/INFO]: [ClearLag] Modules enabed, loading config values
+[12:39:22] [Server thread/INFO]: [ClearLag] Modules have been loaded!
+[12:39:22] [Server thread/INFO]: [ClearLag] Clearlag is now enabled!
+[12:39:22] [Server thread/INFO]: [TAB] Enabling TAB v5.0.3
+[12:39:22] [Thread-64/WARN]: [ClearLag] Clearlag failed to check for updates - bukkit may be down
+[12:39:22] [Thread-64/WARN]: java.lang.ArrayIndexOutOfBoundsException: Index 3 out of bounds for length 3
+[12:39:22] [Thread-64/WARN]: 	at Clearlag.jar//me.minebuilders.clearlag.Util.getBukkitVersion(Util.java:105)
+[12:39:22] [Thread-64/WARN]: 	at Clearlag.jar//me.minebuilders.clearlag.BukkitUpdater.updateAvailable(BukkitUpdater.java:32)
+[12:39:22] [Thread-64/WARN]: 	at Clearlag.jar//me.minebuilders.clearlag.BukkitUpdater.run(BukkitUpdater.java:82)
+[12:39:22] [Thread-64/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[12:39:22] [Server thread/INFO]: [TAB] Loaded NMS hook in 122ms
+[12:39:22] [Folia Async Scheduler Thread Timer/INFO]: [UltraSetHome] [ACF] Can't read players locale, you will be unable to automatically detect players language. Only Bukkit 1.7+ is supported for this.
+[12:39:22] [Folia Async Scheduler Thread Timer/INFO]: [UltraSetHome] [ACF] java.lang.NoSuchFieldException: locale
+[12:39:22] [Folia Async Scheduler Thread Timer/INFO]: [UltraSetHome] [ACF] 	at java.base/java.lang.Class.getDeclaredField(Class.java:2782)
+[12:39:22] [Folia Async Scheduler Thread Timer/INFO]: [UltraSetHome] [ACF] 	at io.papermc.reflectionrewriter.runtime.AbstractDefaultRulesReflectionProxy.getDeclaredField(AbstractDefaultRulesReflectionProxy.java:90)
+[12:39:22] [Folia Async Scheduler Thread Timer/INFO]: [UltraSetHome] [ACF] 	at io.papermc.paper.pluginremap.reflect.PaperReflectionHolder.getDeclaredField(Unknown Source)
+[12:39:22] [Folia Async Scheduler Thread Timer/INFO]: [UltraSetHome] [ACF] 	at UltraSetHome-1.7.7.jar//me.cerexus.ultrasethome.acf.BukkitCommandManager.readPlayerLocale(BukkitCommandManager.java:325)
+[12:39:22] [Folia Async Scheduler Thread Timer/INFO]: [UltraSetHome] [ACF] 	at java.base/java.lang.Iterable.forEach(Iterable.java:75)
+[12:39:22] [Folia Async Scheduler Thread Timer/INFO]: [UltraSetHome] [ACF] 	at java.base/java.util.Collections$UnmodifiableCollection.forEach(Collections.java:1116)
+[12:39:22] [Folia Async Scheduler Thread Timer/INFO]: [UltraSetHome] [ACF] 	at UltraSetHome-1.7.7.jar//me.cerexus.ultrasethome.acf.BukkitCommandManager.lambda$new$1(BukkitCommandManager.java:136)
+[12:39:22] [Folia Async Scheduler Thread Timer/INFO]: [UltraSetHome] [ACF] 	at UltraSetHome-1.7.7.jar//me.cerexus.ultrasethome.acf.ACFFoliaScheduler.lambda$createLocaleTask$1(ACFFoliaScheduler.java:51)
+[12:39:22] [Folia Async Scheduler Thread Timer/INFO]: [UltraSetHome] [ACF] 	at io.papermc.paper.threadedregions.scheduler.FoliaAsyncScheduler$AsyncScheduledTask.run(FoliaAsyncScheduler.java:217)
+[12:39:22] [Folia Async Scheduler Thread Timer/INFO]: [UltraSetHome] [ACF] 	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+[12:39:22] [Folia Async Scheduler Thread Timer/INFO]: [UltraSetHome] [ACF] 	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+[12:39:22] [Folia Async Scheduler Thread Timer/INFO]: [UltraSetHome] [ACF] 	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:304)
+[12:39:22] [Folia Async Scheduler Thread Timer/INFO]: [UltraSetHome] [ACF] 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+[12:39:22] [Folia Async Scheduler Thread Timer/INFO]: [UltraSetHome] [ACF] 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+[12:39:22] [Folia Async Scheduler Thread Timer/INFO]: [UltraSetHome] [ACF] 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[12:39:23] [Server thread/INFO]: [TAB] Enabled in 717ms
+[12:39:23] [Server thread/INFO]: [EnhancedEnchants] Enabling EnhancedEnchants v1.6.1
+[12:39:23] [Server thread/INFO]: [EnhancedEnchants] [Warning] Enchant in config sweeping does not exist.
+[12:39:23] [Server thread/INFO]: [Jumper] Enabling Jumper v1.5*
+[12:39:23] [Server thread/INFO]: [Jumper] Developed by GoldenStormHD
+[12:39:23] [Server thread/INFO]: [Jumper] YouTube.com/GoldenStormHD
+[12:39:23] [Server thread/INFO]: [AnimatedScoreboard] Enabling AnimatedScoreboard v0.3.5
+[12:39:23] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: animatedscoreboard [0.0.1]
+[12:39:23] [Server thread/INFO]: [GSit] Enabling GSit v1.12.1
+[12:39:23] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: gsit [1.12.1]
+[12:39:23] [Server thread/INFO]: [GSit] The plugin was successfully enabled.
+[12:39:23] [Server thread/INFO]: [GSit] Link with PlaceholderAPI successful!
+[12:39:23] [Server thread/INFO]: [GSit] Link with WorldGuard successful!
+[12:39:23] [Server thread/INFO]: [CraftBook] Enabling CraftBook v3.10.12-SNAPSHOT;no_git_id
+[12:39:23] [Server thread/INFO]: [CraftBook] Loading persistent data from YAML!
+[12:39:23] [Server thread/INFO]: [SimpleTpa] Enabling SimpleTpa v7.4
+[12:39:23] [Server thread/INFO]: [SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9
+[12:39:23] [Server thread/INFO]: [SimpleTpa] Simple Tpa has been enabled on version 7.4
+[12:39:24] [Server thread/INFO]: Enabled metrics. You may opt-out by changing plugins/bStats/config.yml
+[12:39:24] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: SimpleTpa [7.4]
+[12:39:24] [Server thread/INFO]: [LPC] Enabling LPC v3.6.0
+[12:39:24] [Server thread/INFO]: [Essentials] Enabling Essentials v2.21.0-dev+151-f2af952
+[12:39:24] [Server thread/ERROR]: [Essentials] You are running an unsupported server version!
+[12:39:25] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[12:39:25] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[12:39:25] [Server thread/INFO]: [Essentials] Loaded 43465 items from items.json.
+[12:39:25] [Server thread/INFO]: [Essentials] Using locale en
+[12:39:25] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[12:39:26] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[12:39:26] [Server thread/INFO]: [UltraSetHome] Essentials hooked successfully.
+[12:39:26] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
+[12:39:26] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
+[12:39:26] [Server thread/INFO]: [ProtectionStones] Enabling ProtectionStones v2.10.5
+[12:39:26] [Server thread/INFO]: [WorldGuard] Registering session handler dev.espi.protectionstones.flags.GreetingFlagHandler
+[12:39:26] [Server thread/INFO]: [WorldGuard] Registering session handler dev.espi.protectionstones.flags.FarewellFlagHandler
+[12:39:26] [Server thread/INFO]: [ProtectionStones] PlaceholderAPI support enabled!
+[12:39:26] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: protectionstones [2.10.5]
+[12:39:26] [Server thread/INFO]: [ProtectionStones] LuckPerms support enabled!
+[12:39:26] [Server thread/INFO]: [ProtectionStones] Protection Stone Blocks:
+[12:39:26] [Server thread/INFO]: [ProtectionStones] - DEEPSLATE_DIAMOND_ORE (510x150)
+[12:39:26] [Server thread/INFO]: [ProtectionStones] - EMERALD_ORE (64)
+[12:39:26] [Server thread/WARN]: org.bukkit.configuration.InvalidConfigurationException: expected '<document start>', but found '<scalar>'
+[12:39:26] [Server thread/WARN]:  in 'reader', line 15, column 1:
+[12:39:26] [Server thread/WARN]:     placing_cooldown = -1
+[12:39:26] [Server thread/WARN]:     ^
+[12:39:26] [Server thread/WARN]: 
+[12:39:26] [Server thread/WARN]: 	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:111)
+[12:39:26] [Server thread/WARN]: 	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:160)
+[12:39:26] [Server thread/WARN]: 	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:128)
+[12:39:26] [Server thread/WARN]: 	at ProtectionStones-2.10.5.jar//dev.espi.protectionstones.PSL.loadConfig(PSL.java:479)
+[12:39:26] [Server thread/WARN]: 	at ProtectionStones-2.10.5.jar//dev.espi.protectionstones.ProtectionStones.loadConfig(ProtectionStones.java:514)
+[12:39:26] [Server thread/WARN]: 	at ProtectionStones-2.10.5.jar//dev.espi.protectionstones.ProtectionStones.onEnable(ProtectionStones.java:612)
+[12:39:26] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:288)
+[12:39:26] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:202)
+[12:39:26] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109)
+[12:39:26] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520)
+[12:39:26] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:640)
+[12:39:26] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:589)
+[12:39:26] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.reload(CraftServer.java:1132)
+[12:39:26] [Server thread/WARN]: 	at org.bukkit.Bukkit.reload(Bukkit.java:1027)
+[12:39:26] [Server thread/WARN]: 	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:59)
+[12:39:26] [Server thread/WARN]: 	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:165)
+[12:39:26] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.dispatchCommand(CraftServer.java:1000)
+[12:39:26] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.dispatchServerCommand(CraftServer.java:985)
+[12:39:26] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.handleConsoleInputs(DedicatedServer.java:526)
+[12:39:26] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:474)
+[12:39:26] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1598)
+[12:39:26] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1304)
+[12:39:26] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330)
+[12:39:26] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[12:39:26] [Server thread/WARN]: Caused by: expected '<document start>', but found '<scalar>'
+[12:39:26] [Server thread/WARN]:  in 'reader', line 15, column 1:
+[12:39:26] [Server thread/WARN]:     placing_cooldown = -1
+[12:39:26] [Server thread/WARN]:     ^
+[12:39:26] [Server thread/WARN]: 
+[12:39:26] [Server thread/WARN]: 	at org.yaml.snakeyaml.parser.ParserImpl$ParseDocumentStart.produce(ParserImpl.java:250)
+[12:39:26] [Server thread/WARN]: 	at org.yaml.snakeyaml.parser.ParserImpl.peekEvent(ParserImpl.java:161)
+[12:39:26] [Server thread/WARN]: 	at org.yaml.snakeyaml.parser.ParserImpl.checkEvent(ParserImpl.java:152)
+[12:39:26] [Server thread/WARN]: 	at org.yaml.snakeyaml.composer.Composer.getSingleNode(Composer.java:160)
+[12:39:26] [Server thread/WARN]: 	at org.yaml.snakeyaml.Yaml.compose(Yaml.java:575)
+[12:39:26] [Server thread/WARN]: 	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:104)
+[12:39:26] [Server thread/WARN]: 	... 23 more
+[12:39:26] [Server thread/INFO]: [ProtectionStones] Building region cache...
+[12:39:26] [Server thread/INFO]: [ProtectionStones] Building UUID cache... (if slow change async-load-uuid-cache in the config to true)
+[12:39:26] [Server thread/INFO]: [ProtectionStones] Checking if PS regions have been updated to UUIDs...
+[12:39:26] [Server thread/INFO]: [ProtectionStones] §fProtectionStones has successfully started!
+[12:39:26] [Server thread/INFO]: [MythicMobs] Enabling MythicMobs v5.7.2-${CI_COMMIT_SHORT_SHA}
+[12:39:26] [Server thread/INFO]: [MythicMobs] Loading MythicMobs for Paper (MC: 1.21.0)...
+[12:39:26] [Server thread/INFO]: [MythicMobs] The server is running Paper; enabled Paper exclusive functionality
+[12:39:27] [Folia Async Scheduler Thread Timer/INFO]: [Essentials] [ACF] Can't read players locale, you will be unable to automatically detect players language. Only Bukkit 1.7+ is supported for this.
+[12:39:27] [Folia Async Scheduler Thread Timer/INFO]: [Essentials] [ACF] java.lang.NoSuchFieldException: locale
+[12:39:27] [Folia Async Scheduler Thread Timer/INFO]: [Essentials] [ACF] 	at java.base/java.lang.Class.getDeclaredField(Class.java:2782)
+[12:39:27] [Folia Async Scheduler Thread Timer/INFO]: [Essentials] [ACF] 	at io.papermc.reflectionrewriter.runtime.AbstractDefaultRulesReflectionProxy.getDeclaredField(AbstractDefaultRulesReflectionProxy.java:90)
+[12:39:27] [Folia Async Scheduler Thread Timer/INFO]: [Essentials] [ACF] 	at io.papermc.paper.pluginremap.reflect.PaperReflectionHolder.getDeclaredField(Unknown Source)
+[12:39:27] [Folia Async Scheduler Thread Timer/INFO]: [Essentials] [ACF] 	at UltraSetHome-1.7.7.jar//me.cerexus.ultrasethome.acf.BukkitCommandManager.readPlayerLocale(BukkitCommandManager.java:325)
+[12:39:27] [Folia Async Scheduler Thread Timer/INFO]: [Essentials] [ACF] 	at java.base/java.lang.Iterable.forEach(Iterable.java:75)
+[12:39:27] [Folia Async Scheduler Thread Timer/INFO]: [Essentials] [ACF] 	at java.base/java.util.Collections$UnmodifiableCollection.forEach(Collections.java:1116)
+[12:39:27] [Folia Async Scheduler Thread Timer/INFO]: [Essentials] [ACF] 	at UltraSetHome-1.7.7.jar//me.cerexus.ultrasethome.acf.BukkitCommandManager.lambda$new$1(BukkitCommandManager.java:136)
+[12:39:27] [Folia Async Scheduler Thread Timer/INFO]: [Essentials] [ACF] 	at UltraSetHome-1.7.7.jar//me.cerexus.ultrasethome.acf.ACFFoliaScheduler.lambda$createLocaleTask$1(ACFFoliaScheduler.java:51)
+[12:39:27] [Folia Async Scheduler Thread Timer/INFO]: [Essentials] [ACF] 	at io.papermc.paper.threadedregions.scheduler.FoliaAsyncScheduler$AsyncScheduledTask.run(FoliaAsyncScheduler.java:217)
+[12:39:27] [Folia Async Scheduler Thread Timer/INFO]: [Essentials] [ACF] 	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+[12:39:27] [Folia Async Scheduler Thread Timer/INFO]: [Essentials] [ACF] 	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+[12:39:27] [Folia Async Scheduler Thread Timer/INFO]: [Essentials] [ACF] 	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:304)
+[12:39:27] [Folia Async Scheduler Thread Timer/INFO]: [Essentials] [ACF] 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+[12:39:27] [Folia Async Scheduler Thread Timer/INFO]: [Essentials] [ACF] 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+[12:39:27] [Folia Async Scheduler Thread Timer/INFO]: [Essentials] [ACF] 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[12:39:28] [Server thread/INFO]: [MythicMobs] [STDOUT] END_SPAWN_POINT
+[12:39:28] [Server thread/INFO]: [MythicMobs] [STDOUT] RAIN_DELAY
+[12:39:28] [Server thread/INFO]: [MythicMobs] [STDOUT] RAIN_DURATION
+[12:39:28] [Server thread/INFO]: [MythicMobs] [STDOUT] THUNDER_DELAY
+[12:39:28] [Server thread/INFO]: [MythicMobs] [STDOUT] THUNDER_DURATION
+[12:39:28] [Server thread/INFO]: [MythicMobs] [STDOUT] LOGGER
+[12:39:28] [Server thread/INFO]: [MythicMobs] [STDOUT] EMPTY_TIME_NO_TICK
+[12:39:28] [Server thread/INFO]: [MythicMobs] [STDOUT] MAX_SCHEDULED_TICKS_PER_TICK
+[12:39:28] [Server thread/INFO]: [MythicMobs] [STDOUT] players
+[12:39:28] [Server thread/INFO]: [MythicMobs] [STDOUT] chunkSource
+[12:39:28] [Server thread/INFO]: [MythicMobs] [STDOUT] server
+[12:39:28] [Server thread/INFO]: [MythicMobs] [STDOUT] serverLevelData
+[12:39:28] [Server thread/INFO]: [MythicMobs] [STDOUT] lastSpawnChunkRadius
+[12:39:28] [Server thread/INFO]: [MythicMobs] [STDOUT] entityTickList
+[12:39:28] [Server thread/INFO]: [MythicMobs] [STDOUT] gameEventDispatcher
+[12:39:28] [Server thread/INFO]: [MythicMobs] [STDOUT] noSave
+[12:39:28] [Server thread/INFO]: [MythicMobs] [STDOUT] sleepStatus
+[12:39:28] [Server thread/INFO]: [MythicMobs] [STDOUT] emptyTime
+[12:39:28] [Server thread/INFO]: [MythicMobs] [STDOUT] portalForcer
+[12:39:28] [Server thread/INFO]: [MythicMobs] [STDOUT] blockTicks
+[12:39:28] [Server thread/INFO]: [MythicMobs] [STDOUT] fluidTicks
+[12:39:28] [Server thread/INFO]: [MythicMobs] [STDOUT] pathTypesByPosCache
+[12:39:28] [Server thread/INFO]: [MythicMobs] [STDOUT] navigatingMobs
+[12:39:28] [Server thread/INFO]: [MythicMobs] [STDOUT] isUpdatingNavigations
+[12:39:28] [Server thread/INFO]: [MythicMobs] [STDOUT] raids
+[12:39:28] [Server thread/INFO]: [MythicMobs] [STDOUT] blockEvents
+[12:39:28] [Server thread/INFO]: [MythicMobs] [STDOUT] blockEventsToReschedule
+[12:39:28] [Server thread/INFO]: [MythicMobs] [STDOUT] handlingTick
+[12:39:28] [Server thread/INFO]: [MythicMobs] [STDOUT] customSpawners
+[12:39:28] [Server thread/INFO]: [MythicMobs] [STDOUT] dragonFight
+[12:39:28] [Server thread/INFO]: [MythicMobs] [STDOUT] dragonParts
+[12:39:28] [Server thread/INFO]: [MythicMobs] [STDOUT] structureManager
+[12:39:28] [Server thread/INFO]: [MythicMobs] [STDOUT] structureCheck
+[12:39:28] [Server thread/INFO]: [MythicMobs] [STDOUT] tickTime
+[12:39:28] [Server thread/INFO]: [MythicMobs] [STDOUT] randomSequences
+[12:39:28] [Server thread/INFO]: [MythicMobs] [STDOUT] convertable
+[12:39:28] [Server thread/INFO]: [MythicMobs] [STDOUT] uuid
+[12:39:28] [Server thread/INFO]: [MythicMobs] [STDOUT] hasPhysicsEvent
+[12:39:28] [Server thread/INFO]: [MythicMobs] [STDOUT] hasEntityMoveEvent
+[12:39:28] [Server thread/INFO]: [MythicMobs] [STDOUT] wireHandler
+[12:39:28] [Server thread/INFO]: [MythicMobs] [STDOUT] markedClosing
+[12:39:28] [Server thread/INFO]: [MythicMobs] [STDOUT] viewDistanceHolder
+[12:39:28] [Server thread/INFO]: [MythicMobs] [STDOUT] chunkLoader
+[12:39:28] [Server thread/INFO]: [MythicMobs] [STDOUT] entityDataController
+[12:39:28] [Server thread/INFO]: [MythicMobs] [STDOUT] poiDataController
+[12:39:28] [Server thread/INFO]: [MythicMobs] [STDOUT] chunkDataController
+[12:39:28] [Server thread/INFO]: [MythicMobs] [STDOUT] chunkTaskScheduler
+[12:39:28] [Server thread/INFO]: [MythicMobs] [STDOUT] lastMidTickFailure
+[12:39:28] [Server thread/INFO]: [MythicMobs] [STDOUT] tickedBlocksOrFluids
+[12:39:28] [Server thread/INFO]: [MythicMobs] [STDOUT] nearbyPlayers
+[12:39:28] [Server thread/INFO]: [MythicMobs] [STDOUT] EMPTY_CHUNK_AND_HOLDERS
+[12:39:28] [Server thread/INFO]: [MythicMobs] [STDOUT] loadedChunks
+[12:39:28] [Server thread/INFO]: [MythicMobs] [STDOUT] tickingChunks
+[12:39:28] [Server thread/INFO]: [MythicMobs] [STDOUT] entityTickingChunks
+[12:39:28] [Server thread/INFO]: [MythicMobs] [STDOUT] lagCompensationTick
+[12:39:28] [Server thread/INFO]: [MythicMobs] [STDOUT] currentlyTickingEntity
+[12:39:28] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: mythic [5.0.0]
+[12:39:28] [Server thread/INFO]: [MythicMobs] Mythic PlaceholderAPI Support has been enabled!
+[12:39:28] [Server thread/INFO]: [MythicMobs] Mythic Vault Support has been enabled!
+[12:39:28] [Server thread/INFO]: [MythicMobs] Mythic WorldGuard Support has been enabled!
+[12:39:29] [Server thread/INFO]: [MythicMobs] Base directory /workspaces/msx/servidor_minecraft/plugins/MythicMobs/data
+[12:39:29] [Server thread/INFO]: [MythicMobs] Module directory /workspaces/msx/servidor_minecraft/plugins/MythicMobs/data/worlds
+[12:39:31] [Server thread/INFO]: [MythicMobs] Loading Packs...
+[12:39:31] [Server thread/INFO]: [MythicMobs] Loading Items...
+[12:39:32] [Server thread/INFO]: [MythicMobs] Loading Item Groups...
+[12:39:32] [Server thread/INFO]: [MythicMobs] Loading Skills...
+[12:39:32] [Server thread/INFO]: [MythicMobs] Loading Drop Tables...
+[12:39:32] [Server thread/INFO]: [MythicMobs] Loading Random Spawns...
+[12:39:32] [Server thread/INFO]: [MythicMobs] Loading Spawn Blocks...
+[12:39:32] [Server thread/INFO]: [MythicMobs] ✓ Loaded 9 mobs.
+[12:39:32] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 vanilla mob overrides.
+[12:39:32] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob stacks.
+[12:39:32] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 skills.
+[12:39:32] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 random spawns.
+[12:39:32] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 mythic items.
+[12:39:32] [Server thread/INFO]: [MythicMobs] ✓ Loaded 2 drop tables.
+[12:39:32] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob spawners.
+[12:39:32] [Server thread/INFO]: [MythicMobs] MythicMobs configuration file loaded successfully.
+[12:39:33] [Server thread/INFO]: [MythicMobs] Started up bStats Metrics
+[12:39:33] [Server thread/INFO]: [MythicMobs] ✓ MythicMobs v5.7.2 ( build ${CI_COMMIT_SHORT_SHA} ) has been successfully loaded!
+[12:39:33] [Server thread/INFO]: [PlayerKits2] Enabling PlayerKits2 v1.14.2
+[12:39:33] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: playerkits [1.14.2]
+[12:39:33] [Server thread/INFO]: [PlayerKits²] Has been enabled! Version: 1.14.2
+[12:39:33] [Server thread/INFO]: [PlayerKits²] Thanks for using my plugin!   ~Ajneb97
+[12:39:33] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.2.1-SNAPSHOT
+[12:39:33] [Paper Async Command Builder Thread Pool - 5/ERROR]: Caught previously unhandled exception :
+[12:39:33] [Paper Async Command Builder Thread Pool - 5/ERROR]: Paper Async Command Builder Thread Pool - 5
+java.util.ConcurrentModificationException: null
+	at java.base/java.util.LinkedHashMap$LinkedHashIterator.nextNode(LinkedHashMap.java:1023) ~[?:?]
+	at java.base/java.util.LinkedHashMap$LinkedValueIterator.next(LinkedHashMap.java:1052) ~[?:?]
+	at net.minecraft.commands.Commands.fillUsableCommands(Commands.java:537) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.commands.Commands.sendAsync(Commands.java:496) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.commands.Commands.lambda$sendCommands$6(Commands.java:475) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[12:39:34] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[12:39:34] [Server thread/INFO]: [Geyser-Spigot] 
+[12:39:34] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.6.0-b734 (git-master-64c7adc)
+[12:39:34] [Server thread/INFO]: [Geyser-Spigot] 
+[12:39:34] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[12:39:42] [epollEventLoopGroup-15-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 19132
+[12:39:42] [Server thread/INFO]: [Geyser-Spigot] Done (8.113s)! Run /geyser help for help!
+[12:39:42] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[12:39:42] [Server thread/INFO]: CONSOLE: Reload complete.
+[12:39:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 45365ms or 907 ticks behind
+[12:39:42] [Server thread/INFO]: Timings Reset
+[12:39:43] [Craft Scheduler Thread - 28 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[12:39:43] [Craft Scheduler Thread - 31 - AnimatedScoreboard/INFO]: [AnimatedScoreboard] Checking for an update!
+[12:39:43] [Craft Scheduler Thread - 32 - Essentials/INFO]: [Essentials] Fetching version information...
+[12:39:43] [Server thread/INFO]: [UltraSetHome] WorldGuard hooked successfully.
+[12:39:43] [Server thread/INFO]: [Essentials] Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.7.3-b131)!
+[12:39:43] [Craft Scheduler Thread - 31 - AnimatedScoreboard/INFO]: [AnimatedScoreboard] No new versions found for the plugin!
+[12:39:43] [Server thread/WARN]: [UltraSetHome] *************************************************************
+[12:39:43] [Server thread/WARN]: [UltraSetHome] * There is a new version of UltraSetHome available!
+[12:39:43] [Server thread/WARN]: [UltraSetHome] *  
+[12:39:43] [Server thread/WARN]: [UltraSetHome] * Your version:   1.7.7
+[12:39:43] [Server thread/WARN]: [UltraSetHome] * Latest version: 1.7.9
+[12:39:43] [Server thread/WARN]: [UltraSetHome] *  
+[12:39:43] [Server thread/WARN]: [UltraSetHome] * Please update to the newest version.
+[12:39:43] [Server thread/WARN]: [UltraSetHome] *  
+[12:39:43] [Server thread/WARN]: [UltraSetHome] * Download:
+[12:39:43] [Server thread/WARN]: [UltraSetHome] *   https://www.spigotmc.org/resources/ultra-sethome.96934/
+[12:39:43] [Server thread/WARN]: [UltraSetHome] *************************************************************
+[12:39:43] [Server thread/INFO]: [ViaVersion] You are running a development version of the plugin, please report any bugs to GitHub.
+[12:39:43] [Craft Scheduler Thread - 27 - Vault/INFO]: [Vault] Checking for Updates ... 
+[12:39:43] [Server thread/WARN]: luis_gamer_YT moved too quickly! 0.6377720264837983,-3.626095963533274,-9.675310460684763
+[12:39:43] [Server thread/INFO]: luis_gamer_YT issued server command: /gamemode spectator
+[12:39:44] [Craft Scheduler Thread - 27 - Vault/INFO]: [Vault] No new version available
+[12:39:44] [Server thread/WARN]: [CraftBook] §cWarning! You have no mechanics enabled, the plugin will appear to do nothing until a feature is enabled!
+[12:39:45] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: luckperms [5.4-R2]
+[12:39:45] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: player [2.0.8]
+[12:39:45] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: vault [1.8.3]
+[12:39:45] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: changeoutput [1.2.2]
+[12:39:45] [Server thread/INFO]: 4 placeholder hook(s) registered!
+[12:39:48] [Server thread/INFO]: luis_gamer_YT issued server command: /gamemode survival
+[12:39:49] [Server thread/INFO]: [ [ [PlayerKits²] ] ]
+[12:39:49] [Server thread/INFO]:  
+[12:39:49] [Server thread/INFO]: /kit Opens the GUI.
+[12:39:49] [Server thread/INFO]: /kit claim <kit> Claims a kit outside the GUI.
+[12:39:49] [Server thread/INFO]: /kit create <kit> (optional)original Creates a new kit using the items in your inventory.
+[12:39:49] [Server thread/INFO]: /kit edit <kit> Edits a kit.
+[12:39:49] [Server thread/INFO]: /kit give <kit> <player> Gives a kit to a player.
+[12:39:49] [Server thread/INFO]: /kit delete <kit> Deletes a kit.
+[12:39:49] [Server thread/INFO]: /kit reset <kit> <player>/* Resets kit data for a player.
+[12:39:49] [Server thread/INFO]: /kit preview <kit> Previews a kit.
+[12:39:49] [Server thread/INFO]: /kit open <inventory> <player> Opens a specific inventory for a player.
+[12:39:49] [Server thread/INFO]: /kit reload Reloads the config.
+[12:39:49] [Server thread/INFO]: /kit verify Checks the plugin for errors.
+[12:39:49] [Server thread/INFO]:  
+[12:39:49] [Server thread/INFO]: [ [ [PlayerKits²] ] ]
+[12:39:50] [Server thread/INFO]: [ [ [PlayerKits²] ] ]
+[12:39:50] [Server thread/INFO]:  
+[12:39:50] [Server thread/INFO]: /kit Opens the GUI.
+[12:39:50] [Server thread/INFO]: /kit claim <kit> Claims a kit outside the GUI.
+[12:39:50] [Server thread/INFO]: /kit create <kit> (optional)original Creates a new kit using the items in your inventory.
+[12:39:50] [Server thread/INFO]: /kit edit <kit> Edits a kit.
+[12:39:50] [Server thread/INFO]: /kit give <kit> <player> Gives a kit to a player.
+[12:39:50] [Server thread/INFO]: /kit delete <kit> Deletes a kit.
+[12:39:50] [Server thread/INFO]: /kit reset <kit> <player>/* Resets kit data for a player.
+[12:39:50] [Server thread/INFO]: /kit preview <kit> Previews a kit.
+[12:39:50] [Server thread/INFO]: /kit open <inventory> <player> Opens a specific inventory for a player.
+[12:39:50] [Server thread/INFO]: /kit reload Reloads the config.
+[12:39:50] [Server thread/INFO]: /kit verify Checks the plugin for errors.
+[12:39:50] [Server thread/INFO]:  
+[12:39:50] [Server thread/INFO]: [ [ [PlayerKits²] ] ]
+[12:39:50] [Server thread/INFO]: [ [ [PlayerKits²] ] ]
+[12:39:50] [Server thread/INFO]:  
+[12:39:50] [Server thread/INFO]: /kit Opens the GUI.
+[12:39:50] [Server thread/INFO]: /kit claim <kit> Claims a kit outside the GUI.
+[12:39:50] [Server thread/INFO]: /kit create <kit> (optional)original Creates a new kit using the items in your inventory.
+[12:39:50] [Server thread/INFO]: /kit edit <kit> Edits a kit.
+[12:39:50] [Server thread/INFO]: /kit give <kit> <player> Gives a kit to a player.
+[12:39:50] [Server thread/INFO]: /kit delete <kit> Deletes a kit.
+[12:39:50] [Server thread/INFO]: /kit reset <kit> <player>/* Resets kit data for a player.
+[12:39:50] [Server thread/INFO]: /kit preview <kit> Previews a kit.
+[12:39:50] [Server thread/INFO]: /kit open <inventory> <player> Opens a specific inventory for a player.
+[12:39:50] [Server thread/INFO]: /kit reload Reloads the config.
+[12:39:50] [Server thread/INFO]: /kit verify Checks the plugin for errors.
+[12:39:50] [Server thread/INFO]:  
+[12:39:50] [Server thread/INFO]: [ [ [PlayerKits²] ] ]
+[12:39:51] [Server thread/INFO]: [ [ [PlayerKits²] ] ]
+[12:39:51] [Server thread/INFO]:  
+[12:39:51] [Server thread/INFO]: /kit Opens the GUI.
+[12:39:51] [Server thread/INFO]: /kit claim <kit> Claims a kit outside the GUI.
+[12:39:51] [Server thread/INFO]: /kit create <kit> (optional)original Creates a new kit using the items in your inventory.
+[12:39:51] [Server thread/INFO]: /kit edit <kit> Edits a kit.
+[12:39:51] [Server thread/INFO]: /kit give <kit> <player> Gives a kit to a player.
+[12:39:51] [Server thread/INFO]: /kit delete <kit> Deletes a kit.
+[12:39:51] [Server thread/INFO]: /kit reset <kit> <player>/* Resets kit data for a player.
+[12:39:51] [Server thread/INFO]: /kit preview <kit> Previews a kit.
+[12:39:51] [Server thread/INFO]: /kit open <inventory> <player> Opens a specific inventory for a player.
+[12:39:51] [Server thread/INFO]: /kit reload Reloads the config.
+[12:39:51] [Server thread/INFO]: /kit verify Checks the plugin for errors.
+[12:39:51] [Server thread/INFO]:  
+[12:39:51] [Server thread/INFO]: [ [ [PlayerKits²] ] ]
+[12:39:51] [Server thread/INFO]: [ [ [PlayerKits²] ] ]
+[12:39:51] [Server thread/INFO]:  
+[12:39:51] [Server thread/INFO]: /kit Opens the GUI.
+[12:39:51] [Server thread/INFO]: /kit claim <kit> Claims a kit outside the GUI.
+[12:39:51] [Server thread/INFO]: /kit create <kit> (optional)original Creates a new kit using the items in your inventory.
+[12:39:51] [Server thread/INFO]: /kit edit <kit> Edits a kit.
+[12:39:51] [Server thread/INFO]: /kit give <kit> <player> Gives a kit to a player.
+[12:39:51] [Server thread/INFO]: /kit delete <kit> Deletes a kit.
+[12:39:51] [Server thread/INFO]: /kit reset <kit> <player>/* Resets kit data for a player.
+[12:39:51] [Server thread/INFO]: /kit preview <kit> Previews a kit.
+[12:39:51] [Server thread/INFO]: /kit open <inventory> <player> Opens a specific inventory for a player.
+[12:39:51] [Server thread/INFO]: /kit reload Reloads the config.
+[12:39:51] [Server thread/INFO]: /kit verify Checks the plugin for errors.
+[12:39:51] [Server thread/INFO]:  
+[12:39:51] [Server thread/INFO]: [ [ [PlayerKits²] ] ]
+[12:39:52] [Server thread/INFO]: [ [ [PlayerKits²] ] ]
+[12:39:52] [Server thread/INFO]:  
+[12:39:52] [Server thread/INFO]: /kit Opens the GUI.
+[12:39:52] [Server thread/INFO]: /kit claim <kit> Claims a kit outside the GUI.
+[12:39:52] [Server thread/INFO]: /kit create <kit> (optional)original Creates a new kit using the items in your inventory.
+[12:39:52] [Server thread/INFO]: /kit edit <kit> Edits a kit.
+[12:39:52] [Server thread/INFO]: /kit give <kit> <player> Gives a kit to a player.
+[12:39:52] [Server thread/INFO]: /kit delete <kit> Deletes a kit.
+[12:39:52] [Server thread/INFO]: /kit reset <kit> <player>/* Resets kit data for a player.
+[12:39:52] [Server thread/INFO]: /kit preview <kit> Previews a kit.
+[12:39:52] [Server thread/INFO]: /kit open <inventory> <player> Opens a specific inventory for a player.
+[12:39:52] [Server thread/INFO]: /kit reload Reloads the config.
+[12:39:52] [Server thread/INFO]: /kit verify Checks the plugin for errors.
+[12:39:52] [Server thread/INFO]:  
+[12:39:52] [Server thread/INFO]: [ [ [PlayerKits²] ] ]
+[12:39:52] [Server thread/INFO]: [ [ [PlayerKits²] ] ]
+[12:39:52] [Server thread/INFO]:  
+[12:39:52] [Server thread/INFO]: /kit Opens the GUI.
+[12:39:52] [Server thread/INFO]: /kit claim <kit> Claims a kit outside the GUI.
+[12:39:52] [Server thread/INFO]: /kit create <kit> (optional)original Creates a new kit using the items in your inventory.
+[12:39:52] [Server thread/INFO]: /kit edit <kit> Edits a kit.
+[12:39:52] [Server thread/INFO]: /kit give <kit> <player> Gives a kit to a player.
+[12:39:52] [Server thread/INFO]: /kit delete <kit> Deletes a kit.
+[12:39:52] [Server thread/INFO]: /kit reset <kit> <player>/* Resets kit data for a player.
+[12:39:52] [Server thread/INFO]: /kit preview <kit> Previews a kit.
+[12:39:52] [Server thread/INFO]: /kit open <inventory> <player> Opens a specific inventory for a player.
+[12:39:52] [Server thread/INFO]: /kit reload Reloads the config.
+[12:39:52] [Server thread/INFO]: /kit verify Checks the plugin for errors.
+[12:39:52] [Server thread/INFO]:  
+[12:39:52] [Server thread/INFO]: [ [ [PlayerKits²] ] ]
+[12:39:53] [Server thread/INFO]: [ [ [PlayerKits²] ] ]
+[12:39:53] [Server thread/INFO]:  
+[12:39:53] [Server thread/INFO]: /kit Opens the GUI.
+[12:39:53] [Server thread/INFO]: /kit claim <kit> Claims a kit outside the GUI.
+[12:39:53] [Server thread/INFO]: /kit create <kit> (optional)original Creates a new kit using the items in your inventory.
+[12:39:53] [Server thread/INFO]: /kit edit <kit> Edits a kit.
+[12:39:53] [Server thread/INFO]: /kit give <kit> <player> Gives a kit to a player.
+[12:39:53] [Server thread/INFO]: /kit delete <kit> Deletes a kit.
+[12:39:53] [Server thread/INFO]: /kit reset <kit> <player>/* Resets kit data for a player.
+[12:39:53] [Server thread/INFO]: /kit preview <kit> Previews a kit.
+[12:39:53] [Server thread/INFO]: /kit open <inventory> <player> Opens a specific inventory for a player.
+[12:39:53] [Server thread/INFO]: /kit reload Reloads the config.
+[12:39:53] [Server thread/INFO]: /kit verify Checks the plugin for errors.
+[12:39:53] [Server thread/INFO]:  
+[12:39:53] [Server thread/INFO]: [ [ [PlayerKits²] ] ]
+[12:39:53] [Server thread/INFO]: [ [ [PlayerKits²] ] ]
+[12:39:53] [Server thread/INFO]:  
+[12:39:53] [Server thread/INFO]: /kit Opens the GUI.
+[12:39:53] [Server thread/INFO]: /kit claim <kit> Claims a kit outside the GUI.
+[12:39:53] [Server thread/INFO]: /kit create <kit> (optional)original Creates a new kit using the items in your inventory.
+[12:39:53] [Server thread/INFO]: /kit edit <kit> Edits a kit.
+[12:39:53] [Server thread/INFO]: /kit give <kit> <player> Gives a kit to a player.
+[12:39:53] [Server thread/INFO]: /kit delete <kit> Deletes a kit.
+[12:39:53] [Server thread/INFO]: /kit reset <kit> <player>/* Resets kit data for a player.
+[12:39:53] [Server thread/INFO]: /kit preview <kit> Previews a kit.
+[12:39:53] [Server thread/INFO]: /kit open <inventory> <player> Opens a specific inventory for a player.
+[12:39:53] [Server thread/INFO]: /kit reload Reloads the config.
+[12:39:53] [Server thread/INFO]: /kit verify Checks the plugin for errors.
+[12:39:53] [Server thread/INFO]:  
+[12:39:53] [Server thread/INFO]: [ [ [PlayerKits²] ] ]
+[12:39:53] [Server thread/INFO]: [ [ [PlayerKits²] ] ]
+[12:39:53] [Server thread/INFO]:  
+[12:39:53] [Server thread/INFO]: /kit Opens the GUI.
+[12:39:53] [Server thread/INFO]: /kit claim <kit> Claims a kit outside the GUI.
+[12:39:53] [Server thread/INFO]: /kit create <kit> (optional)original Creates a new kit using the items in your inventory.
+[12:39:53] [Server thread/INFO]: /kit edit <kit> Edits a kit.
+[12:39:53] [Server thread/INFO]: /kit give <kit> <player> Gives a kit to a player.
+[12:39:53] [Server thread/INFO]: /kit delete <kit> Deletes a kit.
+[12:39:53] [Server thread/INFO]: /kit reset <kit> <player>/* Resets kit data for a player.
+[12:39:53] [Server thread/INFO]: /kit preview <kit> Previews a kit.
+[12:39:53] [Server thread/INFO]: /kit open <inventory> <player> Opens a specific inventory for a player.
+[12:39:53] [Server thread/INFO]: /kit reload Reloads the config.
+[12:39:53] [Server thread/INFO]: /kit verify Checks the plugin for errors.
+[12:39:53] [Server thread/INFO]:  
+[12:39:53] [Server thread/INFO]: [ [ [PlayerKits²] ] ]
+[12:39:53] [Server thread/INFO]: [ [ [PlayerKits²] ] ]
+[12:39:53] [Server thread/INFO]:  
+[12:39:53] [Server thread/INFO]: /kit Opens the GUI.
+[12:39:53] [Server thread/INFO]: /kit claim <kit> Claims a kit outside the GUI.
+[12:39:53] [Server thread/INFO]: /kit create <kit> (optional)original Creates a new kit using the items in your inventory.
+[12:39:53] [Server thread/INFO]: /kit edit <kit> Edits a kit.
+[12:39:53] [Server thread/INFO]: /kit give <kit> <player> Gives a kit to a player.
+[12:39:53] [Server thread/INFO]: /kit delete <kit> Deletes a kit.
+[12:39:53] [Server thread/INFO]: /kit reset <kit> <player>/* Resets kit data for a player.
+[12:39:53] [Server thread/INFO]: /kit preview <kit> Previews a kit.
+[12:39:53] [Server thread/INFO]: /kit open <inventory> <player> Opens a specific inventory for a player.
+[12:39:53] [Server thread/INFO]: /kit reload Reloads the config.
+[12:39:53] [Server thread/INFO]: /kit verify Checks the plugin for errors.
+[12:39:53] [Server thread/INFO]:  
+[12:39:53] [Server thread/INFO]: [ [ [PlayerKits²] ] ]
+[12:39:55] [Server thread/INFO]: [ [ [PlayerKits²] ] ]
+[12:39:55] [Server thread/INFO]:  
+[12:39:55] [Server thread/INFO]: /kit Opens the GUI.
+[12:39:55] [Server thread/INFO]: /kit claim <kit> Claims a kit outside the GUI.
+[12:39:55] [Server thread/INFO]: /kit create <kit> (optional)original Creates a new kit using the items in your inventory.
+[12:39:55] [Server thread/INFO]: /kit edit <kit> Edits a kit.
+[12:39:55] [Server thread/INFO]: /kit give <kit> <player> Gives a kit to a player.
+[12:39:55] [Server thread/INFO]: /kit delete <kit> Deletes a kit.
+[12:39:55] [Server thread/INFO]: /kit reset <kit> <player>/* Resets kit data for a player.
+[12:39:55] [Server thread/INFO]: /kit preview <kit> Previews a kit.
+[12:39:55] [Server thread/INFO]: /kit open <inventory> <player> Opens a specific inventory for a player.
+[12:39:55] [Server thread/INFO]: /kit reload Reloads the config.
+[12:39:55] [Server thread/INFO]: /kit verify Checks the plugin for errors.
+[12:39:55] [Server thread/INFO]:  
+[12:39:55] [Server thread/INFO]: [ [ [PlayerKits²] ] ]
+[12:40:14] [Server thread/INFO]: luis_gamer_YT issued server command: /kit claim food
+[12:40:31] [Server thread/INFO]: [ [ [PlayerKits²] ] ]
+[12:40:31] [Server thread/INFO]:  
+[12:40:31] [Server thread/INFO]: /kit Opens the GUI.
+[12:40:31] [Server thread/INFO]: /kit claim <kit> Claims a kit outside the GUI.
+[12:40:31] [Server thread/INFO]: /kit create <kit> (optional)original Creates a new kit using the items in your inventory.
+[12:40:31] [Server thread/INFO]: /kit edit <kit> Edits a kit.
+[12:40:31] [Server thread/INFO]: /kit give <kit> <player> Gives a kit to a player.
+[12:40:31] [Server thread/INFO]: /kit delete <kit> Deletes a kit.
+[12:40:31] [Server thread/INFO]: /kit reset <kit> <player>/* Resets kit data for a player.
+[12:40:31] [Server thread/INFO]: /kit preview <kit> Previews a kit.
+[12:40:31] [Server thread/INFO]: /kit open <inventory> <player> Opens a specific inventory for a player.
+[12:40:31] [Server thread/INFO]: /kit reload Reloads the config.
+[12:40:31] [Server thread/INFO]: /kit verify Checks the plugin for errors.
+[12:40:31] [Server thread/INFO]:  
+[12:40:31] [Server thread/INFO]: [ [ [PlayerKits²] ] ]
+[12:40:57] [Server thread/INFO]: luis_gamer_YT issued server command: /kit edit
+[12:41:04] [Server thread/INFO]: luis_gamer_YT issued server command: /kit edit usiario
+[12:41:19] [Server thread/INFO]: luis_gamer_YT issued server command: /kit edit usuario
+[12:41:19] [Server thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[12:41:59] [Server thread/INFO]: luis_gamer_YT issued server command: /kit
+[12:42:01] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /eco give luis_gamer_YT 500
+[12:42:01] [Server thread/INFO]: $500 added to luis_gamer_YT account. New balance: $1,000
+[12:42:07] [Server thread/INFO]: luis_gamer_YT issued server command: /deop luis_gamer_YT
+[12:42:07] [Server thread/INFO]: [luis_gamer_YT: Made luis_gamer_YT no longer a server operator]
+[12:42:19] [Server thread/INFO]: luis_gamer_YT issued server command: /kit
+[12:42:21] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /eco give luis_gamer_YT 500
+[12:42:21] [Server thread/INFO]: $500 added to luis_gamer_YT account. New balance: $1,500
+[12:42:48] [Server thread/INFO]: luis_gamer_YT issued server command: /kit edit usuario
+[12:42:58] [Server thread/INFO]: Made luis_gamer_YT a server operator
+[12:43:03] [Server thread/INFO]: luis_gamer_YT issued server command: /kit edit usuario
+[12:43:30] [Server thread/INFO]: luis_gamer_YT issued server command: /kit edit usuario
+[12:44:18] [Server thread/INFO]: luis_gamer_YT issued server command: /kit edit usuario
+[12:44:27] [Server thread/INFO]: luis_gamer_YT issued server command: /kit edit usuario
+[12:44:28] [Server thread/ERROR]: Could not pass event InventoryClickEvent to PlayerKits2 v1.14.2
+java.lang.IndexOutOfBoundsException: Index 14 out of bounds for length 2
+	at java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:100) ~[?:?]
+	at java.base/jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:106) ~[?:?]
+	at java.base/jdk.internal.util.Preconditions.checkIndex(Preconditions.java:302) ~[?:?]
+	at java.base/java.util.Objects.checkIndex(Objects.java:385) ~[?:?]
+	at java.base/java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at PlayerKits2.jar/pk.ajneb97.managers.edit.InventoryEditActionsEditManager.openInventory(InventoryEditActionsEditManager.java:39) ~[PlayerKits2.jar:?]
+	at PlayerKits2.jar/pk.ajneb97.managers.edit.InventoryEditActionsManager.clickInventory(InventoryEditActionsManager.java:139) ~[PlayerKits2.jar:?]
+	at PlayerKits2.jar/pk.ajneb97.managers.edit.InventoryEditManager.clickInventory(InventoryEditManager.java:394) ~[PlayerKits2.jar:?]
+	at PlayerKits2.jar/pk.ajneb97.listeners.InventoryEditListener.clickInventory(InventoryEditListener.java:67) ~[PlayerKits2.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor1031.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:1.21-130-b1b5d4c]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:131) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:628) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleContainerClick(ServerGamePacketListenerImpl.java:3122) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.network.protocol.game.ServerboundContainerClickPacket.handle(ServerboundContainerClickPacket.java:69) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.network.protocol.game.ServerboundContainerClickPacket.handle(ServerboundContainerClickPacket.java:33) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$0(PacketUtils.java:56) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:151) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1537) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:201) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:125) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1514) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1507) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:135) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1466) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1473) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1318) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[12:44:33] [Server thread/ERROR]: Could not pass event InventoryClickEvent to PlayerKits2 v1.14.2
+java.lang.IndexOutOfBoundsException: Index 14 out of bounds for length 2
+	at java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:100) ~[?:?]
+	at java.base/jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:106) ~[?:?]
+	at java.base/jdk.internal.util.Preconditions.checkIndex(Preconditions.java:302) ~[?:?]
+	at java.base/java.util.Objects.checkIndex(Objects.java:385) ~[?:?]
+	at java.base/java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at PlayerKits2.jar/pk.ajneb97.managers.edit.InventoryEditActionsEditManager.alternateExecutionBeforeGivingItems(InventoryEditActionsEditManager.java:124) ~[PlayerKits2.jar:?]
+	at PlayerKits2.jar/pk.ajneb97.managers.edit.InventoryEditActionsEditManager.clickInventory(InventoryEditActionsEditManager.java:109) ~[PlayerKits2.jar:?]
+	at PlayerKits2.jar/pk.ajneb97.managers.edit.InventoryEditManager.clickInventory(InventoryEditManager.java:396) ~[PlayerKits2.jar:?]
+	at PlayerKits2.jar/pk.ajneb97.listeners.InventoryEditListener.clickInventory(InventoryEditListener.java:67) ~[PlayerKits2.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor1031.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:1.21-130-b1b5d4c]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:131) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:628) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleContainerClick(ServerGamePacketListenerImpl.java:3122) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.network.protocol.game.ServerboundContainerClickPacket.handle(ServerboundContainerClickPacket.java:69) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.network.protocol.game.ServerboundContainerClickPacket.handle(ServerboundContainerClickPacket.java:33) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$0(PacketUtils.java:56) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:151) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1537) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:201) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:125) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1514) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1507) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:135) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1466) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1473) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1318) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[12:44:36] [Server thread/INFO]: luis_gamer_YT issued server command: /kit edit usuario
+[12:44:43] [Server thread/WARN]: [CraftBook] §cWarning! You have no mechanics enabled, the plugin will appear to do nothing until a feature is enabled!
+[12:44:48] [Server thread/INFO]: luis_gamer_YT issued server command: /kit 3600
+[12:44:52] [Server thread/INFO]: luis_gamer_YT issued server command: /kit edit usuario
+[12:46:08] [Server thread/INFO]: luis_gamer_YT issued server command: /kit edit usuario
+[12:47:27] [Server thread/INFO]: luis_gamer_YT issued server command: /kit
+[12:47:28] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /eco give luis_gamer_YT 500
+[12:47:28] [Server thread/INFO]: $500 added to luis_gamer_YT account. New balance: $2,000
+[12:47:46] [Server thread/INFO]: luis_gamer_YT issued server command: /eco reset
+[12:47:53] [Server thread/INFO]: luis_gamer_YT issued server command: /eco reset luis_gamer_YT
+[12:47:59] [Server thread/INFO]: luis_gamer_YT issued server command: /kit
+[12:48:00] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /eco give luis_gamer_YT 500
+[12:48:00] [Server thread/INFO]: $500 added to luis_gamer_YT account. New balance: $500
+[12:48:16] [Server thread/INFO]: luis_gamer_YT issued server command: /time set day
+[12:48:19] [Server thread/INFO]: luis_gamer_YT issued server command: /vanish
+[12:48:30] [Server thread/INFO]: luis_gamer_YT issued server command: /summon minecraft:wolf
+[12:48:30] [Server thread/INFO]: [luis_gamer_YT: Summoned new Wolf]
+[12:48:34] [Server thread/INFO]: luis_gamer_YT issued server command: /vanish
