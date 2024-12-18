@@ -4023,3 +4023,17 @@ java.util.ConcurrentModificationException: null
 [14:37:51] [Server thread/INFO]: luis_gamer_YT issued server command: /tab group buil tabprefix &d&oBUILD
 [14:38:08] [Server thread/INFO]: luis_gamer_YT issued server command: /tab group buil tagsuffix &d&oBUILD
 [14:38:35] [Server thread/INFO]: luis_gamer_YT issued server command: /tab group Owner tabsuffix
+[14:39:57] [Server thread/INFO]: luis_gamer_YT issued server command: /tab player luis_gamer_YT tabprefix pajiso
+[14:40:46] [Server thread/INFO]: luis_gamer_YT issued server command: /tab player luis_gamer_YT tabprefix &6&LOWNER
+[14:41:38] [Server thread/INFO]: luis_gamer_YT issued server command: /tab player luis_gamer_YT tabsuffix
+[14:41:44] [Async Chat Thread - #5/INFO]: [Not Secure] [OWNER] luis_gamer_YT: HOLA
+[14:41:57] [Server thread/WARN]: [CraftBook] §cWarning! You have no mechanics enabled, the plugin will appear to do nothing until a feature is enabled!
+[14:44:11] [Server thread/INFO]: luis_gamer_YT issued server command: /changems luis_gamer_YT
+[14:46:24] [Server thread/INFO]: luis_gamer_YT issued server command: /lp group default permission set
+[14:46:29] [Server thread/INFO]: luis_gamer_YT issued server command: /KIT
+[14:46:39] [Server thread/INFO]: luis_gamer_YT issued server command: /kit
+[14:46:57] [Server thread/WARN]: [CraftBook] §cWarning! You have no mechanics enabled, the plugin will appear to do nothing until a feature is enabled!
+[14:47:01] [Server thread/INFO]: luis_gamer_YT issued server command: /kit edit build
+[14:49:29] [Server thread/INFO]: luis_gamer_YT issued server command: /lp group build permission set playerkits.build
+[14:49:29] [luckperms-command-executor/INFO]: [LP] LOG > (luis_gamer_YT) [G] (build)
+[14:49:29] [luckperms-command-executor/INFO]: [LP] LOG > permission set playerkits.build true
