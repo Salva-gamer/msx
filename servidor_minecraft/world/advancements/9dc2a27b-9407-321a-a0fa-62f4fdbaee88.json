@@ -416,12 +416,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/black_dye": {
-    "criteria": {
-      "has_ink_sac": "2024-12-18 12:25:09 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2024-12-18 12:23:00 +0000"
@@ -461,6 +455,24 @@
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2024-12-18 12:23:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2024-12-18 12:25:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2024-12-18 12:30:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2024-12-18 12:30:03 +0000"
     },
     "done": true
   },

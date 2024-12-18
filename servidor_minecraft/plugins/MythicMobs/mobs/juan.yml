@@ -8,4 +8,4 @@ Juan:
     PreventOtherDrops: true
   Damage: 0
   Skills:
-    - command{c="say ¡Hola!"} @trigger ~onInteract
+    - command{c="playerkits claim food!"} @trigger ~onInteract
