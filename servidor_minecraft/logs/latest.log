@@ -2830,3 +2830,30 @@ java.util.ConcurrentModificationException: null
 [13:48:02] [Server thread/INFO]: luis_gamer_YT issued server command: /back
 [13:48:30] [Server thread/INFO]: luis_gamer_YT issued server command: /gamemode spectator
 [13:48:31] [Server thread/INFO]: luis_gamer_YT issued server command: /gamemode survival
+[13:49:15] [Server thread/INFO]: luis_gamer_YT issued server command: /enchanter add AntiGravity
+[13:49:42] [Server thread/INFO]: luis_gamer_YT issued server command: /gamemode creative
+[13:49:54] [Server thread/INFO]: luis_gamer_YT has made the advancement [Suit Up]
+[13:51:26] [Server thread/WARN]: [CraftBook] §cWarning! You have no mechanics enabled, the plugin will appear to do nothing until a feature is enabled!
+[13:51:49] [Server thread/INFO]: luis_gamer_YT issued server command: /enchanter add Ninja 1
+[13:52:21] [Server thread/INFO]: luis_gamer_YT issued server command: /enchanter add aqua_affinity 1
+[13:52:48] [Server thread/INFO]: luis_gamer_YT issued server command: /enchanter add Furnace 1
+[13:53:01] [Server thread/INFO]: luis_gamer_YT issued server command: /enchanter add Adrenaline 1
+[13:53:08] [Server thread/INFO]: luis_gamer_YT issued server command: /gamemode survival
+[13:53:59] [Server thread/INFO]: luis_gamer_YT issued server command: /enchanter add Cyborg
+[13:54:24] [Server thread/INFO]: luis_gamer_YT issued server command: /enchanter add AcidRain 1
+[13:54:33] [Server thread/INFO]: luis_gamer_YT issued server command: /enchanter add AcidRain 1
+[13:54:46] [Server thread/INFO]: luis_gamer_YT issued server command: /time set day
+[13:54:56] [Server thread/INFO]: luis_gamer_YT issued server command: /summon minecraft:wolf
+[13:54:56] [Server thread/INFO]: [luis_gamer_YT: Summoned new Wolf]
+[13:56:06] [Server thread/INFO]: luis_gamer_YT issued server command: /gamemode creative
+[13:56:20] [Server thread/INFO]: luis_gamer_YT issued server command: /enchanter add BattleCry 1
+[13:56:26] [Server thread/WARN]: [CraftBook] §cWarning! You have no mechanics enabled, the plugin will appear to do nothing until a feature is enabled!
+[13:56:27] [Server thread/INFO]: luis_gamer_YT issued server command: /gamemode survival
+[13:56:40] [Server thread/INFO]: luis_gamer_YT issued server command: /gamemode creative
+[13:57:17] [Server thread/INFO]: luis_gamer_YT issued server command: /enchanter add AntiGravity 2
+[13:57:29] [Server thread/INFO]: luis_gamer_YT issued server command: /enchanter add Enlightened 1
+[13:57:37] [Server thread/INFO]: luis_gamer_YT issued server command: /enchanter add Enlightened 1
+[13:57:39] [Server thread/INFO]: luis_gamer_YT issued server command: /gamemode survival
+[13:57:40] [Server thread/INFO]: luis_gamer_YT issued server command: /gamemode creative
+[13:58:21] [Server thread/INFO]: luis_gamer_YT issued server command: /kit create build
+[13:58:40] [Server thread/INFO]: luis_gamer_YT issued server command: /kit edit build
