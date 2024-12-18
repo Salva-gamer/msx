@@ -16,7 +16,7 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1734526120291
+  logout: 1734530535349
   login: 1734525416955
   kits:
     color: 0
@@ -24,9 +24,9 @@ money: '500'
 logoutlocation:
   world: 1d282298-3ca9-4cc4-8d0d-a39c88df3759
   world-name: world
-  x: -29.51259664802942
-  y: 62.653729617588596
-  z: -31.96724079780097
-  yaw: 87.34027099609375
-  pitch: 16.86919403076172
+  x: -14.833709290320897
+  y: 64.0
+  z: -55.81271020752644
+  yaw: -156.1878662109375
+  pitch: 5.981864929199219
 last-account-name: luis_gamer_YT

@@ -2857,3 +2857,11 @@ java.util.ConcurrentModificationException: null
 [13:57:40] [Server thread/INFO]: luis_gamer_YT issued server command: /gamemode creative
 [13:58:21] [Server thread/INFO]: luis_gamer_YT issued server command: /kit create build
 [13:58:40] [Server thread/INFO]: luis_gamer_YT issued server command: /kit edit build
+[13:59:30] [Server thread/INFO]: luis_gamer_YT issued server command: /clear
+[13:59:37] [Server thread/INFO]: luis_gamer_YT issued server command: /kit edit build
+[14:00:10] [Server thread/INFO]: luis_gamer_YT issued server command: /kit edit build
+[14:01:26] [Server thread/WARN]: [CraftBook] §cWarning! You have no mechanics enabled, the plugin will appear to do nothing until a feature is enabled!
+[14:02:15] [Server thread/INFO]: luis_gamer_YT lost connection: Disconnected
+[14:02:15] [Server thread/INFO]: luis_gamer_YT left the game
+[14:02:30] [Server thread/INFO]: [PlayerKits²] Config Reloaded.
+[14:06:26] [Server thread/WARN]: [CraftBook] §cWarning! You have no mechanics enabled, the plugin will appear to do nothing until a feature is enabled!

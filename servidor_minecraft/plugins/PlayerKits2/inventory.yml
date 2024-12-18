@@ -17,7 +17,7 @@ inventories:
       open_inventory: premium_kits_inventory
     '19':
       type: 'kit: usuario'
-    '2':
+    '20':
       type: 'kit: build'
   premium_kits_inventory:
     slots: 54
