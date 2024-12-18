@@ -2214,3 +2214,27 @@ java.lang.IndexOutOfBoundsException: Index 14 out of bounds for length 2
 [13:28:39] [Server thread/INFO]: luis_gamer_YT issued server command: /lp group owner permission set enhancedenchants.admin true
 [13:28:39] [luckperms-command-executor/INFO]: [LP] LOG > (luis_gamer_YT) [G] (owner)
 [13:28:39] [luckperms-command-executor/INFO]: [LP] LOG > permission set enhancedenchants.admin true
+[13:29:00] [Server thread/INFO]: luis_gamer_YT issued server command: /eeat luis_gamer_YT
+[13:29:10] [Server thread/INFO]: luis_gamer_YT issued server command: /sky sun
+[13:29:15] [Server thread/INFO]: luis_gamer_YT issued server command: /gamemode creative
+[13:29:17] [Server thread/INFO]: luis_gamer_YT issued server command: /sky sun
+[13:29:19] [Server thread/INFO]: luis_gamer_YT issued server command: /sky sun
+[13:29:24] [Server thread/INFO]: luis_gamer_YT issued server command: /sky storm
+[13:29:32] [Server thread/INFO]: luis_gamer_YT issued server command: /sky storm 1
+[13:29:36] [Server thread/INFO]: luis_gamer_YT issued server command: /sky sun
+[13:29:44] [Server thread/INFO]: luis_gamer_YT issued server command: /time set day
+[13:30:03] [Server thread/WARN]: [CraftBook] §cWarning! You have no mechanics enabled, the plugin will appear to do nothing until a feature is enabled!
+[13:30:08] [Server thread/INFO]: luis_gamer_YT issued server command: /enchant unbreaking 5
+[13:30:57] [Server thread/INFO]: luis_gamer_YT issued server command: /xp give luis_gamer_YT 1000000000000
+[13:31:03] [Server thread/INFO]: luis_gamer_YT issued server command: /xp give luis_gamer_YT 10000000
+[13:31:06] [Server thread/INFO]: luis_gamer_YT issued server command: /gamemode survival
+[13:31:09] [Server thread/INFO]: luis_gamer_YT issued server command: /enchant unbreaking 5
+[13:31:14] [Server thread/INFO]: luis_gamer_YT issued server command: /enchant unbreaking 5
+[13:31:18] [Server thread/INFO]: luis_gamer_YT issued server command: /gamemode creative
+[13:33:38] [Server thread/INFO]: luis_gamer_YT issued server command: /enchantment reload
+[13:33:44] [Server thread/INFO]: luis_gamer_YT issued server command: /enhancedenchants reload
+[13:34:06] [Server thread/INFO]: luis_gamer_YT issued server command: /enchant unbreaking 3
+[13:34:08] [Server thread/INFO]: luis_gamer_YT issued server command: /enchant unbreaking 3
+[13:34:46] [Server thread/INFO]: Named entity WitherSkeleton['Skeletal Knight'/8386, uuid='411566e0-4a29-43fe-a6fa-dc2394a6fecd', l='ServerLevel[world]', x=-0.51, y=-27.00, z=-93.86, cpos=[-1, -6], tl=440, v=true] died: Skeletal Knight suffocated in a wall
+[13:35:03] [Server thread/WARN]: [CraftBook] §cWarning! You have no mechanics enabled, the plugin will appear to do nothing until a feature is enabled!
+[13:37:44] [Server thread/INFO]: Named entity WitherSkeleton['Skeletal Knight'/8679, uuid='dfffcaaa-5035-4dcd-954d-a7cace0abcb3', l='ServerLevel[world]', x=-37.50, y=6.00, z=-126.50, cpos=[-3, -8], tl=445, v=true] died: Skeletal Knight suffocated in a wall
