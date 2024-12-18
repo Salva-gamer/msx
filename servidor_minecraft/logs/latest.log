@@ -2882,3 +2882,30 @@ java.util.ConcurrentModificationException: null
 [14:18:27] [Server thread/INFO]: luis_gamer_YT issued server command: /gamemode survival
 [14:18:30] [Server thread/INFO]: luis_gamer_YT issued server command: /gamemode creative
 [14:18:51] [Server thread/INFO]: luis_gamer_YT issued server command: /kit edit build
+[14:19:44] [Server thread/INFO]: Named entity WitherSkeleton['Skeletal Knight'/12126, uuid='f51d71e6-3daf-4beb-847d-b90097881ffc', l='ServerLevel[world]', x=4.50, y=12.00, z=-85.50, cpos=[0, -6], tl=432, v=true] died: Skeletal Knight suffocated in a wall
+[14:21:26] [Server thread/WARN]: [CraftBook] §cWarning! You have no mechanics enabled, the plugin will appear to do nothing until a feature is enabled!
+[14:21:37] [Server thread/INFO]: [PlayerKits²] Config Reloaded.
+[14:21:47] [Server thread/INFO]: luis_gamer_YT issued server command: /kit edit build
+[14:22:10] [Server thread/INFO]: luis_gamer_YT issued server command: /gamemode survival
+[14:22:12] [Server thread/INFO]: luis_gamer_YT issued server command: /kit edit build
+[14:22:17] [Server thread/INFO]: luis_gamer_YT issued server command: /kit
+[14:22:51] [Server thread/INFO]: luis_gamer_YT tried to swim in lava
+[14:25:00] [Server thread/INFO]: luis_gamer_YT issued server command: /gamemode creative
+[14:25:04] [Server thread/INFO]: luis_gamer_YT issued server command: /time set day
+[14:25:31] [Server thread/INFO]: luis_gamer_YT issued server command: /lp creategroup BUILD
+[14:25:31] [luckperms-command-executor/INFO]: [LP] LOG > (luis_gamer_YT) [G] (build)
+[14:25:31] [luckperms-command-executor/INFO]: [LP] LOG > create
+[14:26:22] [Server thread/INFO]: luis_gamer_YT issued server command: /lp group build meta addprefix 25 "BUID"
+[14:26:23] [luckperms-command-executor/INFO]: [LP] LOG > (luis_gamer_YT) [G] (build)
+[14:26:23] [luckperms-command-executor/INFO]: [LP] LOG > meta addprefix 25 BUID
+[14:26:26] [Server thread/WARN]: [CraftBook] §cWarning! You have no mechanics enabled, the plugin will appear to do nothing until a feature is enabled!
+[14:27:28] [Server thread/INFO]: luis_gamer_YT issued server command: /lp group build meta addprefix 25 "&8&oBUID"
+[14:27:28] [luckperms-command-executor/INFO]: [LP] LOG > (luis_gamer_YT) [G] (build)
+[14:27:28] [luckperms-command-executor/INFO]: [LP] LOG > meta addprefix 25 &8&oBUID
+[14:27:40] [Server thread/INFO]: luis_gamer_YT issued server command: /lp group build meta addprefix 25 "&d&oBUID"
+[14:27:40] [luckperms-command-executor/INFO]: [LP] LOG > (luis_gamer_YT) [G] (build)
+[14:27:40] [luckperms-command-executor/INFO]: [LP] LOG > meta addprefix 25 &d&oBUID
+[14:27:56] [Server thread/INFO]: luis_gamer_YT issued server command: /lp group build meta addsuffix 25 "&d&oBUID"
+[14:27:56] [luckperms-command-executor/INFO]: [LP] LOG > (luis_gamer_YT) [G] (build)
+[14:27:56] [luckperms-command-executor/INFO]: [LP] LOG > meta addsuffix 25 &d&oBUID
+[14:28:00] [Async Chat Thread - #3/INFO]: [Not Secure] [OWNER] luis_gamer_YT: hola
