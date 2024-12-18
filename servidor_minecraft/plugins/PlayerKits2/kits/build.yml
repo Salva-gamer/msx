@@ -1,5 +1,5 @@
 cooldown: 86400
-one_time: true
+one_time: false
 auto_armor: true
 permission_required: true
 save_original_items: true
