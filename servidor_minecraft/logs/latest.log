@@ -2102,3 +2102,115 @@ java.lang.IndexOutOfBoundsException: Index 14 out of bounds for length 2
 [13:18:38] [Server thread/INFO]: luis_gamer_YT issued server command: /summon minecraft:fireball
 [13:18:38] [Server thread/INFO]: [luis_gamer_YT: Summoned new Fireball]
 [13:18:46] [Server thread/INFO]: luis_gamer_YT issued server command: /time set day
+[13:19:07] [Server thread/INFO]: luis_gamer_YT issued server command: /tab group Owner tabprefix
+[13:19:30] [Server thread/INFO]: luis_gamer_YT issued server command: /effect give luis_gamer_YT minecraft:strength infinite 225
+[13:19:30] [Server thread/INFO]: [luis_gamer_YT: Applied effect Strength to luis_gamer_YT]
+[13:19:32] [Server thread/INFO]: Villager Villager['Juan'/2278, uuid='a402b83b-e8eb-4f82-ac0e-d988d39a94d5', l='ServerLevel[world]', x=-12.95, y=64.00, z=-63.03, cpos=[-1, -4], tl=47294, v=true] died, message: 'Juan was slain by luis_gamer_YT'
+[13:19:32] [Server thread/INFO]: Named entity Villager['Juan'/2278, uuid='a402b83b-e8eb-4f82-ac0e-d988d39a94d5', l='ServerLevel[world]', x=-12.95, y=64.00, z=-63.03, cpos=[-1, -4], tl=47294, v=true] died: Juan was slain by luis_gamer_YT
+[13:19:34] [Server thread/INFO]: Villager Villager['Juan'/2279, uuid='b5db7cd9-fc6c-4bfd-aec1-5a2f9c6d3441', l='ServerLevel[world]', x=-13.04, y=64.00, z=-62.04, cpos=[-1, -4], tl=47332, v=true] died, message: 'Juan was slain by luis_gamer_YT'
+[13:19:34] [Server thread/INFO]: Named entity Villager['Juan'/2279, uuid='b5db7cd9-fc6c-4bfd-aec1-5a2f9c6d3441', l='ServerLevel[world]', x=-13.04, y=64.00, z=-62.04, cpos=[-1, -4], tl=47332, v=true] died: Juan was slain by luis_gamer_YT
+[13:19:43] [Server thread/WARN]: [CraftBook] §cWarning! You have no mechanics enabled, the plugin will appear to do nothing until a feature is enabled!
+[13:19:52] [Server thread/INFO]: Villager Villager['Juan'/2289, uuid='80b7f3be-b20a-4a1a-aeaa-7feaae2a902b', l='ServerLevel[world]', x=-12.74, y=75.16, z=-63.11, cpos=[-1, -4], tl=47695, v=true] died, message: 'Juan was slain by luis_gamer_YT'
+[13:19:52] [Server thread/INFO]: Named entity Villager['Juan'/2289, uuid='80b7f3be-b20a-4a1a-aeaa-7feaae2a902b', l='ServerLevel[world]', x=-12.74, y=75.16, z=-63.11, cpos=[-1, -4], tl=47695, v=true] died: Juan was slain by luis_gamer_YT
+[13:19:55] [Server thread/INFO]: Villager Villager['Juan'/2294, uuid='d077d66c-2e46-4ec7-b523-71f29db1ffec', l='ServerLevel[world]', x=-12.74, y=75.16, z=-63.11, cpos=[-1, -4], tl=47757, v=true] died, message: 'Juan was slain by luis_gamer_YT'
+[13:19:55] [Server thread/INFO]: Named entity Villager['Juan'/2294, uuid='d077d66c-2e46-4ec7-b523-71f29db1ffec', l='ServerLevel[world]', x=-12.74, y=75.16, z=-63.11, cpos=[-1, -4], tl=47757, v=true] died: Juan was slain by luis_gamer_YT
+[13:20:22] [Server thread/INFO]: luis_gamer_YT issued server command: /mm tp luis_gamer_YT
+[13:20:41] [Server thread/INFO]: luis_gamer_YT issued server command: /mm mobs browse
+[13:20:54] [Server thread/INFO]: luis_gamer_YT issued server command: /mm mobs kill
+[13:20:58] [Server thread/INFO]: luis_gamer_YT issued server command: /mm mobs killall
+[13:21:11] [Server thread/INFO]: luis_gamer_YT issued server command: //regen
+[13:21:24] [Server thread/INFO]: luis_gamer_YT issued server command: //regen
+[13:21:34] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - 1.21-130-b1b5d4c (MC: 1.21) ---
+[13:21:34] [Paper Watchdog Thread/ERROR]: The server has not responded for 10 seconds! Creating thread dump
+[13:21:34] [Paper Watchdog Thread/ERROR]: ------------------------------
+[13:21:34] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[13:21:34] [Paper Watchdog Thread/ERROR]: ------------------------------
+[13:21:34] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[13:21:34] [Paper Watchdog Thread/ERROR]: 	PID: 36 | Suspended: false | Native: false | State: TIMED_WAITING
+[13:21:34] [Paper Watchdog Thread/ERROR]: 	Stack:
+[13:21:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.5/jdk.internal.misc.Unsafe.park(Native Method)
+[13:21:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.5/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:269)
+[13:21:34] [Paper Watchdog Thread/ERROR]: 		net.minecraft.util.thread.BlockableEventLoop.waitForTasks(BlockableEventLoop.java:146)
+[13:21:34] [Paper Watchdog Thread/ERROR]: 		net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:136)
+[13:21:34] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerChunkCache$MainThreadExecutor.managedBlock(ServerChunkCache.java:707)
+[13:21:34] [Paper Watchdog Thread/ERROR]: 		worldedit-bukkit-7.3.9.jar//com.sk89q.worldedit.bukkit.adapter.impl.v1_21.PaperweightAdapter.regenForWorld(PaperweightAdapter.java:820)
+[13:21:34] [Paper Watchdog Thread/ERROR]: 		worldedit-bukkit-7.3.9.jar//com.sk89q.worldedit.bukkit.adapter.impl.v1_21.PaperweightAdapter.doRegen(PaperweightAdapter.java:788)
+[13:21:34] [Paper Watchdog Thread/ERROR]: 		worldedit-bukkit-7.3.9.jar//com.sk89q.worldedit.bukkit.adapter.impl.v1_21.PaperweightAdapter.regenerate(PaperweightAdapter.java:722)
+[13:21:34] [Paper Watchdog Thread/ERROR]: 		worldedit-bukkit-7.3.9.jar//com.sk89q.worldedit.bukkit.BukkitWorld.regenerate(BukkitWorld.java:197)
+[13:21:34] [Paper Watchdog Thread/ERROR]: 		worldedit-bukkit-7.3.9.jar//com.sk89q.worldedit.command.RegionCommands.regenerate(RegionCommands.java:459)
+[13:21:34] [Paper Watchdog Thread/ERROR]: 		worldedit-bukkit-7.3.9.jar//com.sk89q.worldedit.command.RegionCommandsRegistration.cmd$_regen(RegionCommandsRegistration.java:636)
+[13:21:34] [Paper Watchdog Thread/ERROR]: 		worldedit-bukkit-7.3.9.jar//com.sk89q.worldedit.command.RegionCommandsRegistration$$Lambda/0x00007a64675f0228.run(Unknown Source)
+[13:21:34] [Paper Watchdog Thread/ERROR]: 		worldedit-bukkit-7.3.9.jar//org.enginehub.piston.CommandManager.execute(CommandManager.java:157)
+[13:21:34] [Paper Watchdog Thread/ERROR]: 		worldedit-bukkit-7.3.9.jar//com.sk89q.worldedit.extension.platform.PlatformCommandManager.handleCommand(PlatformCommandManager.java:507)
+[13:21:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.5/java.lang.invoke.LambdaForm$DMH/0x00007a6464001000.invokeSpecial(LambdaForm$DMH)
+[13:21:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.5/java.lang.invoke.LambdaForm$MH/0x00007a64651c5800.invoke(LambdaForm$MH)
+[13:21:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.5/java.lang.invoke.LambdaForm$MH/0x00007a646551d400.invokeExact_MT(LambdaForm$MH)
+[13:21:34] [Paper Watchdog Thread/ERROR]: 		worldedit-bukkit-7.3.9.jar//com.sk89q.worldedit.util.eventbus.MethodHandleEventHandler.dispatch(MethodHandleEventHandler.java:51)
+[13:21:34] [Paper Watchdog Thread/ERROR]: 		worldedit-bukkit-7.3.9.jar//com.sk89q.worldedit.util.eventbus.EventHandler.handleEvent(EventHandler.java:73)
+[13:21:34] [Paper Watchdog Thread/ERROR]: 		worldedit-bukkit-7.3.9.jar//com.sk89q.worldedit.util.eventbus.EventBus.dispatch(EventBus.java:193)
+[13:21:34] [Paper Watchdog Thread/ERROR]: 		worldedit-bukkit-7.3.9.jar//com.sk89q.worldedit.util.eventbus.EventBus.post(EventBus.java:181)
+[13:21:34] [Paper Watchdog Thread/ERROR]: 		worldedit-bukkit-7.3.9.jar//com.sk89q.worldedit.bukkit.WorldEditPlugin.onCommand(WorldEditPlugin.java:391)
+[13:21:34] [Paper Watchdog Thread/ERROR]: 		worldedit-bukkit-7.3.9.jar//com.sk89q.bukkit.util.DynamicPluginCommand.execute(DynamicPluginCommand.java:55)
+[13:21:34] [Paper Watchdog Thread/ERROR]: 		io.papermc.paper.command.brigadier.bukkit.BukkitCommandNode$BukkitBrigCommand.run(BukkitCommandNode.java:91)
+[13:21:34] [Paper Watchdog Thread/ERROR]: 		com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73)
+[13:21:34] [Paper Watchdog Thread/ERROR]: 		net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:31)
+[13:21:34] [Paper Watchdog Thread/ERROR]: 		net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:19)
+[13:21:34] [Paper Watchdog Thread/ERROR]: 		net.minecraft.commands.execution.UnboundEntryAction.lambda$bind$0(UnboundEntryAction.java:8)
+[13:21:34] [Paper Watchdog Thread/ERROR]: 		net.minecraft.commands.execution.UnboundEntryAction$$Lambda/0x00007a6466489ce0.execute(Unknown Source)
+[13:21:34] [Paper Watchdog Thread/ERROR]: 		net.minecraft.commands.execution.CommandQueueEntry.execute(CommandQueueEntry.java:5)
+[13:21:34] [Paper Watchdog Thread/ERROR]: 		net.minecraft.commands.execution.ExecutionContext.runCommandQueue(ExecutionContext.java:103)
+[13:21:34] [Paper Watchdog Thread/ERROR]: 		net.minecraft.commands.Commands.executeCommandInContext(Commands.java:443)
+[13:21:34] [Paper Watchdog Thread/ERROR]: 		net.minecraft.commands.Commands.performCommand(Commands.java:350)
+[13:21:34] [Paper Watchdog Thread/ERROR]: 		net.minecraft.commands.Commands.performCommand(Commands.java:337)
+[13:21:34] [Paper Watchdog Thread/ERROR]: 		net.minecraft.commands.Commands.performCommand(Commands.java:332)
+[13:21:34] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.network.ServerGamePacketListenerImpl.performUnsignedChatCommand(ServerGamePacketListenerImpl.java:2147)
+[13:21:34] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.network.ServerGamePacketListenerImpl.lambda$handleChatCommand$11(ServerGamePacketListenerImpl.java:2121)
+[13:21:34] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.network.ServerGamePacketListenerImpl$$Lambda/0x00007a6466482658.run(Unknown Source)
+[13:21:34] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.TickTask.run(TickTask.java:18)
+[13:21:34] [Paper Watchdog Thread/ERROR]: 		net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:151)
+[13:21:34] [Paper Watchdog Thread/ERROR]: 		net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24)
+[13:21:34] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1537)
+[13:21:34] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:201)
+[13:21:34] [Paper Watchdog Thread/ERROR]: 		net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:125)
+[13:21:34] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1514)
+[13:21:34] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1507)
+[13:21:34] [Paper Watchdog Thread/ERROR]: 		net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:135)
+[13:21:34] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1466)
+[13:21:34] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1473)
+[13:21:34] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1318)
+[13:21:34] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330)
+[13:21:34] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer$$Lambda/0x00007a6464c44478.run(Unknown Source)
+[13:21:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.5/java.lang.Thread.runWith(Thread.java:1596)
+[13:21:34] [Paper Watchdog Thread/ERROR]: 		java.base@21.0.5/java.lang.Thread.run(Thread.java:1583)
+[13:21:34] [Paper Watchdog Thread/ERROR]: ------------------------------
+[13:21:34] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[13:21:34] [Paper Watchdog Thread/ERROR]: ------------------------------
+[13:21:34] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'worldeditregentempworld'
+[13:21:34] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'worldeditregentempworld'
+[13:21:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10260ms or 205 ticks behind
+[13:21:34] [Server thread/WARN]: luis_gamer_YT moved too quickly! -6.703101385730566,2.944763109556746,7.212374096345641
+[13:22:02] [Server thread/INFO]: luis_gamer_YT issued server command: //regen
+[13:22:12] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'worldeditregentempworld'
+[13:22:12] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'worldeditregentempworld'
+[13:22:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9589ms or 191 ticks behind
+[13:24:27] [Server thread/INFO]: luis_gamer_YT issued server command: /enchant efficiency 225
+[13:24:37] [Server thread/INFO]: luis_gamer_YT issued server command: /enchantment efficiency 225
+[13:24:56] [Server thread/INFO]: luis_gamer_YT issued server command: /enchant sharpness 32767
+[13:25:03] [Server thread/WARN]: [CraftBook] §cWarning! You have no mechanics enabled, the plugin will appear to do nothing until a feature is enabled!
+[13:25:42] [Server thread/INFO]: luis_gamer_YT issued server command: /enhancedenchants bookonbook true
+[13:25:49] [Server thread/INFO]: luis_gamer_YT issued server command: /enhancedenchants bookonitem true
+[13:25:58] [Server thread/INFO]: luis_gamer_YT issued server command: /enhancedenchants itemonitem true
+[13:26:06] [Server thread/INFO]: luis_gamer_YT issued server command: /enchant alldamage 4
+[13:26:24] [Server thread/INFO]: luis_gamer_YT issued server command: /enchant efficiency 5
+[13:26:27] [Server thread/INFO]: luis_gamer_YT issued server command: /enchant efficiency 6
+[13:26:33] [Server thread/INFO]: luis_gamer_YT issued server command: /gamemode survival
+[13:26:39] [Server thread/INFO]: luis_gamer_YT tried to swim in lava
+[13:27:25] [Server thread/INFO]: luis_gamer_YT issued server command: /enchant list
+[13:27:30] [Server thread/INFO]: luis_gamer_YT issued server command: /enchant
+[13:27:39] [Server thread/INFO]: luis_gamer_YT issued server command: /enchantment list
+[13:28:33] [Server thread/INFO]: luis_gamer_YT issued server command: /lp group owner permission set enhancedenchants.use true
+[13:28:33] [luckperms-command-executor/INFO]: [LP] LOG > (luis_gamer_YT) [G] (owner)
+[13:28:33] [luckperms-command-executor/INFO]: [LP] LOG > permission set enhancedenchants.use true
+[13:28:39] [Server thread/INFO]: luis_gamer_YT issued server command: /lp group owner permission set enhancedenchants.admin true
+[13:28:39] [luckperms-command-executor/INFO]: [LP] LOG > (luis_gamer_YT) [G] (owner)
+[13:28:39] [luckperms-command-executor/INFO]: [LP] LOG > permission set enhancedenchants.admin true
