@@ -23,7 +23,7 @@ display:
     - '&cYou don''t have permissions to claim'
     - '&cthis kit.'
   cooldown:
-    id: STONE_SWORD
+    id: BARRIER
     name: '&c&l%kit_name% &cKit'
     amount: 1
     lore:
