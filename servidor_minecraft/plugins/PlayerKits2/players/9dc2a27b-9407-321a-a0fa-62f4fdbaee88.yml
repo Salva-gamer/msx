@@ -12,3 +12,7 @@ kits:
     cooldown: 1734529346238
     one_time: false
     bought: false
+  build:
+    cooldown: 1734620057256
+    one_time: true
+    bought: false
