@@ -17,8 +17,6 @@ inventories:
       open_inventory: premium_kits_inventory
     '19':
       type: 'kit: usuario'
-    '21':
-      type: 'kit: iron'
   premium_kits_inventory:
     slots: 54
     title: '&e&lPremium Kits'

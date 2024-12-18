@@ -2000,3 +2000,50 @@ java.lang.IndexOutOfBoundsException: Index 14 out of bounds for length 2
 [12:57:32] [Server thread/INFO]: luis_gamer_YT has made the advancement [Stone Age]
 [12:57:50] [Server thread/INFO]: luis_gamer_YT burned to death
 [12:57:58] [Server thread/INFO]: Made luis_gamer_YT a server operator
+[12:59:04] [Server thread/INFO]: luis_gamer_YT issued server command: /eco reset luis_gamer_YT
+[12:59:09] [Server thread/INFO]: luis_gamer_YT issued server command: /kit
+[12:59:10] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /eco give luis_gamer_YT 500
+[12:59:10] [Server thread/INFO]: $500 added to luis_gamer_YT account. New balance: $500
+[12:59:21] [Server thread/INFO]: luis_gamer_YT issued server command: /time set day
+[12:59:25] [Server thread/INFO]: luis_gamer_YT issued server command: /deop
+[12:59:28] [Server thread/INFO]: luis_gamer_YT issued server command: /deop luis_gamer_YT
+[12:59:28] [Server thread/INFO]: [luis_gamer_YT: Made luis_gamer_YT no longer a server operator]
+[12:59:30] [Server thread/INFO]: luis_gamer_YT issued server command: /kit
+[12:59:43] [Server thread/WARN]: [CraftBook] §cWarning! You have no mechanics enabled, the plugin will appear to do nothing until a feature is enabled!
+[13:00:19] [Server thread/INFO]: luis_gamer_YT issued server command: /lp
+[13:00:32] [Server thread/INFO]: Made luis_gamer_YT a server operator
+[13:01:08] [Server thread/INFO]: luis_gamer_YT issued server command: /lp group default permission set simpletpa.back false
+[13:01:08] [luckperms-command-executor/INFO]: [LP] LOG > (luis_gamer_YT) [G] (default)
+[13:01:08] [luckperms-command-executor/INFO]: [LP] LOG > permission set simpletpa.back false
+[13:01:28] [Server thread/INFO]: luis_gamer_YT burned to death
+[13:01:54] [Server thread/INFO]: luis_gamer_YT issued server command: /back
+[13:03:09] [Server thread/INFO]: luis_gamer_YT issued server command: /gamemode spectator
+[13:03:09] [Server thread/INFO]: luis_gamer_YT issued server command: /gamemode survival
+[13:03:09] [Server thread/INFO]: luis_gamer_YT issued server command: /gamemode spectator
+[13:03:09] [Server thread/INFO]: luis_gamer_YT issued server command: /gamemode survival
+[13:03:10] [Server thread/INFO]: luis_gamer_YT issued server command: /gamemode spectator
+[13:03:10] [Server thread/INFO]: luis_gamer_YT issued server command: /gamemode survival
+[13:03:10] [Server thread/INFO]: luis_gamer_YT issued server command: /gamemode spectator
+[13:03:11] [Server thread/INFO]: luis_gamer_YT issued server command: /gamemode survival
+[13:03:11] [Server thread/INFO]: Named entity WitherSkeleton['Skeletal Knight'/4860, uuid='942ec97e-0ecf-43ba-aec8-a7cbd3ec8fbf', l='ServerLevel[world]', x=1.50, y=35.00, z=25.50, cpos=[0, 1], tl=587, v=true] died: Skeletal Knight suffocated in a wall
+[13:03:43] [Server thread/INFO]: luis_gamer_YT issued server command: /kit clear iron
+[13:04:06] [Server thread/INFO]: luis_gamer_YT issued server command: /kit delete iron
+[13:04:23] [Server thread/INFO]: luis_gamer_YT issued server command: /enchantment alldamage 6
+[13:04:26] [Server thread/INFO]: luis_gamer_YT issued server command: /enchantment alldamage 6
+[13:04:31] [Server thread/INFO]: luis_gamer_YT issued server command: /gamemode spectator
+[13:04:32] [Server thread/INFO]: luis_gamer_YT issued server command: /gamemode survival
+[13:04:43] [Server thread/WARN]: [CraftBook] §cWarning! You have no mechanics enabled, the plugin will appear to do nothing until a feature is enabled!
+[13:05:12] [Server thread/INFO]: luis_gamer_YT issued server command: /lp group owner permission set enhancedenchants false
+[13:05:12] [luckperms-command-executor/INFO]: [LP] LOG > (luis_gamer_YT) [G] (owner)
+[13:05:12] [luckperms-command-executor/INFO]: [LP] LOG > permission set enhancedenchants false
+[13:05:17] [Server thread/INFO]: luis_gamer_YT issued server command: /lp group owner permission set enhancedenchants true
+[13:05:17] [luckperms-command-executor/INFO]: [LP] LOG > (luis_gamer_YT) [G] (owner)
+[13:05:17] [luckperms-command-executor/INFO]: [LP] LOG > permission set enhancedenchants true
+[13:05:22] [Async Chat Thread - #1/INFO]: [Not Secure] [OWNER] luis_gamer_YT: tr
+[13:05:37] [Server thread/INFO]: luis_gamer_YT issued server command: /enhancedenchants itemonitem true
+[13:05:47] [Server thread/INFO]: Named entity WitherSkeleton['Skeletal Knight'/5163, uuid='115e9f30-9402-4aa0-827d-9e763b8142eb', l='ServerLevel[world]', x=-23.50, y=-36.00, z=-9.50, cpos=[-2, -1], tl=435, v=true] died: Skeletal Knight suffocated in a wall
+[13:05:49] [Server thread/INFO]: luis_gamer_YT issued server command: /enhancedenchants bookonbook true
+[13:06:01] [Server thread/INFO]: luis_gamer_YT issued server command: /enhancedenchants maxrepaircost 1 3
+[13:06:07] [Server thread/INFO]: luis_gamer_YT issued server command: /gamemode
+[13:06:09] [Server thread/INFO]: luis_gamer_YT issued server command: /gamemode creative
+[13:06:56] [Server thread/INFO]: luis_gamer_YT issued server command: /enhancedenchants:enhancedenchants reload

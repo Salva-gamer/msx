@@ -1,4 +1,4 @@
-max_repair_cost: 50
+max_repair_cost: 1
 too_expensive_message: true
 
 merge_book_on_book: true
