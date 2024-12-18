@@ -2047,3 +2047,58 @@ java.lang.IndexOutOfBoundsException: Index 14 out of bounds for length 2
 [13:06:07] [Server thread/INFO]: luis_gamer_YT issued server command: /gamemode
 [13:06:09] [Server thread/INFO]: luis_gamer_YT issued server command: /gamemode creative
 [13:06:56] [Server thread/INFO]: luis_gamer_YT issued server command: /enhancedenchants:enhancedenchants reload
+[13:09:43] [Server thread/WARN]: [CraftBook] §cWarning! You have no mechanics enabled, the plugin will appear to do nothing until a feature is enabled!
+[13:10:07] [Server thread/INFO]: [ [ [PlayerKits²] ] ]
+[13:10:07] [Server thread/INFO]:  
+[13:10:07] [Server thread/INFO]: /kit Opens the GUI.
+[13:10:07] [Server thread/INFO]: /kit claim <kit> Claims a kit outside the GUI.
+[13:10:07] [Server thread/INFO]: /kit create <kit> (optional)original Creates a new kit using the items in your inventory.
+[13:10:07] [Server thread/INFO]: /kit edit <kit> Edits a kit.
+[13:10:07] [Server thread/INFO]: /kit give <kit> <player> Gives a kit to a player.
+[13:10:07] [Server thread/INFO]: /kit delete <kit> Deletes a kit.
+[13:10:07] [Server thread/INFO]: /kit reset <kit> <player>/* Resets kit data for a player.
+[13:10:07] [Server thread/INFO]: /kit preview <kit> Previews a kit.
+[13:10:07] [Server thread/INFO]: /kit open <inventory> <player> Opens a specific inventory for a player.
+[13:10:07] [Server thread/INFO]: /kit reload Reloads the config.
+[13:10:07] [Server thread/INFO]: /kit verify Checks the plugin for errors.
+[13:10:07] [Server thread/INFO]:  
+[13:10:07] [Server thread/INFO]: [ [ [PlayerKits²] ] ]
+[13:10:22] [Server thread/INFO]: [ [ [PlayerKits²] ] ]
+[13:10:22] [Server thread/INFO]:  
+[13:10:22] [Server thread/INFO]: /kit Opens the GUI.
+[13:10:22] [Server thread/INFO]: /kit claim <kit> Claims a kit outside the GUI.
+[13:10:22] [Server thread/INFO]: /kit create <kit> (optional)original Creates a new kit using the items in your inventory.
+[13:10:22] [Server thread/INFO]: /kit edit <kit> Edits a kit.
+[13:10:22] [Server thread/INFO]: /kit give <kit> <player> Gives a kit to a player.
+[13:10:22] [Server thread/INFO]: /kit delete <kit> Deletes a kit.
+[13:10:22] [Server thread/INFO]: /kit reset <kit> <player>/* Resets kit data for a player.
+[13:10:22] [Server thread/INFO]: /kit preview <kit> Previews a kit.
+[13:10:22] [Server thread/INFO]: /kit open <inventory> <player> Opens a specific inventory for a player.
+[13:10:22] [Server thread/INFO]: /kit reload Reloads the config.
+[13:10:22] [Server thread/INFO]: /kit verify Checks the plugin for errors.
+[13:10:22] [Server thread/INFO]:  
+[13:10:22] [Server thread/INFO]: [ [ [PlayerKits²] ] ]
+[13:10:30] [Server thread/INFO]: [PlayerKits²] Config Reloaded.
+[13:11:50] [Server thread/INFO]: luis_gamer_YT issued server command: /enchantment list
+[13:14:43] [Server thread/WARN]: [CraftBook] §cWarning! You have no mechanics enabled, the plugin will appear to do nothing until a feature is enabled!
+[13:18:11] [Server thread/INFO]: luis_gamer_YT issued server command: /summon minecraft:fireball
+[13:18:11] [Server thread/INFO]: [luis_gamer_YT: Summoned new Fireball]
+[13:18:14] [Server thread/INFO]: luis_gamer_YT issued server command: /summon minecraft:fireball
+[13:18:14] [Server thread/INFO]: [luis_gamer_YT: Summoned new Fireball]
+[13:18:17] [Server thread/INFO]: luis_gamer_YT issued server command: /summon minecraft:fireball
+[13:18:17] [Server thread/INFO]: [luis_gamer_YT: Summoned new Fireball]
+[13:18:20] [Server thread/INFO]: luis_gamer_YT issued server command: /summon minecraft:fireball
+[13:18:20] [Server thread/INFO]: [luis_gamer_YT: Summoned new Fireball]
+[13:18:22] [Server thread/INFO]: luis_gamer_YT issued server command: /summon minecraft:fireball
+[13:18:22] [Server thread/INFO]: [luis_gamer_YT: Summoned new Fireball]
+[13:18:26] [Server thread/INFO]: luis_gamer_YT issued server command: /summon minecraft:fireball
+[13:18:26] [Server thread/INFO]: [luis_gamer_YT: Summoned new Fireball]
+[13:18:29] [Server thread/INFO]: luis_gamer_YT issued server command: /summon minecraft:fireball
+[13:18:29] [Server thread/INFO]: [luis_gamer_YT: Summoned new Fireball]
+[13:18:32] [Server thread/INFO]: luis_gamer_YT issued server command: /summon minecraft:fireball
+[13:18:32] [Server thread/INFO]: [luis_gamer_YT: Summoned new Fireball]
+[13:18:35] [Server thread/INFO]: luis_gamer_YT issued server command: /summon minecraft:fireball
+[13:18:35] [Server thread/INFO]: [luis_gamer_YT: Summoned new Fireball]
+[13:18:38] [Server thread/INFO]: luis_gamer_YT issued server command: /summon minecraft:fireball
+[13:18:38] [Server thread/INFO]: [luis_gamer_YT: Summoned new Fireball]
+[13:18:46] [Server thread/INFO]: luis_gamer_YT issued server command: /time set day
