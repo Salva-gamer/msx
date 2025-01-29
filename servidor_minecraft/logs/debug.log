@@ -3585,3 +3585,21 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [29Jan2025 18:50:15.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luis_gamer_YT has made the advancement [The Andesite Age]
 [29Jan2025 18:51:43.778] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [29Jan2025 18:51:43.788] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Jan2025 18:55:40.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luis_gamer_YT has made the advancement [Isn't It Iron Pick]
+[29Jan2025 18:56:43.792] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Jan2025 18:56:43.800] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Jan2025 18:58:50.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown item 'minecraft:golden_bolck'
+[29Jan2025 18:58:50.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: give @a golden_bolck 3<--[HERE]
+[29Jan2025 18:59:04.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown item 'minecraft:goldem_block'
+[29Jan2025 18:59:04.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: give @a goldem_block 3<--[HERE]
+[29Jan2025 18:59:21.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown item 'minecraft:golden_block'
+[29Jan2025 18:59:21.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: give @a golden_block 3<--[HERE]
+[29Jan2025 18:59:49.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown item 'minecraft:goldem_blok'
+[29Jan2025 18:59:49.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: give @a goldem_blok<--[HERE]
+[29Jan2025 19:00:02.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown item 'minecraft:goldem_blok'
+[29Jan2025 19:00:02.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: give @a minecraft:goldem_blok 3<--[HERE]
+[29Jan2025 19:00:08.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made luis_gamer_YT a server operator
+[29Jan2025 19:00:55.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Gave 3 [Block of Gold] to luis_gamer_YT]
+[29Jan2025 19:01:00.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Made luis_gamer_YT no longer a server operator]
+[29Jan2025 19:01:43.775] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Jan2025 19:01:43.793] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
