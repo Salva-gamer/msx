@@ -1967,6 +1967,12 @@
     },
     "done": true
   },
+  "create:crushing_wheel": {
+    "criteria": {
+      "0": "2025-01-29 21:04:31 +0000"
+    },
+    "done": true
+  },
   "create:mechanical_mixer": {
     "criteria": {
       "0": "2025-01-29 20:49:05 +0000"
@@ -2054,6 +2060,12 @@
   "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-01-29 20:20:02 +0000"
+    },
+    "done": true
+  },
+  "create:deployer": {
+    "criteria": {
+      "0": "2025-01-29 20:59:42 +0000"
     },
     "done": true
   },
