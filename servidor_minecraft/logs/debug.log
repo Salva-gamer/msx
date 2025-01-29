@@ -3588,3 +3588,12 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [29Jan2025 20:02:26.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luis_gamer_YT has reached the goal [Tapping the Mantle]
 [29Jan2025 20:07:07.897] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [29Jan2025 20:07:07.924] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Jan2025 20:12:07.913] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Jan2025 20:12:07.964] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Jan2025 20:13:33.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luis_gamer_YT has made the advancement [Busy Hands]
+[29Jan2025 20:17:07.890] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Jan2025 20:17:07.896] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Jan2025 20:22:07.886] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Jan2025 20:22:07.893] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Jan2025 20:27:07.887] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Jan2025 20:27:07.906] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

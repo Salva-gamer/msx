@@ -1572,9 +1572,10 @@
   },
   "create:wrench_goggles": {
     "criteria": {
-      "0": "2025-01-29 19:02:57 +0000"
+      "0": "2025-01-29 19:02:57 +0000",
+      "1": "2025-01-29 20:21:28 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
@@ -1936,6 +1937,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2025-01-29 20:20:02 +0000"
+    },
+    "done": true
+  },
   "create:hose_pulley_lava": {
     "criteria": {
       "0": "2025-01-29 20:02:26 +0000"
@@ -1948,9 +1955,69 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-01-29 20:20:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2025-01-29 20:20:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-01-29 20:20:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2025-01-29 20:20:02 +0000"
+    },
+    "done": true
+  },
+  "create:spout": {
+    "criteria": {
+      "0": "2025-01-29 20:09:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2025-01-29 20:20:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2025-01-29 20:20:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2025-01-29 20:20:02 +0000"
+    },
+    "done": true
+  },
   "create:hose_pulley": {
     "criteria": {
       "0": "2025-01-29 20:02:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-01-29 20:20:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-01-29 20:20:02 +0000"
     },
     "done": true
   },
@@ -1960,9 +2027,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-01-29 20:20:02 +0000"
+    },
+    "done": true
+  },
+  "create:mechanical_arm": {
+    "criteria": {
+      "0": "2025-01-29 20:13:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-01-29 20:20:02 +0000"
+    },
+    "done": true
+  },
+  "create:drain": {
+    "criteria": {
+      "0": "2025-01-29 20:12:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-01-29 20:20:02 +0000"
+    },
+    "done": true
+  },
   "create:shifting_gears": {
     "criteria": {
       "0": "2025-01-29 20:04:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2025-01-29 20:20:02 +0000"
     },
     "done": true
   },
