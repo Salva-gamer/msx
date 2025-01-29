@@ -125,3 +125,10 @@
 [29Jan2025 19:18:50.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made luis_gamer_YT a server operator
 [29Jan2025 19:19:07.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Gave 20 [Slimeball] to luis_gamer_YT]
 [29Jan2025 19:19:11.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Made luis_gamer_YT no longer a server operator]
+[29Jan2025 19:26:01.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown game mode: c
+[29Jan2025 19:26:01.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gamemode c<--[HERE]
+[29Jan2025 19:26:07.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A player is required to run this command here
+[29Jan2025 19:26:17.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set luis_gamer_YT's game mode to Creative Mode
+[29Jan2025 19:28:49.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luis_gamer_YT has made the advancement [Ice Bucket Challenge]
+[29Jan2025 19:29:41.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luis_gamer_YT has made the advancement [We Need to Go Deeper]
+[29Jan2025 19:29:41.242] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3185ms or 63 ticks behind
