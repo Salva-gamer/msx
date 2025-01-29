@@ -113,3 +113,15 @@
 [29Jan2025 19:00:08.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made luis_gamer_YT a server operator
 [29Jan2025 19:00:55.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Gave 3 [Block of Gold] to luis_gamer_YT]
 [29Jan2025 19:01:00.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Made luis_gamer_YT no longer a server operator]
+[29Jan2025 19:02:37.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luis_gamer_YT has made the advancement [Bonk!]
+[29Jan2025 19:13:25.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luis_gamer_YT was killed
+[29Jan2025 19:13:25.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Killed 144 entities
+[29Jan2025 19:16:26.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luis_gamer_YT fell from a high place
+[29Jan2025 19:17:41.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seed: [4784900553420150805]
+[29Jan2025 19:18:26.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown item 'minecraft:slime'
+[29Jan2025 19:18:26.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: give @a slime 20<--[HERE]
+[29Jan2025 19:18:43.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown item 'minecraft:slime'
+[29Jan2025 19:18:43.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: give @a slime<--[HERE]
+[29Jan2025 19:18:50.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made luis_gamer_YT a server operator
+[29Jan2025 19:19:07.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Gave 20 [Slimeball] to luis_gamer_YT]
+[29Jan2025 19:19:11.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Made luis_gamer_YT no longer a server operator]

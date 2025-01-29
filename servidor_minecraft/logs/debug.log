@@ -3603,3 +3603,25 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [29Jan2025 19:01:00.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Made luis_gamer_YT no longer a server operator]
 [29Jan2025 19:01:43.775] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [29Jan2025 19:01:43.793] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Jan2025 19:02:37.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luis_gamer_YT has made the advancement [Bonk!]
+[29Jan2025 19:06:43.796] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Jan2025 19:06:43.816] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Jan2025 19:06:46.851] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of luis_gamer_YT: {disabled=true, disconnected=false, uuid=9dc2a27b-9407-321a-a0fa-62f4fdbaee88, name=luis_gamer_YT, group=b8f64716-264c-4544-8972-a6d72cfa0c41}
+[29Jan2025 19:06:48.226] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of luis_gamer_YT: {disabled=false, disconnected=false, uuid=9dc2a27b-9407-321a-a0fa-62f4fdbaee88, name=luis_gamer_YT, group=b8f64716-264c-4544-8972-a6d72cfa0c41}
+[29Jan2025 19:11:43.865] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Jan2025 19:11:43.880] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Jan2025 19:13:25.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luis_gamer_YT was killed
+[29Jan2025 19:13:25.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Killed 144 entities
+[29Jan2025 19:16:26.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luis_gamer_YT fell from a high place
+[29Jan2025 19:16:43.771] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Jan2025 19:16:43.782] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Jan2025 19:17:41.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seed: [4784900553420150805]
+[29Jan2025 19:18:26.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown item 'minecraft:slime'
+[29Jan2025 19:18:26.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: give @a slime 20<--[HERE]
+[29Jan2025 19:18:43.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown item 'minecraft:slime'
+[29Jan2025 19:18:43.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: give @a slime<--[HERE]
+[29Jan2025 19:18:50.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made luis_gamer_YT a server operator
+[29Jan2025 19:19:07.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Gave 20 [Slimeball] to luis_gamer_YT]
+[29Jan2025 19:19:11.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Made luis_gamer_YT no longer a server operator]
+[29Jan2025 19:21:43.772] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Jan2025 19:21:43.789] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
