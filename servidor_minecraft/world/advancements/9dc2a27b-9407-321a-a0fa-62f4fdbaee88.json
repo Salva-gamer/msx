@@ -1949,6 +1949,12 @@
     },
     "done": true
   },
+  "create:encased_fan": {
+    "criteria": {
+      "0": "2025-01-29 21:20:58 +0000"
+    },
+    "done": true
+  },
   "create:glass_pipe": {
     "criteria": {
       "0": "2025-01-29 20:02:31 +0000"
@@ -1976,6 +1982,12 @@
   "create:mechanical_mixer": {
     "criteria": {
       "0": "2025-01-29 20:49:05 +0000"
+    },
+    "done": true
+  },
+  "create:funnel": {
+    "criteria": {
+      "0": "2025-01-29 21:16:52 +0000"
     },
     "done": true
   },
@@ -2087,9 +2099,21 @@
     },
     "done": true
   },
+  "create:fan_processing": {
+    "criteria": {
+      "0": "2025-01-29 21:21:58 +0000"
+    },
+    "done": true
+  },
   "create:compacting": {
     "criteria": {
       "0": "2025-01-29 20:33:46 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/nozzle": {
+    "criteria": {
+      "has_item": "2025-01-29 21:20:52 +0000"
     },
     "done": true
   },
