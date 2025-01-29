@@ -1967,6 +1967,12 @@
     },
     "done": true
   },
+  "create:mechanical_mixer": {
+    "criteria": {
+      "0": "2025-01-29 20:49:05 +0000"
+    },
+    "done": true
+  },
   "create:windmill": {
     "criteria": {
       "0": "2025-01-29 20:38:09 +0000"
