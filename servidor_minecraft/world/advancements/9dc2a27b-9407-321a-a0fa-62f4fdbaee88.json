@@ -2231,6 +2231,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-01-30 15:29:08 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/furnace_minecart_from_contraption_cart": {
     "criteria": {
       "has_item": "2025-01-30 14:41:06 +0000"
@@ -2306,6 +2312,12 @@
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-30 14:45:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-01-30 15:29:08 +0000"
     },
     "done": true
   },
