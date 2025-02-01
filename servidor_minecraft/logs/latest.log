@@ -174,3 +174,11 @@
 [01Feb2025 13:51:05.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /create (rainbowDebug|overlay|trains|fixLighting|debuginfo|highlight|killTrain|passenger|coupling|config|ponder|clone|glue|util|u)
 [01Feb2025 13:51:05.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /c (rainbowDebug|overlay|trains|fixLighting|debuginfo|highlight|killTrain|passenger|coupling|config|ponder|clone|glue|util|u)
 [01Feb2025 13:51:05.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /voicechat [help|test|invite|join|leave]
+[01Feb2025 14:02:21.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[01Feb2025 14:02:21.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a<--[HERE]
+[01Feb2025 14:02:23.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: There are 0 of a max of 20 players online: 
+[01Feb2025 14:02:27.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[01Feb2025 14:02:27.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luis<--[HERE]
+[01Feb2025 14:05:03.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[01Feb2025 14:05:03.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ip<--[HERE]
+[01Feb2025 14:06:06.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: There are 0 of a max of 20 players online: 
