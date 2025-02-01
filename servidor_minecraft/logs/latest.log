@@ -98,3 +98,8 @@
 [01Feb2025 22:16:31.344] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9dc2a27b-9407-321a-a0fa-62f4fdbaee88
 [01Feb2025 22:16:32.343] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9dc2a27b-9407-321a-a0fa-62f4fdbaee88
 [01Feb2025 22:16:32.349] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player luis_gamer_YT (9dc2a27b-9407-321a-a0fa-62f4fdbaee88) successfully connected to voice chat
+[01Feb2025 22:24:11.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown game mode: 
+[01Feb2025 22:24:11.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gamemode @a survival<--[HERE]
+[01Feb2025 22:24:26.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A player is required to run this command here
+[01Feb2025 22:24:40.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set luis_gamer_YT's game mode to Survival Mode
+[01Feb2025 22:26:40.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luis_gamer_YT fell from a high place
