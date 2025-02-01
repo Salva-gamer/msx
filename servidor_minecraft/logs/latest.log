@@ -75,3 +75,9 @@
 [01Feb2025 20:54:20.748] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9dc2a27b-9407-321a-a0fa-62f4fdbaee88
 [01Feb2025 20:54:20.757] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player luis_gamer_YT (9dc2a27b-9407-321a-a0fa-62f4fdbaee88) successfully connected to voice chat
 [01Feb2025 20:56:01.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luis_gamer_YT has reached the goal [Crushing It]
+[01Feb2025 21:02:48.816] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 9dc2a27b-9407-321a-a0fa-62f4fdbaee88 timed out
+[01Feb2025 21:02:48.817] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player luis_gamer_YT
+[01Feb2025 21:02:48.819] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to luis_gamer_YT
+[01Feb2025 21:02:58.641] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9dc2a27b-9407-321a-a0fa-62f4fdbaee88
+[01Feb2025 21:02:59.649] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9dc2a27b-9407-321a-a0fa-62f4fdbaee88
+[01Feb2025 21:02:59.653] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player luis_gamer_YT (9dc2a27b-9407-321a-a0fa-62f4fdbaee88) successfully connected to voice chat
