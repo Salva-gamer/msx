@@ -113,3 +113,33 @@
 [01Feb2025 23:12:41.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Gave 3 [Iron Ingot] to luis_gamer_YT]
 [01Feb2025 23:34:55.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Gave 2 [Block of Zinc] to luis_gamer_YT]
 [01Feb2025 23:37:58.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Gave 2 [Block of Copper] to luis_gamer_YT]
+[01Feb2025 23:40:45.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Gave 1 [Contraption Controls] to luis_gamer_YT]
+[01Feb2025 23:41:08.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Gave 1 [Train Controls] to luis_gamer_YT]
+[01Feb2025 23:41:26.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Set own game mode to Creative Mode]
+[01Feb2025 23:41:43.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Set own game mode to Survival Mode]
+[01Feb2025 23:46:23.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Gave 1 [Blaze Burner] to luis_gamer_YT]
+[01Feb2025 23:46:26.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Gave 1 [Blaze Burner] to luis_gamer_YT]
+[01Feb2025 23:46:27.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Gave 1 [Blaze Burner] to luis_gamer_YT]
+[01Feb2025 23:46:28.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Gave 1 [Blaze Burner] to luis_gamer_YT]
+[01Feb2025 23:46:38.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Gave 3 [Blaze Cake Base] to luis_gamer_YT]
+[01Feb2025 23:46:44.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Gave 33 [Blaze Cake] to luis_gamer_YT]
+[01Feb2025 23:47:14.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Set own game mode to Creative Mode]
+[01Feb2025 23:48:01.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Set own game mode to Survival Mode]
+[01Feb2025 23:48:05.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Set own game mode to Creative Mode]
+[01Feb2025 23:48:11.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Set own game mode to Survival Mode]
+[01Feb2025 23:49:19.642] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 9dc2a27b-9407-321a-a0fa-62f4fdbaee88 timed out
+[01Feb2025 23:49:19.643] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player luis_gamer_YT
+[01Feb2025 23:49:19.643] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to luis_gamer_YT
+[01Feb2025 23:49:25.977] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: luis_gamer_YT lost connection: Disconnected
+[01Feb2025 23:49:25.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luis_gamer_YT left the game
+[01Feb2025 23:49:25.983] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client luis_gamer_YT
+[01Feb2025 23:49:26.057] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[01Feb2025 23:49:32.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[01Feb2025 23:49:32.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: s<--[HERE]
+[01Feb2025 23:49:49.398] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: luis_gamer_YT[/10.147.20.223:49454] logged in with entity id 5774 at (-448.11165138688017, 63.0, -187.00113729959733)
+[01Feb2025 23:49:49.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luis_gamer_YT joined the game
+[01Feb2025 23:49:49.873] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of luis_gamer_YT (18)
+[01Feb2025 23:49:49.875] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to luis_gamer_YT
+[01Feb2025 23:49:55.161] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9dc2a27b-9407-321a-a0fa-62f4fdbaee88
+[01Feb2025 23:49:56.159] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9dc2a27b-9407-321a-a0fa-62f4fdbaee88
+[01Feb2025 23:49:56.160] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player luis_gamer_YT (9dc2a27b-9407-321a-a0fa-62f4fdbaee88) successfully connected to voice chat
