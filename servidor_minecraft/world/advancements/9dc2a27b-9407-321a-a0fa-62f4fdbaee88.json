@@ -2543,9 +2543,21 @@
     },
     "done": true
   },
+  "create:crusher_maxed_0000": {
+    "criteria": {
+      "0": "2025-02-01 20:56:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_smelts_to_glass": "2025-02-01 20:56:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-02-01 20:56:18 +0000"
     },
     "done": true
   },
@@ -2555,9 +2567,9 @@
     },
     "done": true
   },
-  "create:crusher_maxed_0000": {
+  "minecraft:recipes/misc/brick": {
     "criteria": {
-      "0": "2025-02-01 20:56:01 +0000"
+      "has_clay_ball": "2025-02-01 20:56:21 +0000"
     },
     "done": true
   },
@@ -2582,18 +2594,6 @@
   "minecraft:recipes/building_blocks/dye_light_blue_carpet": {
     "criteria": {
       "has_needed_dye": "2025-02-01 21:27:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/brick": {
-    "criteria": {
-      "has_clay_ball": "2025-02-01 20:56:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sandstone": {
-    "criteria": {
-      "has_sand": "2025-02-01 20:56:18 +0000"
     },
     "done": true
   },
