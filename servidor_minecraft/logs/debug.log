@@ -4549,3 +4549,11 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [02Feb2025 15:55:26.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Gave 1 [Diamond Axe] to luis_gamer_YT]
 [02Feb2025 15:56:27.839] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [02Feb2025 15:56:27.852] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Feb2025 16:01:27.768] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Feb2025 16:01:27.778] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Feb2025 16:02:16.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Gave 8 [Blaze Burner] to luis_gamer_YT]
+[02Feb2025 16:06:21.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Gave 20 [Copper Spool] to luis_gamer_YT]
+[02Feb2025 16:06:27.752] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Feb2025 16:06:27.799] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Feb2025 16:06:53.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Gave 22 [Capacitor] to luis_gamer_YT]
+[02Feb2025 16:09:01.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Gave 20 [Block of Iron] to luis_gamer_YT]
