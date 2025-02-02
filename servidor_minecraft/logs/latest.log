@@ -143,3 +143,9 @@
 [01Feb2025 23:49:55.161] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9dc2a27b-9407-321a-a0fa-62f4fdbaee88
 [01Feb2025 23:49:56.159] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9dc2a27b-9407-321a-a0fa-62f4fdbaee88
 [01Feb2025 23:49:56.160] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player luis_gamer_YT (9dc2a27b-9407-321a-a0fa-62f4fdbaee88) successfully connected to voice chat
+[01Feb2025 23:55:06.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Gave 64 [Fluid Tank] to luis_gamer_YT]
+[01Feb2025 23:55:37.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Gave 1 [Blaze Burner] to luis_gamer_YT]
+[01Feb2025 23:57:48.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Gave 64 [Fluid Pipe] to luis_gamer_YT]
+[01Feb2025 23:59:11.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Gave 1 [Mechanical Pump] to luis_gamer_YT]
+[01Feb2025 23:59:43.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Gave 2 [Raw Chicken] to luis_gamer_YT]
+[01Feb2025 23:59:47.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Gave 20 [Raw Chicken] to luis_gamer_YT]
