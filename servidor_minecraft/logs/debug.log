@@ -4496,3 +4496,13 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [02Feb2025 15:17:19.144] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [02Feb2025 15:17:20.268] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
 [02Feb2025 15:21:15.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Gave 22 [Block of Copper] to luis_gamer_YT]
+[02Feb2025 15:22:19.097] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Feb2025 15:22:19.128] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Feb2025 15:23:31.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Gave 20 [Block of Gold] to luis_gamer_YT]
+[02Feb2025 15:27:19.149] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Feb2025 15:27:19.173] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Feb2025 15:28:01.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Gave 40 [Block of Zinc] to luis_gamer_YT]
+[02Feb2025 15:31:10.679] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: luis_gamer_YT lost connection: Disconnected
+[02Feb2025 15:31:10.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luis_gamer_YT left the game
+[02Feb2025 15:31:10.683] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of luis_gamer_YT
+[02Feb2025 15:31:10.685] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client luis_gamer_YT
