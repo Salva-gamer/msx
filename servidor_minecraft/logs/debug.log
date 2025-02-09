@@ -5359,3 +5359,22 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [09Feb2025 16:06:50.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Set own game mode to Survival Mode]
 [09Feb2025 16:07:09.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Set own game mode to Spectator Mode]
 [09Feb2025 16:07:14.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Set own game mode to Survival Mode]
+[09Feb2025 16:07:50.540] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Feb2025 16:07:50.552] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Feb2025 16:09:00.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Set own game mode to Spectator Mode]
+[09Feb2025 16:09:10.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Set own game mode to Survival Mode]
+[09Feb2025 16:09:22.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Set own game mode to Spectator Mode]
+[09Feb2025 16:09:26.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Set own game mode to Survival Mode]
+[09Feb2025 16:09:31.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Set own game mode to Spectator Mode]
+[09Feb2025 16:09:40.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Set own game mode to Survival Mode]
+[09Feb2025 16:10:20.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Set own game mode to Spectator Mode]
+[09Feb2025 16:10:24.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Set own game mode to Survival Mode]
+[09Feb2025 16:10:30.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Set own game mode to Spectator Mode]
+[09Feb2025 16:10:37.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Set own game mode to Survival Mode]
+[09Feb2025 16:12:18.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Set own game mode to Spectator Mode]
+[09Feb2025 16:12:19.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Set own game mode to Survival Mode]
+[09Feb2025 16:12:50.535] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Feb2025 16:12:50.542] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Feb2025 16:14:35.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Applied enchantment Unbreaking III to luis_gamer_YT's item]
+[09Feb2025 16:14:38.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Applied enchantment Efficiency V to luis_gamer_YT's item]
+[09Feb2025 16:15:41.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Gave 100 [Oak Log] to luis_gamer_YT]
