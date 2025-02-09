@@ -5378,3 +5378,17 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [09Feb2025 16:14:35.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Applied enchantment Unbreaking III to luis_gamer_YT's item]
 [09Feb2025 16:14:38.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Applied enchantment Efficiency V to luis_gamer_YT's item]
 [09Feb2025 16:15:41.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Gave 100 [Oak Log] to luis_gamer_YT]
+[09Feb2025 16:17:50.538] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Feb2025 16:17:50.551] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Feb2025 16:18:51.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Gave 100 [Framed Glass] to luis_gamer_YT]
+[09Feb2025 16:22:50.536] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Feb2025 16:22:50.542] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Feb2025 16:24:15.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luis_gamer_YT fell from a high place
+[09Feb2025 16:24:21.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Set own game mode to Spectator Mode]
+[09Feb2025 16:24:43.058] [Worker-Main-1/DEBUG] [io.netty.util.internal.ThreadLocalRandom/]: -Dio.netty.initialSeedUniquifier: 0x21d5c5a5cc0099c4
+[09Feb2025 16:25:37.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luis_gamer_YT was killed
+[09Feb2025 16:25:37.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Killed luis_gamer_YT]
+[09Feb2025 16:26:30.406] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: luis_gamer_YT moved too quickly! -3.282316808848236,0.0,-10.314259220075542
+[09Feb2025 16:27:00.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Set own game mode to Creative Mode]
+[09Feb2025 16:27:16.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Set own game mode to Spectator Mode]
+[09Feb2025 16:27:24.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Set own game mode to Creative Mode]
