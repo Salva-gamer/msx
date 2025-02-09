@@ -5287,3 +5287,11 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [09Feb2025 15:14:16.420] [Server thread/DEBUG] [mixin/]: create_enchantment_industry.mixins.json:FillingBySpoutMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
 [09Feb2025 15:14:39.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Set own game mode to Spectator Mode]
 [09Feb2025 15:15:18.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Set own game mode to Survival Mode]
+[09Feb2025 15:17:37.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Gave 200 [Oak Log] to luis_gamer_YT]
+[09Feb2025 15:17:50.558] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Feb2025 15:17:50.578] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Feb2025 15:21:10.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Gave 100 [Glass] to luis_gamer_YT]
+[09Feb2025 15:22:50.595] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Feb2025 15:22:50.602] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Feb2025 15:24:06.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Gave 100 [Glass] to luis_gamer_YT]
+[09Feb2025 15:25:33.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Gave 1 [Stonecutter] to luis_gamer_YT]
