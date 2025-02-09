@@ -5295,3 +5295,11 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [09Feb2025 15:22:50.602] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [09Feb2025 15:24:06.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Gave 100 [Glass] to luis_gamer_YT]
 [09Feb2025 15:25:33.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Gave 1 [Stonecutter] to luis_gamer_YT]
+[09Feb2025 15:27:50.534] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Feb2025 15:27:50.540] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Feb2025 15:28:39.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Applied enchantment Silk Touch to luis_gamer_YT's item]
+[09Feb2025 15:31:11.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Gave 1 [Copper Door] to luis_gamer_YT]
+[09Feb2025 15:32:50.534] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Feb2025 15:32:50.541] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Feb2025 15:33:49.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Set own game mode to Creative Mode]
+[09Feb2025 15:36:48.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Set own game mode to Survival Mode]
