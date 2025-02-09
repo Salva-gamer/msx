@@ -3907,6 +3907,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/cow_smithing": {
+    "criteria": {
+      "has_cow": "2025-02-09 15:34:39 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/smelting/glass_from_horizontal_framed_glass": {
     "criteria": {
       "has_item": "2025-02-09 15:28:02 +0000"
