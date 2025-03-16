@@ -1,217 +1,33 @@
-[09Feb2025 14:56:53.655] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[09Feb2025 14:56:53.660] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.13 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
-[09Feb2025 14:56:54.202] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[09Feb2025 14:56:54.217] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.onLoad
-[09Feb2025 14:56:54.218] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file URL: union:/workspaces/msx/servidor_minecraft/mods/OptiFine_1.20.1_HD_U_I6.jar%23114!/
-[09Feb2025 14:56:54.228] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file: /workspaces/msx/servidor_minecraft/mods/OptiFine_1.20.1_HD_U_I6.jar
-[09Feb2025 14:56:54.230] [main/INFO] [optifine.OptiFineTransformer/]: Target.PRE_CLASS is available
-[09Feb2025 14:56:54.315] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/msx/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[09Feb2025 14:56:54.326] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.initialize
-[09Feb2025 14:56:54.787] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/msx/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[09Feb2025 14:56:54.790] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/msx/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[09Feb2025 14:56:54.794] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/msx/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[09Feb2025 14:56:54.798] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/msx/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[09Feb2025 14:56:55.044] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 8 dependencies adding them to mods collection
-[09Feb2025 14:56:55.853] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.transformers
-[09Feb2025 14:56:55.865] [main/INFO] [optifine.OptiFineTransformer/]: Targets: 412
-[09Feb2025 14:56:56.765] [main/INFO] [optifine.OptiFineTransformationService/]: additionalClassesLocator: [optifine., net.optifine.]
-[09Feb2025 14:56:57.716] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[09Feb2025 14:56:57.760] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[09Feb2025 14:57:08.511] [modloading-worker-0/INFO] [plus.dragons.createdragonlib.DragonLib/]: Create: Dragon Lib 1.4.3 has initialized, ready to support your Create add-ons!
-[09Feb2025 14:57:08.733] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[09Feb2025 14:57:08.733] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[09Feb2025 14:57:09.263] [modloading-worker-0/INFO] [thedarkcolour.kotlinforforge.test.KotlinForForge/]: Kotlin For Forge Enabled!
-[09Feb2025 14:57:09.924] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 7.87.
-[09Feb2025 14:57:14.670] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
-[09Feb2025 14:57:14.673] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
-[09Feb2025 14:57:14.721] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
-[09Feb2025 14:57:14.722] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
-[09Feb2025 14:57:14.870] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[09Feb2025 14:57:15.498] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.27
-[09Feb2025 14:57:15.498] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Starting version check at https://api.modrinth.com/updates/flywheel/forge_updates.json
-[09Feb2025 14:57:15.812] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Found status: BETA Current: 0.6.11-13 Target: null
-[09Feb2025 14:57:15.812] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
-[09Feb2025 14:57:15.864] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: UP_TO_DATE Current: 9.1.16 Target: null
-[09Feb2025 14:57:20.293] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[09Feb2025 14:57:22.761] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/msx/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23129!/assets/.mcassetsroot' uses unexpected schema
-[09Feb2025 14:57:22.766] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/msx/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23129!/data/.mcassetsroot' uses unexpected schema
-[09Feb2025 14:57:25.385] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag minecraft:overworld_carver_replaceables as it is missing following references: createteleporters:deleted_mod_element (from createteleporters2.2-1.20.1.jar)
-[09Feb2025 14:57:26.688] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/electrum_ingot recipe (createaddition:rolling/electrum_ingot) specified a duration. Durations have no impact on this type of recipe.
-[09Feb2025 14:57:26.745] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/brass_ingot recipe (createaddition:rolling/brass_ingot) specified a duration. Durations have no impact on this type of recipe.
-[09Feb2025 14:57:26.748] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/electrum_plate recipe (createaddition:rolling/electrum_plate) specified a duration. Durations have no impact on this type of recipe.
-[09Feb2025 14:57:26.764] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/iron_ingot recipe (createaddition:rolling/iron_ingot) specified a duration. Durations have no impact on this type of recipe.
-[09Feb2025 14:57:26.772] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/copper_ingot recipe (createaddition:rolling/copper_ingot) specified a duration. Durations have no impact on this type of recipe.
-[09Feb2025 14:57:26.774] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/copper_plate recipe (createaddition:rolling/copper_plate) specified a duration. Durations have no impact on this type of recipe.
-[09Feb2025 14:57:26.781] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/iron_plate recipe (createaddition:rolling/iron_plate) specified a duration. Durations have no impact on this type of recipe.
-[09Feb2025 14:57:26.803] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/gold_ingot recipe (createaddition:rolling/gold_ingot) specified a duration. Durations have no impact on this type of recipe.
-[09Feb2025 14:57:26.805] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/straw recipe (createaddition:rolling/straw) specified a duration. Durations have no impact on this type of recipe.
-[09Feb2025 14:57:26.818] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/gold_plate recipe (createaddition:rolling/gold_plate) specified a duration. Durations have no impact on this type of recipe.
-[09Feb2025 14:57:26.829] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 26 recipes
-[09Feb2025 14:57:27.067] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2391 advancements
-[09Feb2025 14:57:27.079] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 10 curio slots
-[09Feb2025 14:57:27.088] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
-[09Feb2025 14:57:27.139] [main/WARN] [net.minecraftforge.registries.NamespacedWrapper/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:block] are present in data pack: minecraft:overworld_carver_replaceables
-[09Feb2025 14:57:29.008] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[09Feb2025 14:57:29.008] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[09Feb2025 14:57:29.009] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[09Feb2025 14:57:29.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[09Feb2025 14:57:29.357] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[09Feb2025 14:57:29.396] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[09Feb2025 14:57:29.604] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[09Feb2025 14:57:29.605] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[09Feb2025 14:57:29.606] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[09Feb2025 14:57:29.606] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[09Feb2025 14:57:29.718] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[09Feb2025 14:57:36.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[09Feb2025 14:57:45.661] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[09Feb2025 14:57:45.663] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[09Feb2025 14:57:45.664] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[09Feb2025 14:57:45.665] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[09Feb2025 14:57:45.668] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[09Feb2025 14:57:45.669] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[09Feb2025 14:57:45.670] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[09Feb2025 14:57:45.672] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[09Feb2025 14:57:45.673] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[09Feb2025 14:57:45.675] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[09Feb2025 14:57:45.679] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[09Feb2025 14:57:45.680] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[09Feb2025 14:57:45.680] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[09Feb2025 14:57:45.684] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[09Feb2025 14:57:45.685] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[09Feb2025 14:57:45.686] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[09Feb2025 14:57:45.687] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[09Feb2025 14:57:45.688] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[09Feb2025 14:57:45.724] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[09Feb2025 14:57:46.224] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[09Feb2025 14:57:46.724] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[09Feb2025 14:57:47.224] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[09Feb2025 14:57:47.731] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 18%
-[09Feb2025 14:57:48.202] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 11479 ms
-[09Feb2025 14:57:48.210] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (18.580s)! For help, type "help"
-[09Feb2025 14:57:48.263] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[09Feb2025 14:58:18.763] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: luis_gamer_YT[/10.147.20.223:57878] logged in with entity id 2 at (-502.0284066635434, 71.0, -152.60818572183138)
-[09Feb2025 14:58:19.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luis_gamer_YT joined the game
-[09Feb2025 14:58:21.312] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2345ms or 46 ticks behind
-[09Feb2025 14:59:55.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Set own game mode to Spectator Mode]
-[09Feb2025 15:00:14.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Set own game mode to Survival Mode]
-[09Feb2025 15:00:18.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Set own game mode to Spectator Mode]
-[09Feb2025 15:00:26.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Set own game mode to Survival Mode]
-[09Feb2025 15:00:48.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Gave 2 [Shulker Box] to luis_gamer_YT]
-[09Feb2025 15:02:39.131] [Server thread/INFO] [net.createteleporters.CreateteleportersMod/]: execute in minecraft:overworld run tp @e[team=tp] -978.5 71.0 -168.5
-[09Feb2025 15:02:39.168] [Server thread/INFO] [net.createteleporters.CreateteleportersMod/]: execute in minecraft:overworld run tp @e[team=tp] -978.5 71.0 -168.5
-[09Feb2025 15:02:39.219] [Server thread/INFO] [net.createteleporters.CreateteleportersMod/]: execute in minecraft:overworld run tp @e[team=tp] -978.5 71.0 -168.5
-[09Feb2025 15:02:39.268] [Server thread/INFO] [net.createteleporters.CreateteleportersMod/]: execute in minecraft:overworld run tp @e[team=tp] -978.5 71.0 -168.5
-[09Feb2025 15:02:42.270] [Server thread/INFO] [net.createteleporters.CreateteleportersMod/]: execute in minecraft:overworld run tp @e[team=tp] -978.5 71.0 -168.5
-[09Feb2025 15:02:47.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Set own game mode to Spectator Mode]
-[09Feb2025 15:02:48.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Set own game mode to Survival Mode]
-[09Feb2025 15:03:01.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Set the time to 1000]
-[09Feb2025 15:03:16.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Set own game mode to Spectator Mode]
-[09Feb2025 15:03:21.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Set own game mode to Survival Mode]
-[09Feb2025 15:05:07.021] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: luis_gamer_YT was kicked for floating too long!
-[09Feb2025 15:05:07.022] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: luis_gamer_YT lost connection: Disconnected
-[09Feb2025 15:05:07.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luis_gamer_YT left the game
-[09Feb2025 15:05:07.244] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[09Feb2025 15:05:25.947] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: luis_gamer_YT[/10.147.20.223:57908] logged in with entity id 619 at (-922.36962681843, 72.18399198442299, -229.56764179227892)
-[09Feb2025 15:05:26.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luis_gamer_YT joined the game
-[09Feb2025 15:05:34.721] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: luis_gamer_YT was kicked for floating too long!
-[09Feb2025 15:05:34.722] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: luis_gamer_YT lost connection: Flying is not enabled on this server
-[09Feb2025 15:05:34.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luis_gamer_YT left the game
-[09Feb2025 15:05:34.803] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[09Feb2025 15:05:52.082] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: luis_gamer_YT[/10.147.20.223:57911] logged in with entity id 794 at (-925.9653045574869, 69.66399198442289, -229.72039266081424)
-[09Feb2025 15:05:52.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luis_gamer_YT joined the game
-[09Feb2025 15:06:21.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Block entity timings data has been cleared!]
-[09Feb2025 15:09:43.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Gave 100 [Jungle Log] to luis_gamer_YT]
-[09Feb2025 15:12:59.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Set own game mode to Spectator Mode]
-[09Feb2025 15:13:06.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Set own game mode to Survival Mode]
-[09Feb2025 15:13:14.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Set own game mode to Spectator Mode]
-[09Feb2025 15:13:48.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Set own game mode to Survival Mode]
-[09Feb2025 15:13:49.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Set own game mode to Spectator Mode]
-[09Feb2025 15:13:50.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Set own game mode to Survival Mode]
-[09Feb2025 15:13:51.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Set own game mode to Spectator Mode]
-[09Feb2025 15:13:51.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Set own game mode to Survival Mode]
-[09Feb2025 15:14:00.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Set own game mode to Spectator Mode]
-[09Feb2025 15:14:03.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Set own game mode to Survival Mode]
-[09Feb2025 15:14:14.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Set the time to 1000]
-[09Feb2025 15:14:39.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Set own game mode to Spectator Mode]
-[09Feb2025 15:15:18.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Set own game mode to Survival Mode]
-[09Feb2025 15:17:37.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Gave 200 [Oak Log] to luis_gamer_YT]
-[09Feb2025 15:21:10.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Gave 100 [Glass] to luis_gamer_YT]
-[09Feb2025 15:24:06.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Gave 100 [Glass] to luis_gamer_YT]
-[09Feb2025 15:25:33.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Gave 1 [Stonecutter] to luis_gamer_YT]
-[09Feb2025 15:28:39.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Applied enchantment Silk Touch to luis_gamer_YT's item]
-[09Feb2025 15:31:11.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Gave 1 [Copper Door] to luis_gamer_YT]
-[09Feb2025 15:33:49.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Set own game mode to Creative Mode]
-[09Feb2025 15:36:48.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Set own game mode to Survival Mode]
-[09Feb2025 15:37:38.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Set own game mode to Creative Mode]
-[09Feb2025 15:37:46.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Set own game mode to Survival Mode]
-[09Feb2025 15:41:43.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Gave 1 [Contraption Controls] to luis_gamer_YT]
-[09Feb2025 15:42:30.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Gave 1 [Redstone Contact] to luis_gamer_YT]
-[09Feb2025 15:42:31.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Gave 1 [Redstone Contact] to luis_gamer_YT]
-[09Feb2025 15:42:32.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Gave 1 [Redstone Contact] to luis_gamer_YT]
-[09Feb2025 15:42:32.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Gave 1 [Redstone Contact] to luis_gamer_YT]
-[09Feb2025 15:42:52.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Gave 1 [Diamond Shovel] to luis_gamer_YT]
-[09Feb2025 15:42:58.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Gave 1 [Diamond Pickaxe] to luis_gamer_YT]
-[09Feb2025 15:43:05.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Applied enchantment Efficiency V to luis_gamer_YT's item]
-[09Feb2025 15:43:07.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Applied enchantment Efficiency V to luis_gamer_YT's item]
-[09Feb2025 15:43:14.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Applied enchantment Unbreaking III to luis_gamer_YT's item]
-[09Feb2025 15:43:17.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Applied enchantment Unbreaking III to luis_gamer_YT's item]
-[09Feb2025 15:44:00.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Gave 1 [Torch] to luis_gamer_YT]
-[09Feb2025 15:44:06.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Gave 64 [Torch] to luis_gamer_YT]
-[09Feb2025 15:49:57.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Set own game mode to Creative Mode]
-[09Feb2025 15:54:02.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Set own game mode to Spectator Mode]
-[09Feb2025 15:54:07.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Set own game mode to Creative Mode]
-[09Feb2025 15:54:10.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Set own game mode to Spectator Mode]
-[09Feb2025 15:54:12.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Set own game mode to Creative Mode]
-[09Feb2025 15:54:20.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Set own game mode to Spectator Mode]
-[09Feb2025 15:54:23.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Set own game mode to Creative Mode]
-[09Feb2025 15:57:16.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Set own game mode to Spectator Mode]
-[09Feb2025 15:57:20.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Set own game mode to Creative Mode]
-[09Feb2025 16:00:18.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Set own game mode to Spectator Mode]
-[09Feb2025 16:00:20.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Set own game mode to Creative Mode]
-[09Feb2025 16:00:21.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Set own game mode to Spectator Mode]
-[09Feb2025 16:00:24.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Set own game mode to Creative Mode]
-[09Feb2025 16:02:30.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Set own game mode to Survival Mode]
-[09Feb2025 16:05:40.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Set own game mode to Spectator Mode]
-[09Feb2025 16:05:44.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Set own game mode to Survival Mode]
-[09Feb2025 16:05:58.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Set own game mode to Spectator Mode]
-[09Feb2025 16:06:00.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Set own game mode to Survival Mode]
-[09Feb2025 16:06:10.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Set own game mode to Spectator Mode]
-[09Feb2025 16:06:12.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Set own game mode to Survival Mode]
-[09Feb2025 16:06:13.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Set own game mode to Spectator Mode]
-[09Feb2025 16:06:15.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Set own game mode to Survival Mode]
-[09Feb2025 16:06:39.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Set own game mode to Spectator Mode]
-[09Feb2025 16:06:42.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Set own game mode to Survival Mode]
-[09Feb2025 16:06:45.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Set own game mode to Spectator Mode]
-[09Feb2025 16:06:50.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Set own game mode to Survival Mode]
-[09Feb2025 16:07:09.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Set own game mode to Spectator Mode]
-[09Feb2025 16:07:14.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Set own game mode to Survival Mode]
-[09Feb2025 16:09:00.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Set own game mode to Spectator Mode]
-[09Feb2025 16:09:10.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Set own game mode to Survival Mode]
-[09Feb2025 16:09:22.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Set own game mode to Spectator Mode]
-[09Feb2025 16:09:26.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Set own game mode to Survival Mode]
-[09Feb2025 16:09:31.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Set own game mode to Spectator Mode]
-[09Feb2025 16:09:40.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Set own game mode to Survival Mode]
-[09Feb2025 16:10:20.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Set own game mode to Spectator Mode]
-[09Feb2025 16:10:24.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Set own game mode to Survival Mode]
-[09Feb2025 16:10:30.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Set own game mode to Spectator Mode]
-[09Feb2025 16:10:37.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Set own game mode to Survival Mode]
-[09Feb2025 16:12:18.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Set own game mode to Spectator Mode]
-[09Feb2025 16:12:19.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Set own game mode to Survival Mode]
-[09Feb2025 16:14:35.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Applied enchantment Unbreaking III to luis_gamer_YT's item]
-[09Feb2025 16:14:38.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Applied enchantment Efficiency V to luis_gamer_YT's item]
-[09Feb2025 16:15:41.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Gave 100 [Oak Log] to luis_gamer_YT]
-[09Feb2025 16:18:51.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Gave 100 [Framed Glass] to luis_gamer_YT]
-[09Feb2025 16:24:15.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luis_gamer_YT fell from a high place
-[09Feb2025 16:24:21.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Set own game mode to Spectator Mode]
-[09Feb2025 16:25:37.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luis_gamer_YT was killed
-[09Feb2025 16:25:37.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Killed luis_gamer_YT]
-[09Feb2025 16:26:30.406] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: luis_gamer_YT moved too quickly! -3.282316808848236,0.0,-10.314259220075542
-[09Feb2025 16:27:00.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Set own game mode to Creative Mode]
-[09Feb2025 16:27:16.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Set own game mode to Spectator Mode]
-[09Feb2025 16:27:24.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Set own game mode to Creative Mode]
-[09Feb2025 16:36:36.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Set own game mode to Spectator Mode]
-[09Feb2025 16:36:39.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Set own game mode to Creative Mode]
-[09Feb2025 16:36:56.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Set own game mode to Spectator Mode]
-[09Feb2025 16:37:02.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Set own game mode to Creative Mode]
-[09Feb2025 16:37:07.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Set own game mode to Spectator Mode]
-[09Feb2025 16:37:09.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [luis_gamer_YT: Set own game mode to Creative Mode]
+[13:05:50] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[13:05:50] [ServerMain/INFO]: Found new data pack file/bukkit, loading it automatically
+[13:05:53] [ServerMain/INFO]: Loaded 7 recipes
+[13:05:54] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[13:05:54] [Server thread/INFO]: Loading properties
+[13:05:54] [Server thread/INFO]: This server is running Paper version git-Paper-196 (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT) (Git: 773dd72)
+[13:05:55] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[13:05:55] [Server thread/INFO]: Using 4 threads for Netty based IO
+[13:05:56] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[13:05:56] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+    We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
+    For more information please visit: https://github.com/PaperMC/Paper/issues/8948
+[13:05:57] [Server thread/INFO]: Default game type: SURVIVAL
+[13:05:57] [Server thread/INFO]: Generating keypair
+[13:05:57] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:05:57] [Server thread/INFO]: Using epoll channel type
+[13:05:57] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[13:05:57] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[13:05:57] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[13:05:57] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[13:05:57] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[13:05:57] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[13:05:57] [Server thread/INFO]: Preparing level "world"
+[13:06:13] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[13:06:13] [Server thread/INFO]: Time elapsed: 241 ms
+[13:06:13] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[13:06:13] [Server thread/INFO]: Time elapsed: 290 ms
+[13:06:13] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[13:06:13] [Server thread/INFO]: Time elapsed: 162 ms
+[13:06:13] [Server thread/INFO]: Running delayed init tasks
+[13:06:13] [Server thread/INFO]: Done (19.359s)! For help, type "help"
+[13:06:13] [Server thread/INFO]: Timings Reset
+[13:06:31] [Server thread/INFO]: Server Plugins (0):
